@@ -24,4 +24,4 @@ Data Ini Dimiliki Oleh **"Smk Gelora Bekasi"**
 
 ## want buy more data ? call me : +62 819-3874-4941
 
-[![wkw](https://github.com/RizkyDaffy/gelora-data/blob/main/assets/701f1de4e4c328cd764640d6e6afca67.gif?raw=true "wkw")](https://github.com/RizkyDaffy/gelora-data/blob/main/assets/701f1de4e4c328cd764640d6e6afca67.gif?raw=true "wkw")
+[![wkw](https://github.com/fuckgelora/gelora/blob/main/assets/701f1de4e4c328cd764640d6e6afca67.gif "wkw")](https://github.com/fuckgelora/gelora/blob/main/assets/701f1de4e4c328cd764640d6e6afca67.gif "wkw")
