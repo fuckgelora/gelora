@@ -1,0 +1,2 @@
+# gelora
+semua data gelora 
