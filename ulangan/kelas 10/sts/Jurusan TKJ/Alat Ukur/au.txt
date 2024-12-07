@@ -1,0 +1,627 @@
+Daftar Soal
+Topik = ALAT UKUR-X-TKJ-STS
+1 	
+
+Alat yang paling tepat digunakan untuk mengukur kecepatan koneksi internet adalah
+	
+		
+
+Ping
+	
+		
+
+Task Manager
+	
+	Benar 	
+
+ Speedtest
+	
+		
+
+ Power Meter
+	
+		
+
+CPU-Z
+	
+----------------------------------------------------------------------------
+2 	
+
+Untuk mengukur penggunaan sumber daya sistem seperti CPU, RAM, dan jaringan pada Windows, kita bisa menggunakan
+	
+		
+
+  CrystalDiskMark
+	
+	Benar 	
+
+ Task Manager
+	
+		
+
+  Wireshark
+	
+		
+
+ CPU-Z
+	
+		
+
+ Speedtest
+	
+----------------------------------------------------------------------------
+3 	
+
+Alat yang digunakan untuk menganalisis lalu lintas jaringan pada tingkat paket adalah
+	
+		
+
+Ping
+	
+		
+
+ GPU-Z
+	
+	Benar 	
+
+Wireshark
+	
+		
+
+ Task Manager
+	
+		
+
+ CPU-Z
+	
+----------------------------------------------------------------------------
+4 	
+
+Alat yang digunakan ini untuk mengukur specificasi dan performa dari CPU adalah:
+	
+		
+
+gpu-z
+	
+		
+
+ CrystalDiskMark
+	
+		
+
+ Task Manager
+	
+	Benar 	
+
+ CPU-Z
+	
+		
+
+Wireshark
+	
+----------------------------------------------------------------------------
+5 	
+
+Apa satuan yang digunakan untuk mengukur kapasitas penyimpanan data pada hard disk drive (HDD) dan solid-state drive (SSD)
+	
+		
+
+Hertz (Hz)
+	
+	Benar 	
+
+ Byte (B)
+	
+		
+
+Watt (W)
+	
+		
+
+ Pixel (px)
+	
+		
+
+ Volt (V)
+	
+----------------------------------------------------------------------------
+6 	
+
+Apa fungsi utama dari alat ukur komputer (seperti penggaris digital atau alat ukur laser) dalam konteks desain grafs
+	
+		
+
+    Menampilkan warna dan efek visual objek. 
+	
+	Benar 	
+
+    Mengukur dimensi dan jarak antar objek dengan akurasi tinggi.
+	
+		
+
+    Mengedit teks dalam dokumen. 
+	
+		
+
+  Mencetak desain grafs ke media fsik. 
+	
+		
+
+  Mengatur ukuran fle gambar.
+	
+----------------------------------------------------------------------------
+7 	
+
+Seorang teknisi menggunakan software HDD Sentinel untuk mengecek kesehatan hard drive. Berdasarkan hasil pengukuran, hard drive tersebut memiliki 5% bad sector. Apa satuan yang digunakan untuk mengukur kapasitas penyimpanan hard drive
+	
+		
+
+.Bit
+	
+	Benar 	
+
+ Byte
+	
+		
+
+ Hertz
+	
+		
+
+ Ohm
+	
+		
+
+ Ampere
+	
+----------------------------------------------------------------------------
+8 	
+
+Seorang teknisi menggunakan Task Manager di komputer untuk memantau penggunaan RAM. Tercatat bahwa komputer menggunakan 6 GB dari total 8 GB RAM. Apa alat ukur yang digunakan untuk memantau penggunaan RAM
+	
+	Benar 	
+
+Task Manager
+	
+		
+
+ BIOS
+	
+		
+
+ Control Panel
+	
+		
+
+ File Explorer
+	
+		
+
+ PowerShell
+	
+----------------------------------------------------------------------------
+9 	
+
+Apa fungsi utama dari alat pengukur suhu pada komputer
+	
+		
+
+Mengukur kecepatan prosesor
+	
+		
+
+ Mengukur arus listrik
+	
+	Benar 	
+
+ Mengukur suhu komponen untuk mencegah overheating
+	
+		
+
+ Mengukur kapasitas memori
+	
+		
+
+ Mengukur kecepatan hard drive
+	
+----------------------------------------------------------------------------
+10 	
+
+Alat ukur yang digunakan untuk mengukur performa jaringan pada komputer adalah
+	
+	Benar 	
+
+Wireshark
+	
+		
+
+ Speedometer
+	
+		
+
+ Oscilloscope
+	
+		
+
+ Logic Analyzer
+	
+		
+
+ Task Manager
+	
+----------------------------------------------------------------------------
+11 	
+
+Seorang teknisi menggunakan Task Manager di komputer untuk memantau penggunaan RAM. Tercatat bahwa komputer menggunakan 6 GB dari total 8 GB RAM. Apa alat ukur yang digunakan untuk memantau penggunaan RAM
+	
+	Benar 	
+
+Task Manager
+	
+		
+
+ BIOS
+	
+		
+
+ Control Panel
+	
+		
+
+ File Explorer
+	
+		
+
+ PowerShell
+	
+----------------------------------------------------------------------------
+12 	
+
+Seorang teknisi sedang mengukur kecepatan prosesor pada komputer menggunakan software benchmark. Prosesor yang diukur memiliki kecepatan 3,5 GHz. Apa alat atau metode yang biasa digunakan untuk mengukur kecepatan prosesor
+	
+		
+
+Multimeter
+	
+		
+
+ Oscilloscope
+	
+	Benar 	
+
+ Benchmarking software
+	
+		
+
+Speedometer
+	
+		
+
+ Anemometer
+	
+----------------------------------------------------------------------------
+13 	
+
+Microsoft Windows merupakan sistem operasi komputer yang berbasis
+	
+		
+
+    Graphical Universal Interface
+	
+		
+
+    Picture User Interface
+	
+		
+
+ Text User Interface
+	
+		
+
+  Graphical and Picture Interface
+	
+	Benar 	
+
+Graphic User Interface
+	
+----------------------------------------------------------------------------
+14 	
+
+Yang disebut alat yang tepat untuk mengukur kecepatan proses data adalah
+	
+		
+
+Multimeter
+	
+		
+
+ Oscilloscope
+	
+		
+
+Network Analyzer
+	
+	Benar 	
+
+ Performance Monitor
+	
+		
+
+Logic Analyzer
+	
+----------------------------------------------------------------------------
+15 	
+
+Apa fungsi spectrum meter
+	
+	Benar 	
+
+untuk mengukur kekuatan sinyal RF pada pita frekuensi tertentu.
+	
+		
+
+untuk mengukur resistansi atau hambatan listrik, serta daya listrik pada rangkaian listrik.
+	
+		
+
+memberikan akses ke jaringan komputer secara nirkabel.
+	
+		
+
+mengukur besar tegangan listrik yang ada di suatu rangkaian listrik dalam besaran dan satuan tertentu.
+	
+		
+
+untuk mempercepat jaringan komputer
+	
+----------------------------------------------------------------------------
+16 	
+
+Apa kepanjangan dari UTP
+	
+	Benar 	
+
+Unshielded Twisted Pair
+	
+		
+
+ Utility Twisted Pair
+	
+		
+
+Unity Twisted Pair
+	
+		
+
+ Unicom Twisted partner
+	
+		
+
+ Upcoming Twisted partner
+	
+----------------------------------------------------------------------------
+17 	
+
+Pada komputer ada yang namanya CMOS, untuk apakah fungsi CMOS tersebut
+	
+		
+
+Untuk mendinginkan monitor
+	
+		
+
+ Untuk memanalisir panas
+	
+	Benar 	
+
+ Menyimpan informasi data komputer
+	
+		
+
+ Mendinginkan power supplay
+	
+		
+
+Semua jawaban benar
+	
+----------------------------------------------------------------------------
+18 	
+
+Untuk menampilkan sistem operasi dari CPU ke monitor, apa kabel yang umum digunakan
+	
+	Benar 	
+
+Kabel VGA
+	
+		
+
+Kabel USB to Serial
+	
+		
+
+Kabel Rollan
+	
+		
+
+ Kabel UTP
+	
+		
+
+ Kabel HDMI
+	
+----------------------------------------------------------------------------
+19 	
+
+Apa kepanjangan dari RAM
+	
+		
+
+Random Access Memory
+	
+	Benar 	
+
+ Random Access Mobility
+	
+		
+
+ Request Access Melatic
+	
+		
+
+ Random Actual Memory
+	
+		
+
+ Jawaban diatas salah semua
+	
+----------------------------------------------------------------------------
+20 	
+
+Untuk belajar virtualiasi membuat jaringan cisco, software apa yang digunakan.
+	
+		
+
+Cisco packet tracer
+	
+		
+
+ Winbox
+	
+		
+
+ GNS3
+	
+	Benar 	
+
+ Jawaban b dan C benar
+	
+		
+
+ Jawaban b dan C salah
+	
+----------------------------------------------------------------------------
+21 	
+
+Untuk membuat layanan pendistributian IP address agar otomatis, kita perlu membuat konfigurasi
+	
+	Benar 	
+
+DHCP Server
+	
+		
+
+ DHCP Client
+	
+		
+
+FTP Server
+	
+		
+
+ IP Server
+	
+		
+
+ PPPOE
+	
+----------------------------------------------------------------------------
+22 	
+
+Apa kekurangan tidak menggunakan DHCP Server
+	
+		
+
+Tidak masalah
+	
+	Benar 	
+
+ Harus melakukan konfigurasi secara static pada setiap pengguna
+	
+		
+
+ Lebih mudah
+	
+		
+
+ IP dibagikan secara otomatis
+	
+		
+
+ Agar berbagi alamat secara otomatis
+	
+----------------------------------------------------------------------------
+23 	
+
+Untuk mengizinkan internet berjalan di mikrotik adalah perintah
+	
+		
+
+Passthrough
+	
+	Benar 	
+
+ Jump
+	
+		
+
+ Netmap
+	
+		
+
+ Accept
+	
+	Benar 	
+
+ Masquerade
+	
+----------------------------------------------------------------------------
+24 	
+
+ Perintah mana dibawah ini yang digunakan untuk melakukan test ping internet pada Google
+	
+		
+
+ping google,com
+	
+		
+
+ pings google,com
+	
+	Benar 	
+
+ ping google.com
+	
+		
+
+ ping -t google.com
+	
+		
+
+ t ping google.com
+	
+----------------------------------------------------------------------------
+25 	
+
+Pilih manakah yang benar urutan kabel straight yang benar
+	
+		
+
+Putih orange – orange, Putih hijau – Biru, Putih biru – Hijau, coklat- putih coklat
+	
+	Benar 	
+
+ Putih orange – orange, Putih hijau – Biru, Putih biru – Hijau, Putih coklat-coklat.
+	
+		
+
+ Putih orange – orange, Biru – Putih hijau, Putih biru – Hijau, coklat- putih coklat.
+	
+		
+
+ Putih coklat-coklat, Putih orange – orange, Putih hijau – Biru, Putih biru – Hijau
+	
+		
+
+ Putih coklat-coklat, Putih orange – orange, Putih biru – Biru, Putih hijau – Hijau
+	
+----------------------------------------------------------------------------
