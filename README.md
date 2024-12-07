@@ -1,5 +1,5 @@
 <center>
-  <img src="https://github.com/RizkyDaffy/gelora-data/blob/main/assets/8bce64cc2a5ccb20c952c5a7c77dd932.gif?raw=true" style="text-align: center;" alt="dedsec">
+  <img src="https://github.com/fuckgelora/gelora/blob/main/assets/8bce64cc2a5ccb20c952c5a7c77dd932.gif?raw=true" style="text-align: center;" alt="dedsec">
 </center>
 
 # 💀 |  Data Gelora 
