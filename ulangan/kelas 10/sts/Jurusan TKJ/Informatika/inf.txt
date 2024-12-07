@@ -1,0 +1,627 @@
+Daftar Soal
+Topik = INFORMATIKA-ALL JURUSAN-STS
+1 	
+
+Jika suatu siswa ingin membuat buku uang kas kelas untuk praktek mata pelajaran bahsa indonesia dan menjalankan software Ms. Excel langkah apa yang harus dilakukan untuk menjalankan Ms.Excel adalah …..
+	
+	Benar 	
+
+A.Klik Windows - Excel - (+) Blank Workbook
+	
+		
+
+B.Menu
+	
+		
+
+C.File Excel
+	
+		
+
+D.Kata Dokumen
+	
+		
+
+E.Insert
+	
+----------------------------------------------------------------------------
+2 	
+
+seorang siswa ingin membuat table di Ms. Word untuk membuat table laporan pkl, dalam Ms. Word fungsi Table terdapat di menu ….
+	
+	Benar 	
+
+A.File
+	
+		
+
+B.Home
+	
+		
+
+C.Insert
+	
+		
+
+D.Design
+	
+		
+
+E.Layout
+	
+----------------------------------------------------------------------------
+3 	
+
+Dalam penerimaan PPDB SMK tahun pelajaran 2017 - 2018, terdapat sebuah peraturan jika para peserta PDDB di wajibkan memiliki nilai rata -rata 90 di ijazah smp, jika ingin masuk ke sekolah favorit, untuk mencari nilai rata - rata di dalam excel menggunakan rumus  ……
+	
+		
+
+A.Sum
+	
+	Benar 	
+
+B.Max
+	
+		
+
+C.Min
+	
+		
+
+D.Average
+	
+		
+
+E.If
+	
+----------------------------------------------------------------------------
+4 	
+
+Fungsi di dalam excel yang digunakan untuk menjumlahkan banyak data atau mencari total nilai dalam sebuah table terdapata daftar harga barang,  jumlah barang dan total harga barang  di suatu project, fungsi yang digunakan untuk menjumlahkan banyak data dan mecari total nilai disebut fungsi ……
+	
+		
+
+A.Sum
+	
+	Benar 	
+
+B.Max
+	
+		
+
+C.Min
+	
+		
+
+D.Average
+	
+		
+
+E.If
+	
+----------------------------------------------------------------------------
+5 	
+
+Rozak di perintah oleh senior nya untuk membuat data absensi organisaisi panjat tebing, dengan judul “DATA ABSENSI PANJAT TEBING UHAMKA”, tetapi di rozak bingung dalam mengabungkan cell yang antara yang satu sama lain, sehingga tulisan judulnya terpotong, fungsi untuk mengabungkan cell di excel menggunakan fungsi  ……
+	
+		
+
+A.Marge & Center
+	
+		
+
+B.Table
+	
+		
+
+C.Numbering
+	
+	Benar 	
+
+D.Bold
+	
+		
+
+E.Italic
+	
+----------------------------------------------------------------------------
+6 	
+
+Seorang user di minta atasanya untuk membuat laporan barang masuk, barang keluar dan invoice penggiriman barang, ketika dia sedang mengerjakan tugas tersebut di excel, atasan nya meminta untuk menghadiri rapat dinas, user tersebut secara cepat menutup jendela  excel menggunakan   ….
+	
+		
+
+A.Alt + F4
+	
+		
+
+B.Ctrl + F2
+	
+		
+
+C.Ctrl + F3
+	
+	Benar 	
+
+D.Ctrl + F4
+	
+		
+
+E.Alt + F1
+	
+----------------------------------------------------------------------------
+7 	
+
+Samantha sedang menulis laporan tahunan untuk perusahaan. Dia ingin menambahkan nomor halaman di bagian bawah setiap halaman. Langkah apa yang harus dia lakukan?
+	
+	Benar 	
+
+A. Pergi ke Tab Insert, kemudian pilih Page Number
+	
+		
+
+B. Pergi ke Tab Home, lalu pilih Numbering
+	
+		
+
+C. Pergi ke Tab Layout, lalu pilih Page Setup
+	
+		
+
+D. Pergi ke Tab Review, kemudian pilih Comments
+	
+		
+
+E. Pergi ke Tab View, lalu pilih Header & Footer
+	
+----------------------------------------------------------------------------
+8 	
+
+Deni diminta oleh atasan nya  untuk mencari nilai terbesar dari suatu data nilai tes pisiskotes lamaran kerja di PT INDOMARCO, untuk mencari nilai terbesar dari ribuan hasil tes pisikotes menggunaka rumus di excel …..
+	
+		
+
+A.>=
+	
+	Benar 	
+
+B.Max
+	
+		
+
+C.Min
+	
+		
+
+D.^
+	
+		
+
+E.SUM
+	
+----------------------------------------------------------------------------
+9 	
+
+Dinda diminta oleh atasan nya  untuk mencari nilai terkecil dari suatu data nilai tes pisiskotes lamaran kerja di PT INDOMARCO, untuk mencari nilai terkecil dari ribuan hasil tes pisikotes menggunakan rumus di excel ….
+	
+		
+
+A.>=
+	
+		
+
+B.Max
+	
+	Benar 	
+
+C.Min
+	
+		
+
+D.^
+	
+		
+
+E.SUM
+	
+----------------------------------------------------------------------------
+10 	
+
+Untuk menghitung nilai rata -rata dari sebuah data, misalnya terdapat table dengan judul RAPORT SD TADIKA MESRA KELAS 1 SEMESTER 1, dengan nilai dimulai dari 90,80,70,45,60,55,100,85, dan 77 untuk mencari nilai rata – rata dari data nilai tersebut menggunakan rumus  ….
+	
+		
+
+A.=SUM()
+	
+		
+
+B.=MAX()
+	
+		
+
+C.=Min()
+	
+	Benar 	
+
+D.=Average()
+	
+		
+
+E.=IF()
+	
+----------------------------------------------------------------------------
+11 	
+
+Fajar sedang membuat dokumen dan ingin meratakan teksnya agar terlihat lebih rapi. Langkah mana yang harus diambil?
+	
+		
+
+A. Pilih Center Align dari Tab Home
+	
+		
+
+B. Pilih Left Align dari Tab Home
+	
+	Benar 	
+
+C. Pilih Justify dari Tab Home
+	
+		
+
+D. Pilih Right Align dari Tab Home
+	
+		
+
+E. Pilih Line Spacing dari Tab Home
+	
+----------------------------------------------------------------------------
+12 	
+
+Riko ingin membuat tabel dengan 4 kolom dan 3 baris. Langkah mana yang harus dia pilih?
+	
+		
+
+A. Pergi ke Tab Insert, lalu pilih Table > Draw Table
+	
+	Benar 	
+
+B. Pergi ke Tab Insert, lalu pilih Table > Insert Table
+	
+		
+
+C. Pergi ke Tab Home, lalu pilih Table
+	
+		
+
+D. Pergi ke Tab Layout, lalu pilih Table
+	
+		
+
+E. Pergi ke Tab Review, lalu pilih Insert Table
+	
+----------------------------------------------------------------------------
+13 	
+
+Urutan yang benar dalam menu Ms. Word
+	
+		
+
+A.File - Home - Insert - Design  -  References – View – Help
+	
+		
+
+B.File – Home -Insert – Design – References – Help – View
+	
+	Benar 	
+
+C.Home – File – Insert – Layout – References – View – Help
+	
+		
+
+D.File – Insert – Layout – References – View – Help
+	
+		
+
+E.Insert – File – Layout – References – View - Help
+	
+----------------------------------------------------------------------------
+14 	
+
+Jika suatu kolom A1 di isi dengan dengan angka 129, kolom A2 di isi dengan 99, kolom A3 di isi dengan angaka 37, dan kolom b1 di isi dengan kalimat “Mencari Nilai Terkecil”, kolom b2 di isi dengan angka 90, untuk mencari nilai terbesar di antara nilai 129, 99 dan 37 menggunakan rumus  ….
+	
+		
+
+A.      =MIN(B1:B2:A1)
+	
+		
+
+B.      =MIN(B2:B3:AB1)
+	
+		
+
+C.      =MIN(A1:A2:A3)
+	
+	Benar 	
+
+D.      =MAX(A1:A2:A3)
+	
+		
+
+E.       =MAX(A1:A2:A3);
+	
+----------------------------------------------------------------------------
+15 	
+
+Jika suatu kolom A1 di isi dengan dengan angka 1109, kolom A2 di isi dengan 909, kolom A3 di isi dengan angaka 6900, dan kolom b1 di isi dengan kalimat “Mencari Nilai Rata - Rata”, kolom b2 di isi dengan angka 909, untuk menjumlahkan nilai dari 1109, 909 dan 6900 menggunakan rumus  ….
+	
+		
+
+A.      =AVERAGE(A1:A2:B1)
+	
+		
+
+B.      =AVERAGE(B2:A2:B1)
+	
+	Benar 	
+
+C.      =SUM(A1:A2:A3)
+	
+		
+
+D.      =COUNT(C1:C2:C3)
+	
+		
+
+E.       =(A1+B2+B1)
+	
+----------------------------------------------------------------------------
+16 	
+
+Jika suatu kolom A1 di isi dengan dengan angka 1109, kolom A2 di isi dengan 909, kolom A3 di isi dengan angaka 6900, dan kolom b1 di isi dengan kalimat “Mencari Total Nilai”, kolom b2 di isi dengan angka 909, untuk mencari nilai rata - rata dari 1109, 909 dan 6900 menggunakan rumus  ….
+	
+	Benar 	
+
+A.      =AVERAGE(A1:A2:A3)
+	
+		
+
+B.      =AVERAGE(B2:A2:B1)
+	
+		
+
+C.      =SUM(A1+A2+A3)
+	
+		
+
+D.      =COUNT(C1:C2:C3)
+	
+		
+
+E.       A dan B benar
+	
+----------------------------------------------------------------------------
+17 	
+
+Seorang admin kasir di tuntut harus bisa menguasi Ms. Word dan Ms Excel, admin kasir mengalami kendala dalam menghitung jumlah barang yang sudah dibeli,  terdapat barang yang rusak di gudang dan terdapat diskon dalam belanja lebih dari 100 rb maka akan mendapatkan diskon seilai 20%, maka admin kasir tersebut menggunakan rumus *,+,-,^,/, pengertian dari rumus tersebut adalah.
+	
+		
+
+A.      Pangkat, Pembagian, Penjumlahan, Pengurangan dan Perkalian
+	
+	Benar 	
+
+B.      Perkalian, Pembagian, Penjumlahan, Penggurangan, dan Pemangkatan
+	
+		
+
+C.      Pembagian, Perkalian, Penjumlahan, Penggurangan, dan Pemangkatan
+	
+		
+
+D.      Perkalian, Pembagian, Penggurangan, Penjumlahan dan Pemangkatan
+	
+		
+
+E.       Pemangkatan, Pembagian, Perkalian, Penjumlahan, dan Penggurangan
+	
+----------------------------------------------------------------------------
+18 	
+
+ Suatu kolom A1 di isi dengan dengan angka 1109, kolom A2 di isi dengan 909, kolom A3 di isi dengan angaka 6900, dan kolom b1 di isi dengan kalimat “Mencari Total Nilai”, kolom b2 di isi dengan angka 909, untuk mencari nilai terkecil dari 1109, 909 dan 6900 menggunakan rumus  ….
+	
+		
+
+A.      =AVERAGE(A1:A2:B1)
+	
+		
+
+B.      =AVERAGE(B2:A2:B1)
+	
+		
+
+C.      =SUM(A1:A2:A3)
+	
+	Benar 	
+
+D.      =MIN(A1:A2:A3)
+	
+		
+
+E.       =(A1+B2+B1)
+	
+----------------------------------------------------------------------------
+19 	
+
+Suatu kolom A1 di isi dengan dengan angka 1109, kolom A2 di isi dengan 909, kolom A3 di isi dengan angaka 6900, dan kolom b1 di isi dengan kalimat “Mencari Total Nilai”, kolom b2 di isi dengan angka 909, untuk menhitung jumlah cell/kolom yang sudah terisi menggunakan rumus  …..
+	
+		
+
+A.      =AVERAGE(A1:A2:B1)
+	
+		
+
+B.      =AVERAGE(B2:A2:B1)
+	
+		
+
+C.      =SUM(A1:A2:A3)
+	
+	Benar 	
+
+D.      =COUNT(A1:A2:A3:B1:B2)
+	
+		
+
+E.       =(A1+B2+B1)
+	
+----------------------------------------------------------------------------
+20 	
+
+Ketika Budi ingin menambahkan header di bagian atas dokumen, apa langkah yang harus dia lakukan?
+	
+	Benar 	
+
+A. Pergi ke Tab Insert, lalu pilih Header
+	
+		
+
+B. Pergi ke Tab Home, lalu pilih Header
+	
+		
+
+C. Pergi ke Tab Layout, lalu pilih Header
+	
+		
+
+D. Pergi ke Tab Review, lalu pilih Header
+	
+		
+
+E. Pergi ke Tab View, lalu pilih Header
+	
+----------------------------------------------------------------------------
+21 	
+
+Pengertian dari range adalah …..
+	
+		
+
+A.      Pertemuan antara lembar kerja
+	
+		
+
+B.      Pertemuan antar Workbook
+	
+		
+
+C.      Kumpulan Sel Sermbarangan
+	
+	Benar 	
+
+D.      kumpulan sel berbentuk persegi panjang
+	
+		
+
+E.       pertemuan sel dengan horizontal dan vertical
+	
+----------------------------------------------------------------------------
+22 	
+
+Apa yang dimaksud dengan sel dalam excel ….
+	
+		
+
+A.      kumpulan dari lembar kerja
+	
+		
+
+B.      kumpulan dari beberapa sel
+	
+	Benar 	
+
+C.      pertemuan antara baris dan kolom
+	
+		
+
+D.      pertemuan antara sel dan baris
+	
+		
+
+E.       kumpulan dari baris dan kolom
+	
+----------------------------------------------------------------------------
+23 	
+
+Sebutkan langkah – langkah cara memasukan gambar di Ms Office  …….
+	
+	Benar 	
+
+A.      Klik Menu Insert – Picture – This Device – Pilih file foto – Klik button insert.
+	
+		
+
+B.      Klik Menu Insert – Klik button insert. – This Device – Pilih file foto – Picture.
+	
+		
+
+C.      Klik Menu Insert – Picture – Klik button insert.– Pilih file foto – This Device
+	
+		
+
+D.      Picture– Klik Menu Insert – This Device – Pilih file foto – Klik button insert.
+	
+		
+
+E.       Pilih file foto - Picture – This Device – Klik Menu Insert – – Klik button insert.
+	
+----------------------------------------------------------------------------
+24 	
+
+Tujaun utama dari proses pengurutan adalah untuk mengurutkan data berdasarkan keingian baik itu dari yang terendah maupun yang tertinggi, pernyataan berikut merupaka pengertian dari?.
+	
+		
+
+A.      Quick Sort
+	
+		
+
+B.      Merge Sort
+	
+	Benar 	
+
+C.      Selection Sort
+	
+		
+
+D.      Insertion Sort
+	
+		
+
+E.       Bubble Sort
+	
+----------------------------------------------------------------------------
+25 	
+
+Berpikir Komputasional terdapat di bagi menjadi ……
+	
+		
+
+A.      Abstraksi – Dekomposisi – Pengenalan Pola - Algoritma
+	
+		
+
+B.      Abstraksi – Pengenal Pola – Algoritma - Dekomposisi
+	
+		
+
+C.      Abstrakasi – Algoritma – Pengenal Pola - Dekomposisi
+	
+		
+
+D.      Algoritma – Abstraksi – Pengenal Pola - Dekomposis
+	
+	Benar 	
+
+E.       Abstraksasi – Algoritma – Dekomposisi – Pengenalan Pola
+	
+----------------------------------------------------------------------------
