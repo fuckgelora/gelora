@@ -1,0 +1,667 @@
+Daftar Soal
+Topik = PROFESI KWU-X-TKJ-STS
+1 	
+
+Di era teknologi seperti saat ini, transformasi digital menjadi cukup populer di kalangan pebisnis atau perusahaan. Seseorang yang memanfaatkan perkembangan teknologi mutakhir untuk dioptimalkan sebagai basis dalam mengembangkan pengembangan usaha adalah...
+	
+		
+
+Entrepreneur
+	
+	Benar 	
+
+Technopreneur
+	
+		
+
+Ecopreneur
+	
+		
+
+Sociopreneur
+	
+		
+
+Entrepreneur Fireball
+	
+----------------------------------------------------------------------------
+2 	
+
+Ada banyak contoh technopreneur sukses yang berhasil mengembangkan bisnis berbasis teknologi, baik dari luar maupun dalam negeri. Seorang technopreneur pendiri perusahaan Microsoft adalah…
+	
+		
+
+Elon Musk
+	
+		
+
+Mark Zuckerberg
+	
+	Benar 	
+
+Bill Gates
+	
+		
+
+Nadiem Makarim
+	
+		
+
+Steve Jobs
+	
+----------------------------------------------------------------------------
+3 	
+
+Perhatikan beberapa profesi berikut ini :
+1. Programmer
+2. Software Developer
+3. Game Developer
+4. Optical Engineer
+5. Data Scientist
+6. Public Relation
+
+Dari pilihan tersebut yang bukan termasuk profesi di bidang IT adalah nomor...
+	
+		
+
+4
+	
+	Benar 	
+
+4 dan 6
+	
+		
+
+6
+	
+		
+
+5 dan 6
+	
+		
+
+3 dan 4
+	
+----------------------------------------------------------------------------
+4 	
+
+Perkembangan teknologi yang pesat saat ini pada akhirnya membuka peluang kerja baru. Jika sebelumnya hanya segelintir saja profesi yang ditawarkan oleh bidang teknologi informasi, maka saat ini ada banyak pilihan yang bisa di pilih.
+Profesi yang berperan untuk membangun, mengatur, melindungi, dan memelihara sistem yang menyimpan data disebut...
+	
+		
+
+Programmer
+	
+		
+
+Software developer
+	
+	Benar 	
+
+Database administrator
+	
+		
+
+Data Scientist
+	
+		
+
+Analyst system komputer
+	
+----------------------------------------------------------------------------
+5 	
+
+Perhatikan kemampuan-kemampuan dibawah ini :
+1) Data analysis
+2) Bahasa pemrograman database
+3) Analytical thinking
+4) Mengerti tentang SEO
+5) Sistem operasi server
+
+Berikut adalah kemampuan yang perlu dikuasai oleh database administrator kecuali kemampuan pada nomor….
+	
+		
+
+1
+	
+		
+
+2
+	
+		
+
+3
+	
+	Benar 	
+
+4
+	
+		
+
+5
+	
+----------------------------------------------------------------------------
+6 	
+
+Ada banyak contoh technopreneur sukses yang berhasil mengembangkan bisnis berbasis teknologi, baik dari luar maupun dalam negeri. Seorang technopreneur pendiri perusahaan Apple adalah…
+	
+		
+
+Elon Musk
+	
+		
+
+Mark Zuckerberg
+	
+		
+
+Bill Gates
+	
+		
+
+Nadiem Makarim
+	
+	Benar 	
+
+Steve Jobs
+	
+----------------------------------------------------------------------------
+7 	
+
+Perhatikan pernyataan dibawah ini :
+1) Technopreneurship sangat berorientasi pada peluang bisnis dan peningkatan revenue setinggi mungkin
+2) Contoh technopreneurship adalah aplikasi pemesanan makanan
+3) Fokus utama technopreneurship, yaitu menciptakan bisnis yang mengandalkan basis teknologi.
+4) Technopreneurship mengedepankan basis teknologi pada setiap produk dan layanan yang dikembangkan.
+5) Motivasi technopreneurship mengarah ke perubahan system yang sudah ada atau bersifat revolusioner
+
+Dari pernyataan di atas yang tidak tepat mengenai technopreneurship yaitu pernyataan nomor...
+	
+		
+
+(1)
+	
+		
+
+(2)
+	
+		
+
+(3)
+	
+		
+
+(4)
+	
+	Benar 	
+
+(5)
+	
+----------------------------------------------------------------------------
+8 	
+
+Programmer adalah seseorang yang bertugas untuk membuat suatu sistem, aplikasi, atau program menggunakan bahasa pemrograman.
+Berikut merupakan contoh bahasa pemrograman yang digunakan programmer untuk membuat sebuah program, kecuali…
+	
+		
+
+Java
+	
+		
+
+Python
+	
+	Benar 	
+
+Oracle
+	
+		
+
+PHP
+	
+		
+
+C++
+	
+----------------------------------------------------------------------------
+9 	
+
+Kerangka penjenjangan kualifikasi sumber daya manusia indonesia yang menyandingkan, menyetarakan, dan mengintegrasikan sektor pendidikan dengan sektor pelatihan dan pengalaman kerja dalam suatu skema pengakuan kemampuan kerja yang disesuaikan dengan struktur di berbagai sektor pekerjaan adalah...
+	
+	Benar 	
+
+KKNI
+	
+		
+
+SKKNI
+	
+		
+
+LSP
+	
+		
+
+Sertifikasi
+	
+		
+
+RT RW Net
+	
+----------------------------------------------------------------------------
+10 	
+
+Ayah Fadil bekerja di salah satu perusahaan IT. Fadil sering mengamati ayahnya yang mengotak-atik server suatu website. Ayah Fadil selalu memastikan agar website yang dibuat cepat, aman, dan berfungsi sesuai tujuan penggunanya. Pekerjaan Ayah Fadil termasuk jenis web developer, yaitu....
+	
+	Benar 	
+
+Back-end developer
+	
+		
+
+Front-end developer
+	
+		
+
+Midle-end developer
+	
+		
+
+Full-stack developer
+	
+		
+
+Intelligence system developer
+	
+----------------------------------------------------------------------------
+11 	
+
+Lembaga sertifikasi Profesi (LSP) Telekomunikasi merupakan lembaga sertifikasi profesi pihak ke-tiga (P3).
+Berikut kompetensi 9 segment network optimization-radio path pada selular, kecuali skema…
+	
+		
+
+Optimasi Jaringan Radio 4G
+	
+		
+
+Optimasi Jaringan Radio 3G
+	
+		
+
+Analis Drive Test
+	
+		
+
+Analis Optimisasi RF (Radio Frequency)
+	
+	Benar 	
+
+Skema Sertifikasi Okupansi Jointer
+	
+----------------------------------------------------------------------------
+12 	
+
+Perhatikan kemampuan dibawah ini :
+(1) Memiliki kemampuan HTML/CSS dan JavaScript
+(2) Mengetahui cara membuat desain mobile friendly
+(3) Menguasai bahasa pemrograman tertentu
+(4) Bisa menggunakan berbagai tools web developer
+(5) Mengerti tentang SEO (Search Engine Optimization)
+
+Pernyataan di atas merupakan kemampuan yang harus dimiliki seorang...
+	
+		
+
+Database administrator
+	
+	Benar 	
+
+Web developer
+	
+		
+
+Software developer
+	
+		
+
+Data Scientist
+	
+		
+
+Game developer
+	
+----------------------------------------------------------------------------
+13 	
+
+Programmer adalah seseorang yang bertugas untuk membuat suatu sistem, aplikasi, atau program menggunakan bahasa pemrograman.
+Langkah pertama yang dilakukan programmer dalam pembuatan program adalah…
+	
+		
+
+Merancang model sistem
+	
+	Benar 	
+
+Menganalisis kebutuhan program
+	
+		
+
+Menguji program
+	
+		
+
+Melakukan debugging
+	
+		
+
+Menulis kode program
+	
+----------------------------------------------------------------------------
+14 	
+
+Pak Eko memiliki bisnis kecil yang bergerak dalam bidang aplikasi pesan antar makanan di kota A. Pak Eko terkenal sebagai orang yang sangat ulet, ramah, dan jujur di lingkungan tempat tinggalnya. Karna sikapnya tersebut salah satu tetangga Pak Eko yang seorang pembisnis sukses mau berinvestasi pada bisnis Pak Eko. Tak hanya berinvestasi secara pribadi, tetangga Pak Eko bahkan mengajak teman-temannya untuk ikut berinvestasi juga. Kini bisnis Pak Eko menjadi bisnis yang maju dan cakupannya meluas hingga di berbagai daerah di indonesia.
+Hal di atas merupakan contoh pentingnya personal branding, yaitu...
+	
+		
+
+Meningkatkan kredibilitas produk
+	
+		
+
+Nama brand akan di ingat pelanggan dengan baik
+	
+		
+
+Menurunkan kepercayaan konsumen
+	
+	Benar 	
+
+Membangun relasi
+	
+		
+
+Memperluas bisnis
+	
+----------------------------------------------------------------------------
+15 	
+
+Programmer adalah seseorang yang bertugas untuk membuat suatu sistem, aplikasi, atau program menggunakan bahasa pemrograman.
+Langkah yang dilakukan programmer dalam pembuatan program sebelum tahap pengujian program adalah…
+	
+		
+
+Merancang model sistem
+	
+		
+
+Menganalisis kebutuhan program
+	
+		
+
+Menguji program
+	
+	Benar 	
+
+Melakukan debugging
+	
+		
+
+Menulis kode program
+	
+----------------------------------------------------------------------------
+16 	
+
+Microsoft Office adalah serangkaian aplikasi yang dirancang untuk meningkatkan produktivitas penggunanya dalam bekerja. Di dalamnya, terdapat beberapa aplikasi yang dapat digunakan secara terpisah, seperti Ms Word, Ms Excel, Ms PowerPoint, Ms Outlook, hingga Ms Access.
+Pekerjaan berikut ini yang umumnya sangat membutuhkan kemampuan Microsoft Office adalah...
+	
+		
+
+Programmer
+	
+		
+
+Network Engineer
+	
+	Benar 	
+
+Guru
+	
+		
+
+Arsitek
+	
+		
+
+Cyber Security
+	
+----------------------------------------------------------------------------
+17 	
+
+Untuk mengatur posisi kertas/paper agar bisa digunakan saat lembaran kerja anda di cetak menggunakan kertas yang menggunakan kop surat adalah...
+	
+	Benar 	
+
+Margin
+	
+		
+
+Layout
+	
+		
+
+Size
+	
+		
+
+Paper
+	
+		
+
+Orientation
+	
+----------------------------------------------------------------------------
+18 	
+
+Perhatikan gambar berikut ini !
+
+
+Cara membuat tampilan yang di tandai dengan tanda panah seperti ini agar otomatis tampil di halaman-halaman berikutnya adalah dengan menu…
+	
+		
+
+Shapes
+	
+		
+
+Footer
+	
+	Benar 	
+
+Header
+	
+		
+
+Picture
+	
+		
+
+Sysmbol
+	
+----------------------------------------------------------------------------
+19 	
+
+Pilihan yang tepat pada MS. Word yang digunakan untuk mengubah tampilan huruf kecil menjadi huruf kapital seluruhnya adalah dengan menggunakan menu Change Case, pada menu ini yang harus di pilih adalah…
+	
+		
+
+setence case
+	
+		
+
+lowercase
+	
+	Benar 	
+
+uppercase
+	
+		
+
+capitalize each word
+	
+		
+
+toogle case
+	
+----------------------------------------------------------------------------
+20 	
+
+Setiap keluar dari Ms-Word, naskah edit yang belum disimpan selalu diperingatkan dengan dialog box. Maksud pernyataan tersebut adalah…
+	
+	Benar 	
+
+Sebelum keluar apakah perubahan edit naskah hendak disimpan
+	
+		
+
+Apakah hendak langsung keluar
+	
+		
+
+Apakah naskah tidak ditutup
+	
+		
+
+Apakah perubahan naskah digabungkan dengan naskah yang lain
+	
+		
+
+Semua jawaban benar
+	
+----------------------------------------------------------------------------
+21 	
+
+Dalam penggunaan keyboard terdapat pintasan keyboard untuk Sway dan membantu pekerjaan menjadi lebih cepat dan efisien. Pintasan yang digunakan untuk menyalin teks atau mengcopy teks adalah…
+	
+		
+
+Ctrl + A
+	
+		
+
+Ctrl + X
+	
+		
+
+Ctrl + V
+	
+	Benar 	
+
+Ctrl + C
+	
+		
+
+Ctrl + Z
+	
+----------------------------------------------------------------------------
+22 	
+
+Dalam penggunaan keyboard terdapat pintasan keyboard untuk Sway dan membantu pekerjaan menjadi lebih cepat dan efisien. Pintasan yang digunakan untuk menampilkan tulisan yang sudah disalin atau dicopy (paste) adalah…
+	
+		
+
+Ctrl + A
+	
+		
+
+Ctrl + X
+	
+	Benar 	
+
+Ctrl + V
+	
+		
+
+Ctrl + C
+	
+		
+
+Ctrl + Z
+	
+----------------------------------------------------------------------------
+23 	
+
+Mengetik 10 jari merupakan salah satu metode ketik cepat pada keyboard komputer. Kemampuan menggunakan kedua tangan dan kesepuluh jari tersebut terkenal dengan keterampilan mengetik 10 jari. Dengan Cara tersebut kamu bisa menggunakan keyboard komputer secara efisien.
+Berikut ini posisi jari jempol tangan kanan dalam cara mengetik 10 jari terletak di bagian...
+	
+		
+
+Enter
+	
+		
+
+Tab
+	
+		
+
+Huruf B dan N
+	
+	Benar 	
+
+Spasi
+	
+		
+
+Caps lock
+	
+----------------------------------------------------------------------------
+24 	
+
+Berikut ini posisi jari tengah tangan kanan dalam cara mengetik 10 jari terletak di bagian…
+	
+		
+
+Tombol J, H, U, Y, M, N, 7 & 8
+	
+		
+
+Tombol K, I, koma (,) / tanda lebih kecil (<), 9
+	
+		
+
+Tombol titik, L, O, 0.
+	
+	Benar 	
+
+Tombol S, W, X, dan 3.
+	
+		
+
+Tombol S, E, C, dan angka 4
+	
+----------------------------------------------------------------------------
+25 	
+
+Berikut ini perintah yang digunakan untuk menyimpan dokumen dengan nama atau format file yang baru atau untuk membuat salinan dokumen dengan nama atau lokasi yang berbeda adalah...
+	
+		
+
+File - save
+	
+	Benar 	
+
+File - save as
+	
+		
+
+File - print
+	
+		
+
+File - export
+	
+		
+
+File - new
+	
+----------------------------------------------------------------------------
