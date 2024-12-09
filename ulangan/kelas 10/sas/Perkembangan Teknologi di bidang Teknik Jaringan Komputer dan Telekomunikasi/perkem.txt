@@ -1,0 +1,282 @@
+Daftar Soal
+Topik = Perkembangan Teknologi di bidang Teknik Jaringan Komputer dan Telekomunikasi-X-TKJ-SAS
+1 	Manakah dari berikut ini yang merupakan protokol komunikasi yang digunakan dalam jaringan komputer untuk memastikan transfer data yang andal? 	
+	Benar 	TCP 	
+		UDP 	
+		FTP 	
+		HTTP 	
+		POP3 	
+----------------------------------------------------------------------------
+2 	Apa keuntungan utama dari penggunaan teknologi 5G dibandingkan dengan 4G dalam konteks jaringan komputer? 	
+	Benar 	Kecepatan data yang lebih tinggi dan latensi lebih rendah 	
+		Lebih sedikit perangkat yang terhubung 	
+		Penggunaan lebih banyak kabel fiber-optik 	
+		Pengurangan jumlah menara seluler 	
+		Penggunaan lebih banyak sinyal radio 	
+----------------------------------------------------------------------------
+3 	Teknologi apa yang digunakan untuk menghubungkan perangkat di dalam area yang lebih kecil, seperti rumah atau kantor, tanpa menggunakan kabel? 	
+	Benar 	Wi-Fi 	
+		Ethernet 	
+		VPN 	
+		MPLS 	
+		Bluetooth 	
+----------------------------------------------------------------------------
+4 	Teknologi jaringan mana yang digunakan untuk menghubungkan dua lokasi yang terpisah dalam jarak jauh, seperti antar kota atau antar negara? 	
+	Benar 	WAN 	
+		LAN 	
+		MAN 	
+		WLAN 	
+		PAN 	
+----------------------------------------------------------------------------
+5 	Apa keuntungan utama dari penerapan teknologi IPv6 dibandingkan dengan IPv4? 	
+	Benar 	Lebih banyak ruang alamat untuk perangkat yang terhubung 	
+		Penggunaan alamat IP statis lebih banyak 	
+		Keamanan yang lebih rendah 	
+		Pengurangan kecepatan jaringan 	
+		Pengurangan jumlah perangkat yang dapat terhubung 	
+----------------------------------------------------------------------------
+6 	Pada jaringan 5G, teknologi apa yang digunakan untuk meningkatkan efisiensi spektrum dan kapasitas jaringan? 	
+	Benar 	MIMO (Multiple Input Multiple Output) 	
+		VoLTE 	
+		DNS 	
+		ARP 	
+		TCP 	
+----------------------------------------------------------------------------
+7 	Teknologi apa yang memungkinkan perangkat di jaringan untuk berkomunikasi satu sama lain menggunakan alamat virtual di atas jaringan fisik yang ada? 	
+	Benar 	VLAN (Virtual Local Area Network) 	
+		LAN 	
+		SDN 	
+		WAN 	
+		MAN 	
+----------------------------------------------------------------------------
+8 	Apa yang dimaksud dengan istilah "cloud computing" dalam konteks teknologi jaringan komputer? 	
+	Benar 	Penyimpanan data dan aplikasi yang dapat diakses dari berbagai perangkat melalui internet 	
+		Penyimpanan data di server lokal 	
+		Menghubungkan perangkat menggunakan jaringan kabel 	
+		Mengurangi penggunaan bandwidth 	
+		Menyediakan jaringan pribadi untuk perusahaan 	
+----------------------------------------------------------------------------
+9 	Apa yang menjadi keuntungan utama dari teknologi satelit dalam komunikasi telekomunikasi? 	
+	Benar 	Cakupan komunikasi yang luas, termasuk daerah terpencil 	
+		Mengurangi biaya perangkat keras 	
+		Memungkinkan komunikasi hanya pada perangkat kabel 	
+		Kecepatan internet yang sangat rendah 	
+		Terbatas pada penggunaan hanya untuk suara 	
+----------------------------------------------------------------------------
+10 	Apa yang membedakan VoLTE (Voice over LTE) dari teknologi panggilan suara sebelumnya? 	
+	Benar 	Menggunakan jaringan LTE untuk panggilan suara dengan kualitas lebih tinggi dan latensi lebih rendah 	
+		Membatasi panggilan suara hanya di area tertentu 	
+		Mengurangi kapasitas jaringan 	
+		Memperkenalkan panggilan video secara otomatis 	
+		Menggunakan teknologi 3G untuk panggilan suara 	
+----------------------------------------------------------------------------
+11 	Apa yang menjadi perbedaan utama antara 4G dan 5G dalam hal kapasitas dan latensi jaringan? 	
+	Benar 	5G menawarkan kecepatan lebih tinggi dan latensi lebih rendah dibandingkan dengan 4G 	
+		4G memiliki kapasitas lebih tinggi dibandingkan 5G 	
+		5G hanya mendukung jaringan suara, sementara 4G mendukung data dan suara 	
+		5G lebih mengandalkan teknologi kabel fiber-optik dibandingkan 4G 	
+		5G tidak mendukung konektivitas perangkat IoT 	
+----------------------------------------------------------------------------
+12 	Teknologi nirkabel apa yang digunakan untuk menghubungkan perangkat dalam jaringan area pribadi dengan jangkauan yang sangat dekat? 	
+	Benar 	Bluetooth 	
+		LTE 	
+		Zigbee 	
+		Wi-Fi 	
+		NFC 	
+----------------------------------------------------------------------------
+13 	Apa yang dimaksud dengan istilah "backhaul" dalam konteks jaringan telekomunikasi? 	
+	Benar 	Koneksi yang menghubungkan perangkat telekomunikasi dengan sistem distribusi utama 	
+		Proses pengiriman data dari perangkat ke server utama 	
+		Teknologi untuk meningkatkan bandwidth pada perangkat akhir 	
+		Pengaturan alamat IP dalam jaringan 	
+		Protokol untuk enkripsi data 	
+----------------------------------------------------------------------------
+14 	Dalam konteks teknologi fiber-optic, apa keuntungan utama dari menggunakan teknologi ini dibandingkan dengan kabel tembaga? 	
+	Benar 	Kapasitas bandwidth yang lebih besar dan tahan terhadap interferensi elektromagnetik 	
+		Kecepatan transfer data yang lebih rendah 	
+		Lebih rentan terhadap kerusakan akibat cuaca 	
+		Memiliki harga lebih murah untuk instalasi 	
+		Lebih mudah dipasang di area dengan populasi padat 	
+----------------------------------------------------------------------------
+15 	Protokol yang digunakan dalam jaringan untuk memastikan data dikirim dengan benar antara dua perangkat disebut? 	
+	Benar 	TCP 	
+		DNS 	
+		UDP 	
+		HTTP 	
+		IPsec 	
+----------------------------------------------------------------------------
+16 	Jaringan 5G dapat memberikan konektivitas dengan kecepatan tinggi. Manakah dari aplikasi berikut yang paling diuntungkan dengan penerapan jaringan 5G? 	
+	Benar 	Kendaraan otonom yang membutuhkan komunikasi real-time 	
+		Pengiriman email secara otomatis 	
+		Pengunduhan file besar menggunakan FTP 	
+		Penggunaan media sosial berbasis teks 	
+		Sistem manajemen email berbasis cloud 	
+----------------------------------------------------------------------------
+17 	Apa keuntungan utama dari penggunaan teknologi edge computing dalam jaringan komputer? 	
+	Benar 	Mengurangi latensi dengan memproses data dekat dengan sumbernya 	
+		Menyimpan data lebih lama di server utama 	
+		Mengurangi jumlah perangkat yang terhubung ke jaringan 	
+		Meningkatkan ketergantungan pada server pusat 	
+		Meningkatkan konsumsi daya perangkat 	
+----------------------------------------------------------------------------
+18 	Manakah dari berikut ini yang merupakan protokol yang digunakan untuk mengatur routing antar jaringan besar? 	
+	Benar 	BGP (Border Gateway Protocol) 	
+		OSPF 	
+		TCP 	
+		ARP 	
+		DNS 	
+----------------------------------------------------------------------------
+19 	Apa yang membedakan teknologi Wi-Fi 6 dengan Wi-Fi generasi sebelumnya? 	
+	Benar 	Wi-Fi 6 menawarkan kapasitas lebih besar dan efisiensi lebih baik dalam lingkungan dengan banyak perangkat 	
+		Wi-Fi 6 memiliki kecepatan yang lebih rendah dibandingkan Wi-Fi 5 	
+		Wi-Fi 6 hanya digunakan untuk perangkat IoT 	
+		Wi-Fi 6 tidak mendukung jaringan nirkabel 	
+		Wi-Fi 6 mengurangi jumlah perangkat yang dapat terhubung ke jaringan 	
+----------------------------------------------------------------------------
+20 	Apa yang dimaksud dengan SDN (Software Defined Networking) dalam jaringan komputer? 	
+	Benar 	Jaringan yang dikendalikan dan dikelola menggunakan perangkat lunak terpusat 	
+		Teknologi yang meningkatkan ketergantungan pada perangkat keras 	
+		Sistem yang menggunakan alamat IP dinamis untuk pengelolaan perangkat 	
+		Jaringan yang hanya menggunakan protokol TCP/IP untuk routing 	
+		Sistem yang mengurangi jumlah perangkat dalam jaringan 	
+----------------------------------------------------------------------------
+21 	Teknologi yang memungkinkan penggabungan beberapa saluran data menggunakan panjang gelombang yang berbeda dalam serat optik adalah? 	
+	Benar 	DWDM (Dense Wavelength Division Multiplexing) 	
+		MIMO 	
+		SDN 	
+		VPN 	
+		VPN 	
+----------------------------------------------------------------------------
+22 	Dalam teknologi jaringan 5G, teknologi apa yang digunakan untuk meningkatkan kemampuan komunikasi perangkat IoT secara bersamaan? 	
+	Benar 	Massive MIMO 	
+		Bluetooth 	
+		DNS 	
+		DHCP 	
+		IPv4 	
+----------------------------------------------------------------------------
+23 	Apa yang menjadi keuntungan utama dari penggunaan teknologi Small Cells dalam jaringan 5G? 	
+	Benar 	Meningkatkan kapasitas jaringan dan mengurangi interferensi 	
+		Mengurangi jumlah perangkat yang dapat terhubung ke jaringan 	
+		Mengurangi kecepatan data 	
+		Menggunakan lebih sedikit bandwidth 	
+		Mengurangi biaya instalasi menara seluler 	
+----------------------------------------------------------------------------
+24 	Manakah dari berikut ini yang dapat meningkatkan kualitas layanan jaringan dengan memungkinkan komunikasi antar perangkat di seluruh dunia? 	
+	Benar 	Protokol IP 	
+		Protokol BGP 	
+		Protokol HTTP 	
+		Protokol ARP 	
+		Protokol DNS 	
+----------------------------------------------------------------------------
+25 	Keamanan jaringan dapat ditingkatkan dengan menggunakan alat yang memantau trafik secara real-tim Teknologi apakah yang digunakan untuk ini? 	
+	Benar 	IDS (Intrusion Detection System) 	
+		NAT 	
+		SNMP 	
+		DHCP 	
+		VPN 	
+----------------------------------------------------------------------------
+26 	Protokol enkripsi yang digunakan untuk mengamankan komunikasi melalui internet adalah? 	
+	Benar 	SSL/TLS 	
+		FTP 	
+		ARP 	
+		POP3 	
+		IPsec 	
+----------------------------------------------------------------------------
+27 	Manakah dari berikut ini yang digunakan untuk melindungi jaringan dari serangan Distributed Denial-of-Service (DDoS)? 	
+	Benar 	Memperbesar kapasitas bandwidth jaringan 	
+		Penggunaan firewall yang lebih kuat 	
+		Menggunakan VPN 	
+		Membatasi jumlah perangkat yang terhubung 	
+		Meningkatkan latensi jaringan 	
+----------------------------------------------------------------------------
+28 	Protokol yang digunakan untuk mengelola dan memantau perangkat dalam jaringan secara otomatis disebut? 	
+	Benar 	SNMP 	
+		BGP 	
+		DNS 	
+		IPsec 	
+		ARP 	
+----------------------------------------------------------------------------
+29 	Teknologi yang digunakan untuk menghubungkan dua jaringan secara aman melalui jaringan publik adalah? 	
+	Benar 	VPN (Virtual Private Network) 	
+		NAT 	
+		SDN 	
+		DHCP 	
+		DNS 	
+----------------------------------------------------------------------------
+30 	Salah satu cara untuk memproteksi data dalam perjalanan melalui jaringan adalah dengan menggunakan teknologi enkripsi. Protokol enkripsi yang paling umum digunakan adalah? 	
+	Benar 	SSL/TLS 	
+		SMTP 	
+		FTP 	
+		DNS 	
+		HTTP 	
+----------------------------------------------------------------------------
+31 	Teknologi manajemen jaringan yang memungkinkan pemisahan lalu lintas data berdasarkan aplikasi atau jenis lalu lintas disebut? 	
+	Benar 	QoS (Quality of Service) 	
+		TCP/IP 	
+		VPN 	
+		SNMP 	
+		DHCP 	
+----------------------------------------------------------------------------
+32 	Apa tujuan utama dari penggunaan IDS (Intrusion Detection System) dalam jaringan? 	
+	Benar 	Mendeteksi dan memberi peringatan terhadap potensi ancaman atau serangan 	
+		Mengelola lalu lintas data 	
+		Menyediakan akses internet lebih cepat 	
+		Menggunakan enkripsi data 	
+		Memblokir perangkat yang tidak dikenal 	
+----------------------------------------------------------------------------
+33 	Teknologi apa yang diharapkan menjadi fondasi untuk jaringan masa depan dengan kemampuan kecepatan dan latensi yang sangat rendah? 	
+	Benar 	6G 	
+		5G 	
+		4G 	
+		LTE 	
+		Wi-Fi 5 	
+----------------------------------------------------------------------------
+34 	Penggunaan perangkat IoT akan semakin meningkat. Apa tantangan utama dalam pengelolaan IoT dalam jaringan besar? 	
+	Benar 	Skalabilitas dan pengelolaan data besar 	
+		Penyimpanan data yang terbatas 	
+		Penggunaan alamat IP statis 	
+		Meningkatkan kecepatan perangkat 	
+		Mengurangi kecepatan transfer data 	
+----------------------------------------------------------------------------
+35 	Cloud computing yang berbasis microservices memungkinkan? 	
+	Benar 	Pengelolaan aplikasi yang lebih fleksibel dan skalabilitas lebih mudah 	
+		Pengelolaan server yang lebih sulit 	
+		Pembatasan kapasitas penyimpanan data 	
+		Penyimpanan data secara lokal 	
+		Penyederhanaan proses enkripsi data 	
+----------------------------------------------------------------------------
+36 	AI (Kecerdasan Buatan) diharapkan dapat membantu dalam pengelolaan jaringan 6G. Manakah dari berikut ini yang menjadi aplikasi utama AI dalam jaringan 6G? 	
+	Benar 	Mengoptimalkan pengelolaan trafik dan kecepatan jaringan secara otomatis 	
+		Menyederhanakan desain perangkat keras jaringan 	
+		Menurunkan biaya instalasi jaringan 	
+		Mengurangi jumlah perangkat yang terhubung 	
+		Membatasi aplikasi berbasis cloud 	
+----------------------------------------------------------------------------
+37 	Teknologi apa yang memungkinkan penggabungan beberapa gelombang cahaya dalam satu serat optik untuk meningkatkan kapasitas transmisi? 	
+	Benar 	DWDM (Dense Wavelength Division Multiplexing) 	
+		MIMO 	
+		SDN 	
+		VLAN 	
+		VPN 	
+----------------------------------------------------------------------------
+38 	Manakah dari berikut ini yang merupakan manfaat utama dari jaringan 5G untuk perkembangan teknologi smart cities? 	
+	Benar 	Menyediakan konektivitas lebih cepat untuk perangkat IoT dan layanan publik 	
+		Mengurangi jumlah perangkat yang dapat terhubung 	
+		Memperkenalkan teknologi 4K untuk video streaming 	
+		Meningkatkan kecepatan pengunduhan file 	
+		Mengurangi latensi untuk layanan video call 	
+----------------------------------------------------------------------------
+39 	Manakah dari berikut ini yang diharapkan menjadi komponen kunci dalam infrastruktur 6G? 	
+	Benar 	Integrasi antara komunikasi satelit dan terestrial 	
+		Penggunaan teknologi kabel tembaga 	
+		Penggunaan perangkat hanya untuk komunikasi suara 	
+		Pengurangan kapasitas bandwidth 	
+		Penggunaan hanya jaringan lokal 	
+----------------------------------------------------------------------------
+40 	Teknologi yang digunakan untuk memperbaiki jaringan komputer dengan menggunakan protokol yang lebih cerdas dalam pengelolaan trafik disebut? 	
+	Benar 	SDN (Software Defined Networking) 	
+		VPN 	
+		IPsec 	
+		MPLS 	
+		BGP 	
+----------------------------------------------------------------------------
