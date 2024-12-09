@@ -1,0 +1,282 @@
+Daftar Soal
+Topik = PROYEK IPAS-X-TSM-TP-TKJ-SAS-GANJIL
+1 	Peningkatan penggunaan pestisida di suatu lahan pertanian telah menyebabkan penurunan drastis populasi serangga polinator seperti lebah. Bagaimana dampak dari penurunan populasi serangga polinator ini terhadap produksi tanaman pertanian? 	
+		Produksi tanaman akan meningkat karena adanya pengurangan persaingan untuk makanan. 	
+	Benar 	Produksi tanaman akan berkurang karena terbatasnya penyerbukan. 	
+		Tanaman akan beradaptasi dengan melakukan penyerbukan sendiri 	
+		Tanaman akan beralih dari reproduksi seksual ke aseksual 	
+		Produksi tanaman tidak akan terpengaruh karena lebah hanya berkontribusi sedikit pada penyerbukan 	
+----------------------------------------------------------------------------
+2 	salah satu ciri yang membedakan mahluk hidup dengan benda tak hidup adalah… 	
+		memiliki massa 	
+		menempati ruang 	
+	Benar 	memiliki iritabilitas 	
+		mempunyai bentuk 	
+		mempunyai berat 	
+----------------------------------------------------------------------------
+3 	berikut merupakan komponen abiotik yang tidak dipengaruhi oleh makhluk hidup adalah.. 	
+		kesuburan tanah,curah hujan dan air 	
+	Benar 	gaya gravitasi,cahaya matahari,dan tekanan udara 	
+		derajat keasaman,garam mineral,dan kesuburan tanah 	
+		gaya gravitasi,iklim, dan kesuburan tanah 	
+		arus air sungai,arah angin,dan kesuburan tanah 	
+----------------------------------------------------------------------------
+4 	saat kegiatan praktikum dikebun sekolah,kelompok rani mencatat adanya 21 tanaman rumput, 2 tanaman bunga soka, dan 14 ekor semut.dari data tersebut kelompok rani mencatat data komponen… 	
+		individu 	
+		populasi 	
+	Benar 	komunitas 	
+		ekosistem 	
+		lingkungan 	
+----------------------------------------------------------------------------
+5 	komponen abiotik dan biotik membantu penyerbukan tumbuhan adalah.. 	
+		air dan angin 	
+		serangga dan Manusia 	
+		cahaya dan kelembapan 	
+	Benar 	serangga dan Angin 	
+		udara dan cahaya 	
+----------------------------------------------------------------------------
+6 	jalur masuk udara dan makanan,ruang resonansi suara, serta tempat tonsil yang berpartisipasi pada reaksi kekebalan tubuh dalam melawan benda asing merupakan fungsi dari.. 	
+		laring 	
+	Benar 	faring 	
+		bronkus 	
+		Bronkiolus 	
+		alveolus 	
+----------------------------------------------------------------------------
+7 	salah satu penyebab terjadinya proses denitrifikasi pada daur nitrogen adalah.. 	
+		tanah kelebihan oksigen 	
+	Benar 	tanah kekurangan oksigen 	
+		Jumlah Rhizobium menjadi meningkat 	
+		tumbuhan menyerap banyak nitrogen 	
+		tanah kekurangan air 	
+----------------------------------------------------------------------------
+8 	suatu zat dapat dikatakan polutan jika memenuhi kriteria dibawah ini, kecuali… 	
+		mengganggu kesehatan 	
+		didapat dalam jumlah melebihi normal 	
+	Benar 	Berada pada tempat yang semestinya 	
+		merusak lingkungan 	
+		menggangu ekosistem 	
+----------------------------------------------------------------------------
+9 	pagar rumah yang terkena air hujan terus-menerus dapat mengalami korosi. Peristiwa tersebut termasuk perubahan 	
+		biologi 	
+	Benar 	kimia 	
+		Sementara 	
+		Fisika 	
+		Biokimia 	
+----------------------------------------------------------------------------
+10 	pernyataan yang tidak tepat mengenai materi adalah.. 	
+		terdiri atas partikel 	
+	Benar 	mempunyai massa 	
+		mempunyai volume 	
+		tidak dapat diubah menjadi materi lain 	
+		menyimpan energi 	
+----------------------------------------------------------------------------
+11 	berikut ini pengelompokan materi berdasarkan wujudnya adalah.. 	
+	Benar 	padat 	
+		Larutan 	
+		koloid 	
+		campuran 	
+		suspensi 	
+----------------------------------------------------------------------------
+12 	diantara kelompok besaran berikut,yang termasuk kelompok besaran pokok dalam sistem intermasional adalah.. 	
+		Suhu,volume,massa jenis,dan kuat arus listrik 	
+		kuat arus,panjang,massa jenis,waktu 	
+		panjang, luas,waktu dan jumlah zat 	
+	Benar 	kuat arus, intensitas cahaya,suhu dan waktu 	
+		intesitas cahayaa,kecepatan,percepatan dan waktu 	
+----------------------------------------------------------------------------
+13 	Zat tunggal yang tidak bisa lagi disederhanakan menggunakan reaksi kimia biasa disebut dengan . . . . 	
+		campuran 	
+		Koloid 	
+		Larutan 	
+		Senyawa 	
+	Benar 	Unsur 	
+----------------------------------------------------------------------------
+14 	Kelompok materi di bawah ini yang termasuk ke dalam unsur adalah . . . . 	
+		Air, udara, besi 	
+		Karbon monoksida, natrium, tembaga 	
+		Kuningan, nitrogen, belerang 	
+	Benar 	Aluminium, neon, nitrogen 	
+		Perunggu, emas, mangan 	
+----------------------------------------------------------------------------
+15 	Kelompok zat-zat di bawah ini yang merupakan senyawa adalah . . . . 	
+	Benar 	Air – garam dapur – gula pasir 	
+		Udara – air laut – cuka dapur 	
+		Emas – perunggu – perak 	
+		Susu murni – bensin murni – air murni 	
+		Air raksa – air keras – kertas 	
+----------------------------------------------------------------------------
+16 	Seutas tali telah diukur dan ternyata panjangnya adalah 0,20350 m. Berapa jumlah angka penting hasil dalam hasil pengukuran tersebut? 	
+		satu 	
+		dua 	
+		tiga 	
+		empat 	
+	Benar 	lima 	
+----------------------------------------------------------------------------
+17 	Sebuah balok telah diukur dan ternyata panjangnya adalah 10,3 cm dan lebarnya 6,5 cm. Berapa angka penting yang ada dalam luas balok tersebut? 	
+		satu 	
+		dua 	
+		tiga 	
+	Benar 	empat 	
+		lima 	
+----------------------------------------------------------------------------
+18 	Sebuah tali benda kecil diukur dan ternyata memiliki panjang 0,02030 m. Berapakah angka penting dalam hasil pengukuran tersebut? 	
+		satu 	
+		dua 	
+		tiga 	
+	Benar 	empat 	
+		lima 	
+----------------------------------------------------------------------------
+19 	Sebuah benda telah diukur dan hasilnya menunjukan angka 142,09. Berapakah jumlah angka penting dari hasil pengukuran tersebut? 	
+	Benar 	lima angka penting 	
+		enam angka penting 	
+		tujuh angka penting 	
+		delapan angka penting 	
+		empat angka penting 	
+----------------------------------------------------------------------------
+20 	Sebuah pengukuran menunjukan benda yang memiliki panjang 0,1004 m. Jumlah angka penting pada hasil pengukuran tersebut adalah… 	
+		lima angka penting 	
+	Benar 	empat angka penting 	
+		tiga angka penting 	
+		dua angka penting 	
+		satu angka penting 	
+----------------------------------------------------------------------------
+21 	Seorang siswa telah menimbang berat benda dan hasilnya adalah 0,001350 kg. Berapakah total jumlah angka penting pada hasil pengukuran tersebut? 	
+		satu angka penting 	
+		dua angka penting 	
+		tiga angka penting 	
+	Benar 	empat angka penting 	
+		lima angka penting 	
+----------------------------------------------------------------------------
+22 	Dibawah ini yang merupakan satuan besaran pokok adalah … 	
+		Newton ,Meter, Sekon 	
+		Meter, Sekon, Watt 	
+	Benar 	Kilogram, Kelvin, Meter 	
+		Newton, Kilogram, Kelvin 	
+		Kelvin, Joule, Watt 	
+----------------------------------------------------------------------------
+23 	Dimensi ML^1T^2menyatakan dimensi : ….. 	
+		Gaya 	
+		Energi 	
+		Daya 	
+	Benar 	Tekanan 	
+		Momentum 	
+----------------------------------------------------------------------------
+24 	Rumus dimensi momentum adalah …… 	
+		MLT^2 	
+		ML^1T^2 	
+	Benar 	MLT^1 	
+		ML^2T^2 	
+		ML^2T^2 	
+----------------------------------------------------------------------------
+25 	satuan internasional massa 	
+	Benar 	Kilogram 	
+		meter 	
+		Sekon 	
+		kuat arus listrik 	
+		ampere 	
+----------------------------------------------------------------------------
+26 	Seorang mengangkat beban sebesar 1 ton dengan menggunakan suatu alat sehingga tinggi dari lantai sebesar 20 m berapakah besar usaha alat tersebut…. 	
+	Benar 	200.000 J 	
+		300.000 J 	
+		250.000 J 	
+		350.000 J 	
+		210.000 J 	
+----------------------------------------------------------------------------
+27 	Sebuah benda yang bermassa 50 Kg dipindahkan dari lantai keatas panggung setinggi 1,5 m besar usaha yang dilakukan untuk memindahkan benda tersebut adalah… 	
+	Benar 	750 J 	
+		75 J 	
+		800 J 	
+		850 J 	
+		85 J 	
+----------------------------------------------------------------------------
+28 	Sebuah benda bermassa 5 Kg diatas bidang datar yang kasar dengan koefisien gesek kinek diabaikan alias nol. Benda tersebut ditarik pada arah 60 derajat dengan gaya 50 N besar usaha yang harus dilakukan agar benda berpindah sejauh 8 m… 	
+	Benar 	200 J 	
+		2 J 	
+		300 J 	
+		350 J 	
+		450 J 	
+----------------------------------------------------------------------------
+29 	Seorang murid mendorong meja dengan gaya 5 N sehingga meja berpindah sejauh 2 m berapa besar usaha yang dilakukan tersebut… 	
+	Benar 	10 J 	
+		1,0 J 	
+		20 J 	
+		25 J 	
+		30 J 	
+----------------------------------------------------------------------------
+30 	Dania menjatuhkan sebuah batu yang bermassa 100 gr dari atas jembatan yang tingginya 16 m jika percepatan gravitasi bumi 10 m/s^2 maka tuliskan besar energi potensialnya… 	
+	Benar 	16 J 	
+		1,6 J 	
+		20 J 	
+		23 J 	
+		40 J 	
+----------------------------------------------------------------------------
+31 	Dua buah bola masing-masing massanya m1 = 25 Kg dan m2 = 4 kg memiliki energi kinetik yang sama bila benda m1 bergerak dengan laju 10 m/s^2 maka laju benda m2 adalah…. 	
+	Benar 	25 m/s 	
+		30 m/s 	
+		40 m/s 	
+		45 m/s 	
+		250 m/s 	
+----------------------------------------------------------------------------
+32 	Graha melempar sebuah benda berbentuk kubus yang massanya 250 gr dengan kecepatan 18 km/jam energi kinetik benda tersebut adalah….. J 	
+	Benar 	3125 	
+		4125 	
+		300 	
+		250 	
+		650 	
+----------------------------------------------------------------------------
+33 	Buah kelapa memiliki massa 2 Kg berada pada tangkai yang tingginya 8 m sedangkan buah nangka memiliki massa 3 kg berada pada ketinggian 4 m diatas maka perbandingan energi potensial adalah… 	
+	Benar 	4/3 J 	
+		3/4 J 	
+		4/5 J 	
+		6/2 J 	
+		7/3 J 	
+----------------------------------------------------------------------------
+34 	Jika diketahui energi potensial benda pada ketinggian 5 m sebesar 600 J berapa massa benda jika diketahui percepatan gravitasi bumi 10 m/s^2 	
+	Benar 	120 Kg 	
+		130 Kg 	
+		400 Kg 	
+		500 Kg 	
+		125 Kg 	
+----------------------------------------------------------------------------
+35 	Besar energi mekanik pada benda yang jatuh bebas adalah 168 J besar energi kinetik saat energi potensialnya 68 J….. 	
+	Benar 	100 J 	
+		110 J 	
+		200 J 	
+		250 J 	
+		300 J 	
+----------------------------------------------------------------------------
+36 	Sastra melakukan usaha sebesar 2.000 J untuk memindahkan ra buku dalam waktu 20 menit,berapa besar gaya yang dilakukan oleh sastra untuk memindahkan rak tersebut… 	
+	Benar 	5/3 watt 	
+		3/3 watt 	
+		5/4 watt 	
+		7/5 watt 	
+		10/3 watt 	
+----------------------------------------------------------------------------
+37 	Selama 5 menit terakhir malin telah memindahkan meja belajarnya ke sudut dengan usaha sebesar 1.200 J berapa daya yang dikeluarkan oleh malin… 	
+	Benar 	4 watt 	
+		10 watt 	
+		15 watt 	
+		3 watt 	
+		2 watt 	
+----------------------------------------------------------------------------
+38 	Ana melakukan usaha sebesar 750 J agar bisa memindahkan kayu dalam waktu 5 menit berapa daya dilakukan… 	
+	Benar 	2,5 watt 	
+		5,2 watt 	
+		7,5 watt 	
+		5,5 watt 	
+		10 watt 	
+----------------------------------------------------------------------------
+39 	sebuah pengaduk kue elektrik melakukan usaha sebesar 5.000 J dalam waktu 5 menit berapa daya yang dibutuhkan…. 	
+	Benar 	17 watt 	
+		15 watt 	
+		20 watt 	
+		25 watt 	
+		30 watt 	
+----------------------------------------------------------------------------
+40 	Andri memiliki massa tubuh 60 Kg dan memanjat pohon mangga dengan tinggi 2 m dalam waktu 10 detik berapa daya yang dibutuhkan andri untuk memanjat pohon mangga dengan nilai gaya gravitasi 10 m/s^2 	
+	Benar 	1.200 J 	
+		3.000 J 	
+		200 J 	
+		350 J 	
+		650 J 	
+----------------------------------------------------------------------------
