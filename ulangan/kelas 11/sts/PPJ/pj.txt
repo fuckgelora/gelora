@@ -1,0 +1,664 @@
+Daftar Soal
+Topik = PPJ-XI-TKJ-STS
+1 	
+
+Jika diketahui ip 192.168.100.18/30 maka total ip, ip network, ip broadcast, host id, dan subnetmask dari ip tersebut adalah…
+	
+	Benar 	
+
+Total Ip  : 4
+Ip Network : 192.168.100.16/30
+Ip Broadcast : 192.168.100.19/30
+Host ID  : IP Awal : 192.168.100.17/30 s/d Ip Akhir : 192.168.100.18/30
+Subnetmask : 255.255.255.252
+	
+		
+
+Total Ip  : 4
+Ip Network : 192.168.100.15/30
+Ip Broadcast : 192.168.100.18/30
+Host ID  : IP Awal : 192.168.100.16/30 s/d Ip Akhir : 192.168.100.17/30
+Subnetmask : 255.255.255.252
+	
+		
+
+Total Ip  : 2
+Ip Network : 192.168.100.16/30
+Ip Broadcast : 192.168.100.19/30
+Host ID  : IP Awal : 192.168.100.17/30 s/d Ip Akhir : 192.168.100.18/30
+Subnetmask : 255.255.255.252
+	
+		
+
+Total Ip  : 8
+Ip Network : 192.168.100.12/30
+Ip Broadcast : 192.168.100.15/30
+Host ID  : IP Awal : 192.168.100.13/30 s/d Ip Akhir : 192.168.100.14/30
+Subnetmask : 255.255.255.252
+	
+		
+
+Total Ip  : 2
+Ip Network : 192.168.100.15/30
+Ip Broadcast : 192.168.100.18/30
+Host ID  : IP Awal : 192.168.100.16/30 s/d Ip Akhir : 192.168.100.17/30
+Subnetmask : 255.255.255.252
+	
+----------------------------------------------------------------------------
+2 	
+
+Jika suatu host menggunakan ip 192.168.200.150 dengan asumsi pada jaringan tersebut akan digunakan sebanyak 60 host, maka network dari ip tersebut adalah ...
+	
+		
+
+192.168.200.64/26
+	
+		
+
+192.168.200.100/26
+	
+		
+
+192.168.200.92/26
+	
+	Benar 	
+
+192.168.200.128/26
+	
+		
+
+192.168.200.0/26
+	
+----------------------------------------------------------------------------
+3 	
+
+Jika dalam suatu jaringan ada 20 perangkat yang saling terhubung, dan salah satu perangkat memiliki IP address 195.170.50.70/27. Maka berapakah ip address dan subnet mask yang seharusnya diberikan kepada perangkat yang terakhir atau PC ke-20 adalah…
+	
+		
+
+195.170.50.33 255.255.255.224
+	
+		
+
+195.170.50.65 255.255.255.192
+	
+		
+
+195.170.50.70 255.255.255.224
+	
+		
+
+195.170.50.94 255.255.255.224
+	
+	Benar 	
+
+195.170.50.84 255.255.255.224
+	
+----------------------------------------------------------------------------
+4 	
+
+1100 0000.1010 1000.0110 0100.0001 0100 jika dikonversikan kedalam 4 oktet bilangan decimal akan menjadi…
+	
+	Benar 	
+
+192.168.100.20
+	
+		
+
+192.168.100.21
+	
+		
+
+192.168.100.22
+	
+		
+
+192.168.100.23
+	
+		
+
+192.168.100.24
+	
+----------------------------------------------------------------------------
+5 	
+
+Jika diketahui divisi Manajemen memiliki IP Gateway 197.16.12.202/29, ip address yang tidak mungkin digunakan oleh client pada divisi Manajamen tersebut adalah…
+	
+	Benar 	
+
+197.16.12.199
+	
+		
+
+197.16.12.200
+	
+		
+
+197.16.12.201
+	
+		
+
+197.16.12.204
+	
+		
+
+197.16.12.206
+	
+----------------------------------------------------------------------------
+6 	
+
+Nilai Default Subnetmask untuk kelas B pada IPv4 adalah...
+	
+		
+
+255.255.255.252
+	
+		
+
+255.255.255.128
+	
+		
+
+255.0.0.0
+	
+	Benar 	
+
+255.255.0.0
+	
+		
+
+255.255.255.0
+	
+----------------------------------------------------------------------------
+7 	
+
+Router#copy run start
+
+Fungsi dari perintah konfigurasi tersebut adalah…
+	
+		
+
+Melakukan backup konfigurasi yang sedang berjalan ke TFTP Server
+	
+		
+
+Melihat hasil backup konfigurasi yang sedang berjalan ke startup
+	
+	Benar 	
+
+Melakukan backup konfigurasi yang sedang berjalan ke startup
+	
+		
+
+Melihat hasil backup konfigurasi yang sedang berjalan ke TFTP Server
+	
+		
+
+Menghapus backup konfigurasi yang sedang berjalan ke TFTP Server
+	
+----------------------------------------------------------------------------
+8 	
+
+Alamat IP yang digunakan untuk jaringan internal (intranet) disebut dengan…
+	
+		
+
+IP Public
+	
+	Benar 	
+
+IP Private
+	
+		
+
+IP Host
+	
+		
+
+IP Perl
+	
+		
+
+IP Broadcast
+	
+----------------------------------------------------------------------------
+9 	
+
+IP Address yang secara permanen dimiliki oleh sebuah mesin adalah jenis IP…
+	
+	Benar 	
+
+IP Static
+	
+		
+
+IP Dynamic
+	
+		
+
+IPV4
+	
+		
+
+IPV6
+	
+		
+
+IP Network
+	
+----------------------------------------------------------------------------
+10 	
+
+IPv4 terdiri dari berapa Byte dan bit.....
+	
+		
+
+40 bit dan 32 Byte
+	
+		
+
+48 Byte dan 6 bit
+	
+	Benar 	
+
+4 Byte dan 32 bit
+	
+		
+
+32 Byte dan 4 bit
+	
+		
+
+6 Byte dan 32 bit
+	
+----------------------------------------------------------------------------
+11 	
+
+Mode awal saat melakukan console pada router. Dalam mode ini anda akan melihat tanda Router>. Dalam mode ini kita hanya bisa melihat informasi dasar pada router. Berikut ini yang termasuk mode tersebut adalah…
+	
+	Benar 	
+
+User Mode
+	
+		
+
+Privilege Mode
+	
+		
+
+Global Configuration Mode
+	
+		
+
+Semua Jawaban Benar
+	
+		
+
+Exec Mode
+	
+----------------------------------------------------------------------------
+12 	
+
+Pada saat kita melakukan konfigurasi pada Router Cisco banyak perintah atau command yang terdapat pada setiap mode, dimana perintah tersebut ada pada suatu mode tetapi tidak terdapat pada mode lain. Untuk memberikan / set IP Address pada interface sebaiknya dilakukan pada mode…
+	
+		
+
+User Mode
+	
+		
+
+Privilege Mode
+	
+	Benar 	
+
+Global Configuration Mode
+	
+		
+
+Semua Jawaban Benar
+	
+		
+
+Exec Mode
+	
+----------------------------------------------------------------------------
+13 	
+
+Kabel UTP berfungsi sebagai salah satu kabel penghubung atau bertukar data antara jaringan-jaringan komputer baik itu jaringan komputer berbasis lokal LAN (Local Area Network) Maupun global, di dalam suatu sistem network atau jaringan komputer. Berapakah jarak jangkauan dari kabel jaringan LAN...
+	
+		
+
+500 Meter
+	
+	Benar 	
+
+100 Meter
+	
+		
+
+1000 Meter
+	
+		
+
+10 Meter
+	
+		
+
+200 Meter
+	
+----------------------------------------------------------------------------
+14 	
+
+Pembagian kelas pada IP Address ditujukan untuk mempermudah pengalokasian fungsi IP Address di dalam jaringan komputer, baik untuk host atau jaringan tertentu serta untuk keperluan tertentu. Dalam pembagian kelas IP address, ada dua hal utama yaitu network ID dan host ID. Network ID mengidentifikasi jaringan, sedangkan host ID mengidentifikasi host. Dalam satu jaringan, host memiliki net ID yang sama. Pemisahan jaringan dan host tergantung pada kelas jaringan. IP address kelas C biasanya digunakan untuk jaringan berukuran kecil seperti LAN (Local Area Network). IP Address Class C memiliki jumlah range...
+	
+		
+
+0 - 127
+	
+		
+
+128 - 191
+	
+	Benar 	
+
+192 - 223
+	
+		
+
+224
+	
+		
+
+255
+	
+----------------------------------------------------------------------------
+15 	
+
+Jika di dalam suatu SMK memiliki 2 laboratorium komputer yang masing-masing laboratorium memiliki jumlah komputer yang berbeda-beda, yaitu Lab 1 memiliki 30 komputer, Lab 2 memiliki 64 komputer. Maka berapakah subnet mask yang paling tepat untuk masing-masing lab tersebut...
+	
+		
+
+255.255.255.0 dan 255.255.255.0
+	
+		
+
+255.255.255.224 dan 255.255.255.192
+	
+		
+
+255.255.255.240 dan 255.255.255.192
+	
+		
+
+255.255.255.192 dan 255.255.255.128
+	
+	Benar 	
+
+255.255.255.224 dan 255.255.255.128
+	
+----------------------------------------------------------------------------
+16 	
+
+Berikut ini perintah yang digunakan untuk mengubah status interface dari down menjadi up dengan mengaktifkan interface pada setiap device adalah…
+	
+	Benar 	
+
+Router(config-int)#no shutdown
+	
+		
+
+Router(config)#no shutdown
+	
+		
+
+Router(config)#no ip address
+	
+		
+
+Router(config-int)#sh ip int brief
+	
+		
+
+Router(config-int)#sh run
+	
+----------------------------------------------------------------------------
+17 	
+
+Ada 4 mode terminal untuk melakukan konfigurasi pada cisco. Pada mode ini dapat dilakukan perintah-perintah untuk melakukan monitoring, troubleshooting dan management, tetapi pada mode ini tidak bisa dilakukan konfigurasi. Berikut ini yang termasuk dari mode tersebut adalah...
+	
+		
+
+User Mode
+	
+	Benar 	
+
+Privilege Mode
+	
+		
+
+Global Configuration Mode
+	
+		
+
+Semua Jawaban Benar
+	
+		
+
+Exec Mode
+	
+----------------------------------------------------------------------------
+18 	
+
+Berikut ini perintah yang digunakan untuk mengenkripsi semua password, termasuk password console adalah…
+	
+		
+
+Router(config)# enable-secret cisco123
+	
+		
+
+Router(config)# enable password cisco123
+	
+		
+
+Router(config)# enable secret cisco123
+	
+	Benar 	
+
+Router(config)# service password-encryption
+	
+		
+
+Router(config)# service password encryption
+	
+----------------------------------------------------------------------------
+19 	
+
+Perhatikan perintah dibawah ini !
+
+cisco# configure terminal
+cisco(config)# line console 0
+cisco(config-line)# password cisco
+cisco(config-line)# login
+
+Konfigurasi tersebut digunakan untuk…
+	
+		
+
+Memberikan password pada semua Mode
+	
+		
+
+Memberikan password pada Global Configuration Mode
+	
+		
+
+Memberikan password pada Privilege Mode
+	
+	Benar 	
+
+Memberikan password pada User Mode
+	
+		
+
+Memberikan password pada Exec Mode
+	
+----------------------------------------------------------------------------
+20 	
+
+Meskipun memiliki sistem kerja yang hampir mirip dengan switch, namun HUB dan switch memiliki perbedaan diantaranya yaitu…
+	
+	Benar 	
+
+Pada switch, data yang ditransfer akan diteruskan ke port yang spesifik atau perangkat yang dituju, sedangkan pada HUB, data yang diterima akan dikirimkan ke seluruh perangkat yang terkoneksi ke dalam port tersebut
+	
+		
+
+Pada switch, data yang ditransfer akan diteruskan ke semua perangkat yang terkoneksi melalui port yang tersedia, sedangkan pada HUB, data yang diterima akan dikirimkan ke perangkat spesifik
+	
+		
+
+Switch tidak melakukan system filtering sedangkan HUB melakukan pengalihan ke jaringan lain
+	
+		
+
+Pada switch, proses filtering dan pengalihan tidak dilakukan seperti halnya pada HUB
+	
+		
+
+Pada switch, data akan langsung dikirim tanpa hambatan berbeda dengan HUB yang memiliki hambatan pengalihan jaringan bila tidak sesuai
+	
+----------------------------------------------------------------------------
+21 	
+
+Berikut ini perintah yang digunakan untuk melakukan verifikasi keterhubungan antara host ke host melalui protokol ICMP adalah…
+	
+		
+
+show host
+	
+		
+
+traceroute
+	
+	Benar 	
+
+ping
+	
+		
+
+login
+	
+		
+
+show ip
+	
+----------------------------------------------------------------------------
+22 	
+
+Untuk mengatur durasi pada mode console dengan fitur auto log off (apabila fitur login di aktifkan), nilai “1” pada perintah tersebut merupakan nilai “menit” sedangkan nilai “10” merupakan nilai “detik”, artinya pengguna akan secara otomatis log off apabila tidak ada aktifitas selama 1 menit 10 detik.
+
+Untuk mengatur durasi pada mode console sesuai dengan ketentuan di atas digunakan perintah...
+	
+		
+
+router#(config-line)#exec-timeout 10 1
+	
+	Benar 	
+
+router#(config-line)#exec-timeout 1 10
+	
+		
+
+router#(config-line)#exec timeout 1 10
+	
+		
+
+router#(config-line)#exec timeout 10 1
+	
+		
+
+router#(config-line)#exec timeout 0 0
+	
+----------------------------------------------------------------------------
+23 	
+
+Perhatikan pesan yang ada dibawah ini !
+Sending 5, 100-byte ICMP Echos to 192.168.2.1, timeout is 2 seconds:
+!!!!!
+
+Pesan tersebut merupakan pesan yang muncul ketika memberikan perintah…
+	
+	Benar 	
+
+Router#ping 192.168.2.1
+	
+		
+
+Router#ping 192.168.2.0
+	
+		
+
+Router#ping ip add
+	
+		
+
+Router#ping console router
+	
+		
+
+Router#ping pc
+	
+----------------------------------------------------------------------------
+24 	
+
+Fungsi dari perintah “banner motd z” dalam konfigurasi device cisco pada mode CLI adalah…
+	
+		
+
+Sebagai nama device cisco yang tampil pada saat akan melakukan konfigurasi
+	
+		
+
+Sebagai nama port cisco yang tampil pada saat akan melakukan konfigurasi
+	
+		
+
+Sebagai identitas deskripsi dari halaman akhir sistem device cisco ketika akan logout
+	
+	Benar 	
+
+Sebagai identitas deskripsi dari halaman awal sistem device cisco ketika akan login
+	
+		
+
+Sebagai nama port cisco yang tampil pada saat selesai melakukan konfigurasi
+	
+----------------------------------------------------------------------------
+25 	
+
+Pembagian kelas IP Address penting untuk alokasi alamat IP di jaringan. Ini memudahkan identifikasi dan pemisahan host. Dalam pembagian kelas IP address, ada dua hal utama: network ID dan host ID. Network ID mengidentifikasi jaringan, sedangkan host ID mengidentifikasi host. Dalam satu jaringan, host memiliki net ID yang sama. Pemisahan jaringan dan host tergantung pada kelas jaringan.
+
+Byte 192 hingga 223 termasuk ke dalam class...
+	
+		
+
+Class A
+	
+		
+
+Class B
+	
+	Benar 	
+
+Class C
+	
+		
+
+Class D
+	
+		
+
+Class E
+	
+----------------------------------------------------------------------------
