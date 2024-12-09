@@ -1,0 +1,627 @@
+Daftar Soal
+Topik = ANIMASI MANUAL-XI-TKJ-STS
+1 	
+
+Animasi 2D atau yang biasa sering disebut…
+	
+		
+
+Sinetron
+	
+	Benar 	
+
+Kartun
+	
+		
+
+Teater
+	
+		
+
+Komedi
+	
+		
+
+Horor
+	
+----------------------------------------------------------------------------
+2 	
+
+Tokoh-tokoh dalam animasi clay dibuat dengan memakai rangkai...
+	
+	Benar 	
+
+Khusus
+	
+		
+
+Tertutup
+	
+		
+
+Terbuka
+	
+		
+
+Terjepit
+	
+		
+
+Tertata
+	
+----------------------------------------------------------------------------
+3 	
+
+FFAI kepanjangan dari…
+	
+	Benar 	
+
+Festival Film Animasi Indonesia
+	
+		
+
+Festival Film Aktris Indonesia
+	
+		
+
+Festival Film Aktor Indonesia
+	
+		
+
+Festival Film Antagonis Indonesia
+	
+		
+
+Festival Film Fifa Indonesia
+	
+----------------------------------------------------------------------------
+4 	
+
+Menempatkan keindahan pada benda yang dilihat biasa disebut dengan…
+	
+		
+
+Subejkti
+	
+		
+
+Khusus
+	
+		
+
+Verbal
+	
+		
+
+Visual
+	
+	Benar 	
+
+Objektif
+	
+----------------------------------------------------------------------------
+5 	
+
+Karakter animator sukses, kecuali…
+	
+		
+
+Selalu ingin tahu
+	
+		
+
+Inisiatif
+	
+		
+
+Kepercayaan
+	
+		
+
+Kejujuran
+	
+	Benar 	
+
+Kebohongan
+	
+----------------------------------------------------------------------------
+6 	
+
+Film yang merupakan hasil dari pengolahan gambar tangan, sehingga menjadi gambar bergerak disebut dengan...
+	
+		
+
+Sinetron
+	
+	Benar 	
+
+Animasi
+	
+		
+
+Teater
+	
+		
+
+Komedi
+	
+		
+
+Horor
+	
+----------------------------------------------------------------------------
+7 	
+
+Tahap poduksi konvensional adalah…
+	
+		
+
+Pra Produksi, Pasca Produksi, Post Produksi
+	
+		
+
+Pra Produksi
+	
+		
+
+Pasca Produksi
+	
+		
+
+Post Produksi
+	
+	Benar 	
+
+A, B, C, D Benar Semua
+	
+----------------------------------------------------------------------------
+8 	
+
+Pada tahap post produksi konvensional terjadi, kecuali …
+	
+		
+
+Composite
+	
+		
+
+Editing
+	
+		
+
+Rendering
+	
+		
+
+Camera Shooting
+	
+	Benar 	
+
+Lay-Out
+	
+----------------------------------------------------------------------------
+9 	
+
+Dalam proses post produksi digital pemindahan film ke dalam berbagai media berupa…
+	
+		
+
+VCD
+	
+		
+
+DVD
+	
+		
+
+HS
+	
+		
+
+VCD, DVD, HS
+	
+	Benar 	
+
+A, B, C, D Benar Semua
+	
+----------------------------------------------------------------------------
+10 	
+
+Yang tidak termasuk software animasi adalah...
+	
+		
+
+Forge 3D
+	
+		
+
+3Ds MAX
+	
+		
+
+Frame
+	
+		
+
+Maya
+	
+	Benar 	
+
+Word
+	
+----------------------------------------------------------------------------
+11 	
+
+Program aplikasi yang banyak digunakan untuk editing foto atau gambar adalah…
+	
+		
+
+Adobe Reader
+	
+		
+
+Corel Draw
+	
+	Benar 	
+
+Adobe Photoshop
+	
+		
+
+Microsoft Word
+	
+		
+
+Adobe Premier
+	
+----------------------------------------------------------------------------
+12 	
+
+Bagian yang digunakan untuk mengontrol sifat dan cara kerja dari tombol - tombol yang ada pada panel tool serta mendukung proses kerja yang terjadi pada gambar atau video yang sedang dikerjakan adalah…
+	
+		
+
+Title bar
+	
+		
+
+Menu bar
+	
+		
+
+Dock panel
+	
+	Benar 	
+
+Option bar
+	
+		
+
+Panel tool
+	
+----------------------------------------------------------------------------
+13 	
+
+Bagian yang berisi berbagai peranti yang dapat digunakan untuk memanipulasi dan menyunting sebuah gambar atau foto adalah...
+	
+		
+
+Title bar
+	
+		
+
+Menu bar
+	
+		
+
+Dock panel
+	
+		
+
+Option bar
+	
+	Benar 	
+
+Panel tool
+	
+----------------------------------------------------------------------------
+14 	
+
+Panel yang berfungsi untuk menyimpan status perubahan yang telah dilakukan terhadap sebuah tampilan lembar kerja adalah...
+	
+	Benar 	
+
+Panel History
+	
+		
+
+Panel Navigator
+	
+		
+
+Panel Swatches
+	
+		
+
+Panel Color
+	
+		
+
+Control Panel
+	
+----------------------------------------------------------------------------
+15 	
+
+Fungsi layer pallete adalah...
+	
+		
+
+Untuk menyunting gambar
+	
+		
+
+Untuk memilih warna gambar
+	
+		
+
+Untuk melihat jumlah layer
+	
+		
+
+Untuk mengontrol layer aktif
+	
+	Benar 	
+
+Untuk mengatur ukuran gambar
+	
+----------------------------------------------------------------------------
+16 	
+
+Langkah untuk membuat lembar kerja baru yang benar pada Photoshop adalah…
+	
+		
+
+Klik File - New-Ok
+	
+		
+
+Klik Start - Program - Adobe Photoshop CS6
+	
+		
+
+Klik File - Open - Documen - Ok
+	
+		
+
+Klik Shorcut Adobe Photoshop CS6
+	
+	Benar 	
+
+Klik Layer - New - Ok
+	
+----------------------------------------------------------------------------
+17 	
+
+Berikut adalah tool yang digunakan untuk membuat seleksi objek berbentuk lengkung, kecuali...
+	
+		
+
+Lasso Tool
+	
+		
+
+Magic Wand Tool
+	
+		
+
+Polygonal Lasso Tool
+	
+		
+
+Path and Pen Tool
+	
+	Benar 	
+
+Quick Selection
+	
+----------------------------------------------------------------------------
+18 	
+
+Salah satu fasilitas terbaru pada Adobe Photoshop CS 3 adalah…
+	
+		
+
+Cropping
+	
+		
+
+Image Warp
+	
+	Benar 	
+
+Open as Smart Object
+	
+		
+
+Artistic Filter
+	
+		
+
+Layer Style
+	
+----------------------------------------------------------------------------
+19 	
+
+Berikut ini hasil karya dengan menggunakan Adobe Photoshop, kecuali…
+	
+		
+
+Stiker
+	
+		
+
+Poster
+	
+	Benar 	
+
+Laporan Keuangan
+	
+		
+
+Cover Majalah
+	
+		
+
+Brosur
+	
+----------------------------------------------------------------------------
+20 	
+
+File yang dihasilkan Adobe Photoshop berekstensi atau berakhiran…
+	
+		
+
+.doc
+	
+		
+
+.exe
+	
+		
+
+.xls
+	
+	Benar 	
+
+.psd
+	
+		
+
+.vbp
+	
+----------------------------------------------------------------------------
+21 	
+
+Pada Adobe Photoshop arti dari mode RGB Color adalah…
+	
+		
+
+RISE GO BLACK
+	
+	Benar 	
+
+RED GREEN BLUE
+	
+		
+
+RED GREY BLUE
+	
+		
+
+RED GREEN BLACK
+	
+		
+
+ROW GROUND BLACK
+	
+----------------------------------------------------------------------------
+22 	
+
+Istilah dalam Adobe Photoshop untuk memutar objek 90 derajat searah jarum jam adalah...
+	
+	Benar 	
+
+90 cw
+	
+		
+
+90 ccw
+	
+		
+
+90
+	
+		
+
+90 cc
+	
+		
+
+90 o
+	
+----------------------------------------------------------------------------
+23 	
+
+Tanda mata disamping kiri nama layer disebut…
+	
+		
+
+Link/ Unlink
+	
+	Benar 	
+
+Visible/ Unvisible
+	
+		
+
+Lock/ Unlock
+	
+		
+
+Distribute
+	
+		
+
+Fill
+	
+----------------------------------------------------------------------------
+24 	
+
+Proses akhir dari keseluruhan proses animasi computer disebut…
+	
+		
+
+Composite
+	
+		
+
+Editing
+	
+	Benar 	
+
+Rendering
+	
+		
+
+Camera Shooting
+	
+		
+
+Lay-Out
+	
+----------------------------------------------------------------------------
+25 	
+
+Salah satu perangkat lunak komputer yang merupakan produk unggulan Adobe Sistem adalah...
+	
+		
+
+Adobe Audition
+	
+		
+
+Adobe Ilustrator
+	
+		
+
+Adobe Photoshop
+	
+	Benar 	
+
+Adobe Flash
+	
+		
+
+Adobe After Effect
+	
+----------------------------------------------------------------------------
