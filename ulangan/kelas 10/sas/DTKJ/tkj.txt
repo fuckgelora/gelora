@@ -1,0 +1,282 @@
+Daftar Soal
+Topik = DTKJ - 10 TKJ 123
+1 	Apa yang dimaksud dengan jaringan komputer? 	
+	Benar 	Penghubung antara dua perangkat komputer 	
+		Perangkat keras komputer 	
+		Sistem operasi untuk perangkat komputer 	
+		Protokol yang digunakan komputer 	
+		Penyimpanan data 	
+----------------------------------------------------------------------------
+2 	Apa fungsi dari router dalam jaringan komputer? 	
+		Menghubungkan perangkat ke jaringan 	
+		Menyimpan data 	
+		Mengelola keamanan jaringan 	
+	Benar 	Menghubungkan jaringan yang berbeda 	
+		Mempercepat transfer data 	
+----------------------------------------------------------------------------
+3 	Apa itu IP Address? 	
+		Alamat fisik perangkat komputer 	
+	Benar 	Alamat unik untuk perangkat di jaringan 	
+		Nama komputer di jaringan 	
+		Kabel penghubung perangkat 	
+		Nama domain untuk server 	
+----------------------------------------------------------------------------
+4 	Apa yang dimaksud dengan sistem operasi? 	
+	Benar 	Program yang mengelola perangkat keras dan perangkat lunak 	
+		Program untuk mengakses internet 	
+		Alat komunikasi antar perangkat 	
+		Sistem untuk mengatur jaringan 	
+		Program untuk menampilkan informasi 	
+----------------------------------------------------------------------------
+5 	Protokol yang digunakan untuk mentransfer halaman web adalah? 	
+		TCP 	
+	Benar 	HTTP 	
+		FTP 	
+		SMTP 	
+		POP3 	
+----------------------------------------------------------------------------
+6 	Apa peran utama dari firewall dalam jaringan komputer? 	
+		Menyimpan data 	
+	Benar 	Mencegah akses yang tidak sah 	
+		Menghubungkan perangkat 	
+		Menyaring paket data 	
+		Menyediakan layanan internet 	
+----------------------------------------------------------------------------
+7 	Apa itu DNS dalam jaringan komputer? 	
+		Sistem untuk menghubungkan komputer 	
+	Benar 	Sistem untuk mencari alamat IP 	
+		Alamat fisik perangkat 	
+		Protokol komunikasi 	
+		Alat pemetaan jaringan 	
+----------------------------------------------------------------------------
+8 	Apa itu LAN (Local Area Network)? 	
+		Jaringan yang mencakup wilayah besar 	
+		Jaringan antar negara 	
+	Benar 	Jaringan komputer dalam area terbatas 	
+		Jaringan yang terhubung ke internet 	
+		Jaringan nirkabel 	
+----------------------------------------------------------------------------
+9 	Perangkat yang berfungsi untuk menghubungkan berbagai perangkat di jaringan lokal disebut? 	
+		Router 	
+	Benar 	Switch 	
+		Hub 	
+		Modem 	
+		Repeater 	
+----------------------------------------------------------------------------
+10 	Apa fungsi utama dari sistem operasi komputer? 	
+		Mengelola aplikasi 	
+		Menghubungkan jaringan 	
+	Benar 	Mengelola hardware dan software 	
+		Menyediakan internet 	
+		Memproses data input 	
+----------------------------------------------------------------------------
+11 	Dalam komunikasi jaringan, apa yang dimaksud dengan Bandwidth? 	
+		Kapasitas sinyal dalam jaringan 	
+	Benar 	Kecepatan transmisi data 	
+		Jarak antara dua perangkat 	
+		Protokol komunikasi 	
+		Ukuran file yang dikirim 	
+----------------------------------------------------------------------------
+12 	Apa perbedaan antara Hub dan Switch dalam jaringan komputer? 	
+	Benar 	Hub mengirim data ke semua port, switch hanya ke port tertentu 	
+		Switch lebih lambat dari Hub 	
+		Hub lebih aman dari Switch 	
+		Tidak ada perbedaan 	
+		Hub lebih efisien dalam transfer data 	
+----------------------------------------------------------------------------
+13 	Apa kepanjangan dari HTTP? 	
+		Hyper Text Transmission Protocol 	
+		Hyper Transfer Text Protocol 	
+	Benar 	Hyper Text Transfer Protocol 	
+		Hyper Text Test Protocol 	
+		Hyper Transfer Protocol 	
+----------------------------------------------------------------------------
+14 	Protokol yang digunakan untuk mengirim email adalah? 	
+	Benar 	SMTP 	
+		FTP 	
+		POP3 	
+		DNS 	
+		HTTP 	
+----------------------------------------------------------------------------
+15 	Apa fungsi dari modem dalam jaringan komputer? 	
+		Menghubungkan jaringan lokal 	
+	Benar 	Menghubungkan perangkat ke internet 	
+		Mendistribusikan sinyal 	
+		Menyaring paket data 	
+		Mengelola perangkat dalam jaringan 	
+----------------------------------------------------------------------------
+16 	Apa yang dimaksud dengan topologi jaringan? 	
+		Alat yang digunakan untuk menghubungkan jaringan 	
+	Benar 	Desain fisik dan logis jaringan 	
+		Jenis perangkat keras dalam jaringan 	
+		Protokol yang digunakan dalam jaringan 	
+		Sistem pengatur jaringan 	
+----------------------------------------------------------------------------
+17 	Perangkat keras yang berfungsi untuk mengubah sinyal digital menjadi analog adalah? 	
+	Benar 	Modem 	
+		Router 	
+		Switch 	
+		Hub 	
+		Firewall 	
+----------------------------------------------------------------------------
+18 	Apa itu bandwidth dalam konteks jaringan? 	
+	Benar 	Jumlah data yang dapat ditransfer dalam waktu tertentu 	
+		Kecepatan CPU 	
+		Ukuran paket data 	
+		Nama jaringan 	
+		Nama protokol 	
+----------------------------------------------------------------------------
+19 	Protokol yang digunakan untuk menghubungkan komputer dalam sebuah jaringan adalah? 	
+		HTTP 	
+	Benar 	TCP/IP 	
+		FTP 	
+		SMTP 	
+		DNS 	
+----------------------------------------------------------------------------
+20 	Apa yang dimaksud dengan alamat MAC? 	
+		Alamat pada jaringan yang dapat diakses 	
+	Benar 	Alamat unik untuk setiap perangkat 	
+		Alamat pada lapisan aplikasi 	
+		Alamat pengirim paket data 	
+		Alamat penghubung jaringan 	
+----------------------------------------------------------------------------
+21 	Apa itu NAT (Network Address Translation)? 	
+	Benar 	Mengubah IP publik ke IP privat 	
+		Menghubungkan dua jaringan yang berbeda 	
+		Menyaring paket data 	
+		Menyediakan koneksi internet 	
+		Mengalihkan aliran data 	
+----------------------------------------------------------------------------
+22 	Sistem operasi apa yang paling banyak digunakan di server? 	
+		Windows 	
+	Benar 	Linux 	
+		macOS 	
+		Android 	
+		Unix 	
+----------------------------------------------------------------------------
+23 	Apa yang dimaksud dengan VPN (Virtual Private Network)? 	
+	Benar 	Jaringan untuk transfer data secara aman 	
+		Jaringan berbasis cloud 	
+		Jaringan lokal untuk satu pengguna 	
+		Jaringan yang terhubung ke internet 	
+		Jaringan terbatas 	
+----------------------------------------------------------------------------
+24 	Dalam konteks jaringan komputer, apa yang dimaksud dengan subnetting? 	
+	Benar 	Pembagian jaringan menjadi beberapa sub-jaringan 	
+		Menghubungkan komputer 	
+		Menyaring trafik data 	
+		Mengubah IP alamat 	
+		Menyediakan alamat IP dinamis 	
+----------------------------------------------------------------------------
+25 	Apa itu DHCP (Dynamic Host Configuration Protocol)? 	
+		Protokol untuk memeriksa jaringan 	
+	Benar 	Protokol untuk memberi alamat IP secara otomatis 	
+		Protokol untuk mengirim data 	
+		Protokol untuk mengatur server 	
+		Protokol untuk menghubungkan komputer 	
+----------------------------------------------------------------------------
+26 	Apa itu port dalam jaringan komputer? 	
+		Sumber daya dalam komputer 	
+	Benar 	Titik penghubung antara perangkat dan jaringan 	
+		Jaringan penghubung dua komputer 	
+		Sistem operasi dalam jaringan 	
+		Alamat pengirim data 	
+----------------------------------------------------------------------------
+27 	Apa fungsi dari DNS? 	
+		Menyimpan alamat IP dalam jaringan 	
+	Benar 	Menerjemahkan nama domain menjadi alamat IP 	
+		Menghubungkan dua jaringan 	
+		Menghitung bandwidth 	
+		Mengelola routing data 	
+----------------------------------------------------------------------------
+28 	Apa itu IP Address versi 6 (IPv6)? 	
+		Alamat IP yang lebih pendek 	
+		Sistem untuk menghubungkan jaringan 	
+	Benar 	Alamat IP yang lebih panjang dengan ruang lebih besar 	
+		Alamat IP untuk jaringan lokal 	
+		Alamat IP yang sudah tidak digunakan 	
+----------------------------------------------------------------------------
+29 	Apa itu VLAN (Virtual Local Area Network)? 	
+	Benar 	Jaringan virtual yang memungkinkan segmentasi jaringan 	
+		Jaringan dengan kecepatan tinggi 	
+		Jaringan antara dua perangkat 	
+		Jaringan penghubung banyak server 	
+		Jaringan dengan banyak pengguna 	
+----------------------------------------------------------------------------
+30 	Dalam komunikasi jaringan, apa yang dimaksud dengan latency? 	
+	Benar 	Waktu yang diperlukan untuk mengirim data 	
+		Jumlah data yang dikirim 	
+		Kecepatan internet 	
+		Jumlah pengguna jaringan 	
+		Ukuran paket data 	
+----------------------------------------------------------------------------
+31 	Apa fungsi utama dari Switch dalam jaringan? 	
+	Benar 	Menghubungkan perangkat dengan jaringan 	
+		Menyaring paket data 	
+		Menyimpan data 	
+		Mendistribusikan sinyal 	
+		Menyediakan akses internet 	
+----------------------------------------------------------------------------
+32 	Apa itu LAN Card? 	
+	Benar 	Komponen perangkat keras yang menghubungkan komputer ke jaringan 	
+		Kabel penghubung antara komputer dan modem 	
+		Sistem operasi jaringan 	
+		Komponen perangkat lunak untuk mengelola koneksi internet 	
+		Perangkat yang menghubungkan komputer ke internet 	
+----------------------------------------------------------------------------
+33 	Apa yang dimaksud dengan jaringan peer-to-peer (P2P)? 	
+		Jaringan dengan satu server utama 	
+	Benar 	Jaringan tanpa server, di mana komputer berfungsi sebagai klien dan server 	
+		Jaringan yang hanya digunakan untuk komunikasi antar perangkat 	
+		Jaringan yang menggunakan IP publik 	
+		Jaringan yang dibatasi oleh firewall 	
+----------------------------------------------------------------------------
+34 	Fungsi dari gateway dalam jaringan adalah? 	
+	Benar 	Menghubungkan dua jaringan yang berbeda 	
+		Mengontrol lalu lintas data 	
+		Mengelola server utama 	
+		Mendistribusikan data 	
+		Menyaring paket data 	
+----------------------------------------------------------------------------
+35 	Apa yang dimaksud dengan istilah "cloud storage"? 	
+	Benar 	Penyimpanan data yang terhubung ke internet melalui server jarak jauh 	
+		Penyimpanan data dalam perangkat lokal 	
+		Penyimpanan data di hard disk eksternal 	
+		Penyimpanan data yang hanya dapat diakses melalui jaringan lokal 	
+		Penyimpanan data di server pribadi 	
+----------------------------------------------------------------------------
+36 	Apa itu 3G dan 4G dalam konteks jaringan seluler? 	
+	Benar 	Teknologi seluler dengan kecepatan data tinggi 	
+		Teknologi nirkabel untuk menghubungkan perangkat 	
+		Jenis perangkat keras untuk telekomunikasi 	
+		Teknologi untuk penghubung perangkat ke internet 	
+		Sistem pengkodean data 	
+----------------------------------------------------------------------------
+37 	Apa yang dimaksud dengan tunnel dalam VPN? 	
+	Benar 	Metode pengalihan data melalui jalur yang terenkripsi 	
+		Cara untuk mempercepat proses transfer data 	
+		Proses mengakses internet secara langsung 	
+		Menghubungkan dua jaringan tanpa enkripsi 	
+		Metode untuk mengubah format data 	
+----------------------------------------------------------------------------
+38 	Apa yang dimaksud dengan istilah "cloud storage"? 	
+	Benar 	Penyimpanan data yang terhubung ke internet melalui server jarak jauh 	
+		Penyimpanan data dalam perangkat lokal 	
+		Penyimpanan data di hard disk eksternal 	
+		Penyimpanan data yang hanya dapat diakses melalui jaringan lokal 	
+		Penyimpanan data di server pribadi 	
+----------------------------------------------------------------------------
+39 	Apa protocol HTTPS? 	
+	Benar 	Protokol yang digunakan untuk komunikasi internet yang aman 	
+		Protokol untuk transfer data dalam jaringan lokal 	
+		Protokol untuk penyimpanan data 	
+		Protokol untuk memanage perangkat keras 	
+		Protokol untuk menghubungkan perangkat ke server 	
+----------------------------------------------------------------------------
+40 	Apa yang dimaksud dengan load balancing? 	
+	Benar 	Teknologi untuk membagi beban pada banyak server 	
+		Metode untuk menyaring data 	
+		Pengaturan jarak antara server 	
+		Pembagian data berdasarkan jenis paket 	
+		Penyimpanan data pada beberapa perangkat 	
+----------------------------------------------------------------------------
