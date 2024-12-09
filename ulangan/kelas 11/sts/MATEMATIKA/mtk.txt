@@ -1,0 +1,627 @@
+Daftar Soal
+Topik = MATEMATIKA - XI - TKJ 1 , 2
+1 	
+
+Diketahui fungsi f(x) = x – 2 dan gof (x) = 3x + 1. Maka  rumus fungsi g (x) …
+	
+	Benar 	
+
+a.    3x + 7
+	
+		
+
+b.    3x – 7
+	
+		
+
+c.    -3x + 7
+	
+		
+
+d.    4x + 7
+	
+		
+
+e.    -3x - 7
+	
+----------------------------------------------------------------------------
+2 	
+
+Soal No.2
+	
+		
+
+jawaban soal no.2 a
+	
+		
+
+jawaban soal no.2 b
+	
+		
+
+jawaban soal no.2 c
+	
+	Benar 	
+
+jawaban soal no.2 d
+	
+		
+
+jawaban soal no.2 e
+	
+----------------------------------------------------------------------------
+3 	
+
+soal no.3
+	
+		
+
+jawaban soal no 3 a
+	
+		
+
+jawaban soal no.3 b
+	
+		
+
+jawaban soal no.3 c
+	
+	Benar 	
+
+jawaban soal no.3 d
+	
+		
+
+jawaban soal no.3 e
+	
+----------------------------------------------------------------------------
+4 	
+
+soal No.4
+	
+		
+
+jawaban soal no.4 a
+	
+		
+
+jawaban soal no.4 b
+	
+	Benar 	
+
+jawaban soal no.4 c
+	
+		
+
+jawaban soal no.4 d
+	
+		
+
+jawaban soal no.4 e
+	
+----------------------------------------------------------------------------
+5 	
+
+soal no.5
+	
+		
+
+jawaban soal no.5 a
+	
+		
+
+jawaban soal no.5 b
+	
+	Benar 	
+
+jawaban soal no.5 c
+	
+		
+
+jawaban soal no.5 d
+	
+		
+
+jawaban soal no.5 e
+	
+----------------------------------------------------------------------------
+6 	
+
+soal no.6
+	
+		
+
+a.    -7
+	
+		
+
+b.    -3
+	
+		
+
+c.    7
+	
+	Benar 	
+
+d.    5
+	
+		
+
+e.    3
+	
+----------------------------------------------------------------------------
+7 	
+
+soal no.7
+	
+		
+
+a.    7
+	
+		
+
+b.    5
+	
+		
+
+c.    3
+	
+	Benar 	
+
+d.    1
+	
+		
+
+e. -1
+	
+----------------------------------------------------------------------------
+8 	
+
+soal no.8
+	
+	Benar 	
+
+a.    -1
+	
+		
+
+b.    1
+	
+		
+
+c.    0
+	
+		
+
+d.    2
+	
+		
+
+e.    4
+	
+----------------------------------------------------------------------------
+9 	
+
+Jika f(x) = 2x – 8 dan g(x) = -3x + 5 rumus fungsi (f + g)(x) adalah..
+	
+		
+
+a.    X + 3
+	
+		
+
+b.    5x – 3
+	
+		
+
+c.    -x + 3
+	
+	Benar 	
+
+d.    -x – 3
+	
+		
+
+e.    -5x + 3
+	
+----------------------------------------------------------------------------
+10 	
+
+Diketahui f(x) = -3x + 4 dan g(x) = x + 2 fungsi komposisi (f o g)(x) adalah
+	
+		
+
+a.    -x – 2
+	
+		
+
+b.    -x + 6
+	
+		
+
+c.    -3x + 2
+	
+	Benar 	
+
+d.    -3x – 2
+	
+		
+
+e.    -3x + 6
+	
+----------------------------------------------------------------------------
+11 	
+
+soal no. 11
+	
+	Benar 	
+
+jawaban soal no.11 a
+	
+		
+
+jawaban soal no 11 b
+	
+		
+
+jawaban soal no 11 c
+	
+		
+
+jawaban soal no 11 d
+	
+		
+
+jawaban soal no 11 e
+	
+----------------------------------------------------------------------------
+12 	
+
+Diketahui fungsi f(x) = x + 1 dan g(x) = 4 – 3x tentukan hasil dari (f – g)(x)…
+	
+	Benar 	
+
+a.    4x – 3
+	
+		
+
+b.    2x – 3
+	
+		
+
+c.    4x + 3
+	
+		
+
+d.    -4x + 3
+	
+		
+
+e.    5x + 2
+	
+----------------------------------------------------------------------------
+13 	
+
+soal no.13
+	
+	Benar 	
+
+jawaban soal no.13 a
+	
+		
+
+jawaban soal no 13 b
+	
+		
+
+jawaban soal no 13 c
+	
+		
+
+jawaban soal no.13 d
+	
+		
+
+jawaban soal no 13 e
+	
+----------------------------------------------------------------------------
+14 	
+
+soal no. 14
+	
+	Benar 	
+
+a.    6x – 3
+	
+		
+
+b.    -6x – 33
+	
+		
+
+c.    6x – 5
+	
+		
+
+d.    6x + 3
+	
+		
+
+e.    6x - 1
+	
+----------------------------------------------------------------------------
+15 	
+
+soal no. 15
+	
+		
+
+jawaban soal no.15 a
+	
+		
+
+jawaban soal no.15 b
+	
+		
+
+jawaban soal no. 15 c
+	
+		
+
+jawaban soal no.15 d
+	
+	Benar 	
+
+jawaban soal no. 15 e
+	
+----------------------------------------------------------------------------
+16 	
+
+Diketahui fungsi f(x) = x + 2 dan fungsi g(x) = 3 – x . hasil (f x g)(x) adalah..
+	
+		
+
+jawaban soal no. 16 a
+	
+		
+
+jawaban soal no.16 b
+	
+		
+
+jawaban soal no. 16 c
+	
+	Benar 	
+
+jawaban soal no.16 d
+	
+		
+
+jawaban soal no.16 e
+	
+----------------------------------------------------------------------------
+17 	
+
+soal no.17
+	
+	Benar 	
+
+jawaban soal no 17 a
+	
+		
+
+jawaban soal no 17 b
+	
+		
+
+jawaban soal no 17 c
+	
+		
+
+jawaban soal no 17 d
+	
+		
+
+jawaban soal no 17 e
+	
+----------------------------------------------------------------------------
+18 	
+
+soal no.18
+	
+	Benar 	
+
+a.    14
+	
+		
+
+b.    -14
+	
+		
+
+c.    15
+	
+		
+
+d.    16
+	
+		
+
+e.    17
+	
+----------------------------------------------------------------------------
+19 	
+
+ Suatu fungsi didefinisikan dengan rumus f(x)=3−5x. Nilai f(−4) adalah â‹¯⋅
+	
+	Benar 	
+
+a.    23
+	
+		
+
+b.    -23
+	
+		
+
+c.     24
+	
+		
+
+d.    25
+	
+		
+
+e.    26
+	
+----------------------------------------------------------------------------
+20 	
+
+Diketahui rumus fungsi f(x)=6−3x. Nilai dari f(5) + f(−4) adalah….
+	
+	Benar 	
+
+a.    9
+	
+		
+
+b.    -9
+	
+		
+
+c.     10
+	
+		
+
+d.    11
+	
+		
+
+e.    12
+	
+----------------------------------------------------------------------------
+21 	
+
+Diketahui f(x)=6x−5. Nilai f(3x+1) adalah….
+	
+		
+
+a.    9x + 1
+	
+	Benar 	
+
+b.    18x + 1
+	
+		
+
+c.     -18x + 1
+	
+		
+
+d.    20x -1
+	
+		
+
+e.    2x + 3
+	
+----------------------------------------------------------------------------
+22 	
+
+Invers fungsi f(x) = 3x + 2 adalah…
+	
+		
+
+jawaban soal no 22 a
+	
+		
+
+jawaban soal no 22 b
+	
+		
+
+jawaban soal no 22 c
+	
+		
+
+jawaban soal no 22 d
+	
+	Benar 	
+
+jawaban soal no 22 e
+	
+----------------------------------------------------------------------------
+23 	
+
+soal no. 23
+	
+		
+
+a.    ½
+	
+		
+
+b.    1/6
+	
+	Benar 	
+
+c.    3
+	
+		
+
+d.    6
+	
+		
+
+e.    28
+	
+----------------------------------------------------------------------------
+24 	
+
+Fungsi invers dari f(x) = 4x – 3 adalah
+	
+	Benar 	
+
+jawaban soal no 24 a
+	
+		
+
+jawaban soal no 24 b
+	
+		
+
+jawaban soal no 24 c
+	
+		
+
+jawaban soal no 24 d
+	
+		
+
+jawaban soal no 24 e
+	
+----------------------------------------------------------------------------
+25 	
+
+soal no 25
+	
+	Benar 	
+
+a.    -2
+	
+		
+
+b.    2
+	
+		
+
+c.    3
+	
+		
+
+d.    4
+	
+		
+
+e.    5
+	
+----------------------------------------------------------------------------
