@@ -1,0 +1,325 @@
+Daftar Soal
+Topik = PROSES BISNIS-X-TKJ-PSAS
+1 	Proses bisnis memiliki ciri khusus atau karakteristik yang sesuai dengan lingkungan dari proses bisnis tersebut. Sebuah proses bisnis harus memiliki batasan, masukan, dan output yang jelas, merupakan karakteristik dari proses bisnis… 	
+	Benar 	Definitif 	
+		Urutan 	
+		Pelanggan 	
+		Nilai Tambah 	
+		Keterkaitan 	
+----------------------------------------------------------------------------
+2 	Proses bisnis pada teknik jaringan komputer dan telekomunikasi pada umumnya sama dengan bidang bisnis lain yang umumnya membangun usaha di bidang teknologi telekomunikasi yang dilakukan oleh para lulusannya dan sangat berpotensi melahirkan para wirausaha di bidang teknologi komunikasi.
+Berikut ini yang bukan merupakan manfaat proses bisnis secara umum adalah... 	
+		Memberikan nilai kompetitif bagi persaingan bisnis 	
+		Memberikan solusi pada perusahaan untuk melihat gambaran bisnis yang dilakukan secara realtime 	
+	Benar 	Memperlambat proses evaluasi 	
+		Mengutamakan deteksi masalah secara dini 	
+		Mempercepat respons perusahaan terhadap tantangan bisnis 	
+----------------------------------------------------------------------------
+3 	Perhatikan pernyataan di bawah ini !
+(1) Memberikan pengetahuan dan informasi
+(2) Mendapatkan pendanaan modal
+(3) Memberikan nilai kompetitif bagi pesaing bisnis
+(4) Menetapkan fokus pada bisnis
+(5) Dapat memanfaatkan peluang potensial
+
+Pernyataan yang merupakan tujuan perencanaan bisnis adalah nomor... 	
+		(1),(2), dan (3) 	
+		(1),(3), dan (4) 	
+		(2),(3), dan (5) 	
+	Benar 	(2),(4), dan (5) 	
+		(3),(4), dan (5) 	
+----------------------------------------------------------------------------
+4 	Fadil adalah seorang blogger. Ia mencari informasi di internet mengenai jenis konten yang sedang viral untuk kemudian di implementasikan di laman blognya. Fadil juga mencari tahu tentang kelebihan dan kekurangan dari laman blog miliki blogger pesaing. Kegiatan yang dilakukan Fadil merupakan salah satu alasan proses bisnis di bidang teknik jaringan komputer dan telekomunikasi, yaitu... 	
+		Memudahkan cara berkomunikasi 	
+	Benar 	Memberikan pengetahuan dan sumber informasi 	
+		Manajemen data 	
+		Sistem informasi manajemen 	
+		Customer relationship management 	
+----------------------------------------------------------------------------
+5 	Ayu adalah seorang pengajar private. Ayu melakukan metode mengajar offline dan online. Pada metode mengajar online aplikasi yang digunakan ayu untuk berkomunikasi dengan siswa/i adalah zoom meeting. Kegiatan yang dilakukan Ayu merupakan salah satu alasan proses bisnis di bidang teknik jaringan komputer dan telekomunikasi, yaitu... 	
+	Benar 	Memudahkan cara berkomunikasi 	
+		Memberikan pengetahuan dan sumber informasi 	
+		Manajemen data 	
+		Sistem informasi manajemen 	
+		Customer relationship management 	
+----------------------------------------------------------------------------
+6 	Proses penjualan dan pembelian barang secara elektronik oleh konsumen, yang merupakan transaksi business-to-business dengan menggunakan jaringan komputer atau internet disebut… 	
+		e-Toll 	
+		e-Money 	
+		e-Bisnis 	
+		e-Government 	
+	Benar 	e-Commerce 	
+----------------------------------------------------------------------------
+7 	Di zaman yang serba modern ini, hampir semua hal dapat dilakukan dari rumah. Kegiatan yang dilakukan oleh perorangan atau kelompok atau organisasi yang melakukan kegiatan menjual barang atau jasa untuk mendapatkan keuntungan atau laba disebut… 	
+		Sumber daya bisnis 	
+		e-Commerce 	
+		Rantai Nilai 	
+		Proses Bisnis 	
+	Benar 	Bisnis 	
+----------------------------------------------------------------------------
+8 	Sumber daya bisnis pada bidang teknik jaringan komputer dan telekomunikasi terdiri atas hardware dan software. Hardware atau perangkat keras adalah komponen yang dapat dilihat secara kasat mata dan mampu disentuh secara fisik. Dibawah ini yang bukan termasuk bagian dari hardware adalah... 	
+		Input device 	
+		Output device 	
+		Processing device 	
+	Benar 	Information device 	
+		Storage device 	
+----------------------------------------------------------------------------
+9 	Perhatikan komponen-komponen dibawah ini !
+(1) ALU
+(2) Network Card
+(3) Scanner
+(4) Register
+(5) CU
+Perangkat tersebut yang termasuk komponen hardware processing device adalah nomor… 	
+		(1),(2), dan (3) 	
+		(1),(3), dan (4) 	
+	Benar 	(1),(4), dan (5) 	
+		(2),(3), dan (4) 	
+		(2),(4), dan (5) 	
+----------------------------------------------------------------------------
+10 	Sebuah produk biasanya selalu memiliki pesaing di bidangnya, namun seorang pelanggan akan mudah berpaling pada produk yang memiliki layanan yang lebih bagus. Hal tersebut termasuk faktor kepuasan pelanggan, yaitu… 	
+		Kualitas Produk atau Jasa 	
+	Benar 	Kualitas Customer Service 	
+		Harga 	
+		Aksesbilitas yang Mudah 	
+		Kualitas Produk 	
+----------------------------------------------------------------------------
+11 	Setelah enam bulan menjadi seorang blogger, blog milik Fadil tidak kunjung ramai. Fadil bingung mengapa blog miliknya sepi pengunjung. Orang tua Fadil menyarankannya untuk mendatangi seseorang yang pakar dengan internet marketing. Bisnis yang harus di datangi Fadil adalah... 	
+		Jasa penulis artikel 	
+		Jasa desain grafis 	
+	Benar 	SEO konsultan 	
+		Sosial media konsultan 	
+		Produk IT solution 	
+----------------------------------------------------------------------------
+12 	Indikator kepuasan pelanggan adalah tingkatan dimana kepuasan konsumen setelah mereka membandingkan suatu produk yang diterima dengan yang diharapkan. Dari kepuasan pelanggan ini anda bisa meningkatkan ekspektasi konsumen sehingga pelanggan tersebut bisa menjadi pelanggan tetap setia.
+Berikut merupakan kuisioner kepuasan pelanggan yang tepat, kecuali... 	
+		Pilihlah media paling efektif untuk melakukan survei 	
+		Memberikan reward pada pelanggan yang bersedia mengisi survei 	
+		Memberikan pertanyaan yang jelas 	
+		Memberikan pertanyaan kepada pelanggan secara tepat sasaran 	
+	Benar 	Memberikan pertanyaan sebanyak mungkin 	
+----------------------------------------------------------------------------
+13 	Strategi bisnis yang digunakan oleh perusahaan untuk mengelola interaksi dengan pelanggannya, termasuk mengumpulkan dan menganalisis informasi tentang pelanggan dan interaksi mereka dengan perusahaan.
+Dari penyataan tersebut merupakan alasan proses bisnis di bidang teknik jaringan komputer dan telekomunikasi jenis... 	
+		Memudahkan cara berkomunikasi 	
+		Memberikan pengetahuan dan sumber informasi 	
+		Manajemen data 	
+		Sistem informasi manajemen 	
+	Benar 	Customer relationship management 	
+----------------------------------------------------------------------------
+14 	Perhatikan pernyataan di bawah ini !
+(1) Memberikan ucapan selamat hari raya keagamaan
+(2) Identifikasi jenis pelanggan yang anda hadapi
+(3) Menanggapi pelanggan dengan cepat
+(4) Meningkatkan fasilitas gedung dan peluncuran produk baru
+(5) Memberikan solusi dan verifikasi
+
+Pernyataan yang tepat dalam proses untuk menangani keluhan pelanggan pada jenis Handling customer complaint adalah nomor... 	
+		(1),(2), dan (3) 	
+		(1),(3), dan (4) 	
+	Benar 	(2),(3), dan (5) 	
+		(2),(4), dan (5) 	
+		(3),(4), dan (5) 	
+----------------------------------------------------------------------------
+15 	Budaya mutu adalah sistem nilai organisasi yang menciptakan lingkungan yang kondusif untuk keberlangsungan perbaikan mutu yang berkesinambungan. Menurut Nasution (2005), karakteristik organisasi yang memiliki budaya mutu adalah sebagai berikut, kecuali.... 	
+	Benar 	Menentukan nilai perusahaan sedini mungkin 	
+		Komunikasi yang terbuka dan kontinu 	
+		Kemitraan internal yang saling mendukung 	
+		Pendekatan kerja sama tim 	
+		Obsesi terhadap perbaikan terus-menerus 	
+----------------------------------------------------------------------------
+16 	Pak Armando memiliki anak bernama Rizky. Rizky gemar membaca dan menulis. Hasil tulisan Rizky sangat rapi, informatif, dan komunikatif. Rizky menulis artikel untuk diposting di website client yang membutuhkan jasanya. Meski demikian, Rizky memiliki blog sendiri. Hal tersebut bertujuan agar clientnya dapat mengetahui portofolio miliknya. Bisnis yang dilakukan Rizky adalah bisnis... 	
+		Startup Produk IT 	
+		Jasa desain grafis 	
+		SEO konsultan 	
+	Benar 	Jasa penulis artikel 	
+		Sosial media konsultan 	
+----------------------------------------------------------------------------
+17 	Komponen atau sumber daya penting yang digunakan untuk bisa memasukkan berbagai data yang nantinya akan disusun menjadi sebuah informasi adalah… 	
+	Benar 	Software 	
+		Hardware 	
+		Brainware 	
+		Programmer 	
+		Sistem Operasi 	
+----------------------------------------------------------------------------
+18 	Game online merupakan penerapan jaringan komputer untuk aplikasi rumahan di bidang… 	
+		Konektivitas dan komunikasi 	
+		Akses informasi, pengetahuan, dan edukasi 	
+		Perbankan 	
+	Benar 	Sarana Hiburan 	
+		Electronic Commerce 	
+----------------------------------------------------------------------------
+19 	Perhatikan beberapa kegiatan berikut ini !
+1) Memberikan souvenir bagi pelanggan setia
+2) Meningkatkan fasilitas gedung tempat usaha
+3) Melakukan endorse produk pada artis yang sedang populer
+4) Memberikan ucapan selamat hari raya keagamaan kepada pelanggan
+5) Meningkatkan kualitas pelayanan pelanggan
+
+Kegiatan yang termasuk strategi defensif menjaga dan meningkatkan kepuasan konsumen, kecuali nomor... 	
+		(1) 	
+		(2) 	
+		(3) 	
+	Benar 	(4) 	
+		(5) 	
+----------------------------------------------------------------------------
+20 	Ada berbagai metode yang bisa dilakukan demi menciptakan budaya perusahaan yang baik dan positif di bidang teknik jaringan komputer dan telekomunikasi. Pelaku usaha hendaknya memberikan dorongan kepada karyawan untuk berani mengeluarkan aspirasi dan ide-ide baru bagi perusahaan.
+Dari pernyataan diatas termasuk ke dalam strategi membangun budaya mutu di bidang... 	
+		Memperkerjakan orang-orang yang tepat 	
+	Benar 	Menjadi pendengar yang baik 	
+		Mendorong sikap positif dalam lingkungan kerja 	
+		Membangun kesadaran tim 	
+		Membuat kelompok diskusi 	
+----------------------------------------------------------------------------
+21 	Ghost Shopping adalah salah satu cara memperoleh gambaran kepuasan pelanggan dengan cara mempekerjakan beberapa orang (ghost shopper) untuk menjadi atau bersikap sebagai pembeli atau pelanggan potensial produk perusahaan dan pesaing perusahaan. Dalam hal ini ghost shopper memiliki jobdesk yaitu... 	
+		Mengetahui sejauh mana kepuasan telah diberikan 	
+		Mencari solusi yang tepat agar pelanggan tersebut kembali membeli produk perusahaan kita lagi 	
+	Benar 	Mengamati bagaimana cara perusahaan dan pesaing melayani permintaan pelanggan, menjawab pertanyaan pelanggan, dan menanggapi setiap keluhan pelanggan 	
+		Memperbaiki kualitas produk 	
+		Memberikan reward atau hadiah atas ketersediaan para pelanggan yang telah membeli produk perusahaan kita 	
+----------------------------------------------------------------------------
+22 	Pada proses bisnis bidang TI (Aplikasi Mobile) setelah melakukan riset pasar, maka langkah selanjutnya adalah… 	
+		Mulai mengembangkan aplikasi mobile sesuai market 	
+		Memulai meluncurkan aplikasi mobile 	
+		
+Meluncurkan pada market Playstore 	
+		Melakukan user researcher 	
+	Benar 	Mencari bahan-bahan pendukung untuk aplikasi mobile 	
+----------------------------------------------------------------------------
+23 	Bisnis online adalah kegiatan berbisnis yang dilakukan melalui internet. Artinya, aktivitas bisnis seperti jual-beli, pelayanan kepada konsumen, marketing, dan sebagainya dilakukan secara online. Peluang bisnis online semakin potensial meskipun mengalami perubahan tren dari waktu ke waktu. Oleh sebab itu, salah satu bagian penting dalam memulai bisnis online adalah kecermatan dalam membaca tren dan ancaman yang ada pada bisnis online.
+Berikut yang merupakan ANCAMAN yang dapat terjadi dalam proses bisnis Jualan online adalah… 	
+	Benar 	Pesaing berjualan produk dengan harga lebih murah 	
+		Banyak customer 	
+		Adanya jaminan keamanan 	
+		Dapat COD 	
+		Free Ongkir 	
+----------------------------------------------------------------------------
+24 	Di bawah ini yang tidak termasuk dalam jenis-jenis proses bisnis adalah… 	
+		Proses Operasional 	
+		Proses Primer 	
+		Proses Sekunder 	
+	Benar 	Proses Tersier 	
+		Proses Dukungan 	
+----------------------------------------------------------------------------
+25 	Dokumen atau pernyataan tertulis yang berisi gambaran bisnis, strategi bisnis, produk atau layanan di masa mendatang, dengan tujuan untuk mencapai visi dan misi bisnis merupakan pengertian dari… 	
+		Proses bisnis 	
+		Bisnis 	
+		Perencanaan konsumen 	
+	Benar 	Perencanaan bisnis 	
+		Analisa kebutuhan pelanggan 	
+----------------------------------------------------------------------------
+26 	Di bawah ini yang tidak termasuk contoh bisnis atau pekerjaan di bidang Teknik Jaringan Komputer dan Telekomunikasi adalah… 	
+		Jasa penulis artikel/Web 	
+		Teknisi Komputer 	
+	Benar 	Auditor 	
+		Web Development 	
+		Teknisi Jaringan 	
+----------------------------------------------------------------------------
+27 	Sebuah kegiatan yang dilakukan baik perorangan atau kelompok atau organisasi yang menjual barang atau jasa untuk mendapatkan keuntungan atau laba adalah… 	
+		E-commerce 	
+		Produsen 	
+		Distributor 	
+	Benar 	Bisnis 	
+		Konsumen 	
+----------------------------------------------------------------------------
+28 	Sebuah perusahaan ISP (Internet Service Provider) menyediakan jasa koneksi internet sebagai aktivitas utama. Perusahaan tersebut juga memiliki aktivitas bisnis lain, yaitu sebagai penyedia web hosting. Fungsi jasa layanan tersebut adalah …. 	
+		memberikan nama bagi alamat-alamat hosting agar lebih mudah diakses atau mengarahkan alamat IP yang dimiliki pelanggan menjadi sebuah nama domain agar mudah diakses 	
+	Benar 	menyimpan berkas dan data laman situs web (website) agar dapat diakses oleh siapa saja melalui jaringan internet 	
+		memberikan layanan berupa platform sehingga pelanggan dapat memanfaatkannya dalam membangun aplikasi di dalamnya 	
+		memberikan layanan berupa perangkat lunak yang telah dikembangkan 	
+		Analisa Kebutuhan Pelanggan 	
+----------------------------------------------------------------------------
+29 	Jika seorang pelaku bisnis mengembangkan usahanya, proses bisnis pun mengalami perubahan. Pelakunya bukan lagi individu, melainkan beberapa grup kerja. Grup kerja yang bertanggung jawab dalam pembelanjaan modal sebagai bahan baku adalah …. 	
+		Quality Assurance (QA) 	
+		Accounting dan Payroll 	
+	Benar 	Purchasing 	
+		Marketing 	
+		Product Design 	
+----------------------------------------------------------------------------
+30 	Bisnis dalam bidang komputer menghadapi tantangan dan tekanan dalam menghasilkan sumber daya yang lebih modern. Hardware merupakan salah satu bagian dalam komputer yang meliputi 	
+		data, informasi 	
+	Benar 	CPU, memory, media penyimpanan 	
+		system, data 	
+		system, data, informasi 	
+		memory, system, data, informasi 	
+----------------------------------------------------------------------------
+31 	Penggunaan email sebagai salah satu pendorong awal internet sangat memudahkan manusia dalam berinteraksi. Hal ini merupakan salah satu contoh dari alasan proses bisnis pada bidang teknik jaringan komputer dan telekomunikasi 	
+		memberikan pengetahuan dan sumber informasi 	
+	Benar 	mempermudah cara komunikasi 	
+		sistem informasi manajemen 	
+		manajemen hubungan konsumen 	
+		manajemen keungan 	
+----------------------------------------------------------------------------
+32 	perusahaan menggunakan TI untuk memperbaiki cara mereka merancang dan mengelola hubungan terhadap pelanggan melalui sebuah sistem yang disebut dengan .... 	
+		Sistem Informasi Manajemen (SIM) 	
+	Benar 	Customer Relationship Management (CRM) 	
+		Enterprise Resource Planning (ERP) 	
+		Odoo 	
+		Bisnis 	
+----------------------------------------------------------------------------
+33 	Sumber daya bisnis pada bidang teknik jaringan komputer dan telekomunikasi terdiri atas hardware dan software. Hardware atau perangkat keras adalah komponen yang dapat dilihat secara kasat mata dan mampu disentuh secara fisik. Dibawah ini yang bukan termasuk bagian dari hardware adalah... 	
+		Input device 	
+		Output device 	
+		Processing device 	
+	Benar 	Information device 	
+		Storage device 	
+----------------------------------------------------------------------------
+34 	Seorang game developer harus memiliki beberapa kemampuan seperti di bawah ini, kecuali .... 	
+		menguasai berbagai operation system (OS) 	
+		selalu update dengan perkembangan dunia game 	
+		mampu membuat dan mengembangkan game sesuai selera pasar 	
+	Benar 	mampu menganalisis kekurangan dan kelemahan game buatan developer game pesaing 	
+		mampu membuat rancangan, mendesain pola level dan mengaplikasikan sistem tertentu ke dalam game 	
+----------------------------------------------------------------------------
+35 	Kemampuan khusus yang harus dimiliki oleh seorang Computer Network Engineer adalah .... 	
+		Dasar-dasar jaringan 	
+		Pemikiran analitis 	
+		Pembuatan dokumentasi 	
+		jawaban A dan B benar 	
+	Benar 	jawaban A, B dan C benar 	
+----------------------------------------------------------------------------
+36 	
+
+Analisis software, hardware, maupun system informasi, agar sesuai dengan kebutuhan bisnis perusahaan atau client merupakan tanggung jawab ....
+	
+		Computer Network Engineer 	
+		Developer Software 	
+		Programmer 	
+		Developer Software 	
+	Benar 	Analisis Sistem Komputer 	
+----------------------------------------------------------------------------
+37 	Seseorang yang berprofesi sebagai data scientist harus membuat pengambilan keputusan strategi perusahaan atau suatu kebijakan pemerintah. Langkah- langkah atau tahapan yang harus dilalui sebelum mencapai tahapan tersebut
+adalah .... 	
+		mengumpulkan data - analisis data - membuat kesimpulan 	
+		analisis data - mengumpulkan data - membuat kesimpulan 	
+	Benar 	mengumpulkan data - analisis data - mengkomunikasikan hasil - membuat kesimpulan- mengambil keputusan 	
+		analisis data - mengumpulkan data - mengkomunikasikan hasil - membuat kesimpulan 	
+		analisis data - mengumpulkan data - mengkomunikasikan hasil - membuat kesimpulan - mengambil keputusan 	
+----------------------------------------------------------------------------
+38 	
+
+Kerahasiaan data dan jaringan komputer disuatu perusahaan/institusi harus dilindungi agar tidak bocor atau dicuri oleh hacker seperti isu yang muncul akhir-akhir ini. Oleh karenanya, dibutuhkan seseorang untuk mengatasi permasalahan tersebut yaitu …
+	
+		Computer Network Engineer 	
+		Developer Software 	
+		Programmer 	
+		Developer Software 	
+	Benar 	Analisis keamanan informasi 	
+----------------------------------------------------------------------------
+39 	Pemasangan perangkat baru (baik secara hardware, software dan konfigurasi) dan penggantian perangkat karena permasalahan perangkat merupakan tanggung jawab .... 	
+	Benar 	Telekom Engineer 	
+		Computer Network Engineer 	
+		Radio optimisasi Network Engineer 	
+		Drive test Engineer 	
+		CME (Civil – Mechanical – Electrical) Engineer 	
+----------------------------------------------------------------------------
+40 	
+
+Keberlangsungan dan stabilitas jaringan internet dalam suatu organisasi maupun perusahaan merupakan tanggung jawab ....
+	
+	Benar 	Computer Network Engineer 	
+		Developer Software 	
+		Programmer 	
+		Developer Software 	
+		Analisis Sistem Komputer 	
+----------------------------------------------------------------------------
