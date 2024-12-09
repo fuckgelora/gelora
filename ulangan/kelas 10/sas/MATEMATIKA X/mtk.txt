@@ -1,0 +1,455 @@
+Daftar Soal
+Topik = MATEMATIKA X-ALLJURUSAN-PSAS
+1 	Hasil dari (2.571 × 25) + (25 × 1.527) adalah ....
+	
+	Benar 	102450 	
+		102540 	
+		421.050
+	
+		210540 	
+		
+210.140 	
+----------------------------------------------------------------------------
+2 	Nilai dari 2³ × 2⁴ adalah ...
+	
+	Benar 	2⁷ 	
+		2¹² 	
+		4⁷
+	
+		8⁴ 	
+		16² 	
+----------------------------------------------------------------------------
+3 	Hasil dari (3²)³ adalah ... 	
+		3⁵ 	
+	Benar 	3⁶ 	
+		6 	
+		9³ 	
+		27² 	
+----------------------------------------------------------------------------
+4 	Bentuk sederhana dari 5⁻² adalah ... 	
+		-25 	
+		−1/25
+	
+	Benar 	1/25
+	
+		25 	
+		5 	
+----------------------------------------------------------------------------
+5 	Nilai x yang memenuhi persamaan 2ˣ = 16 adalah ... 	
+		2 	
+		3 	
+	Benar 	4 	
+		8 	
+		16 	
+----------------------------------------------------------------------------
+6 	Hasil dari (a³b²)⁴ adalah ... 	
+		a⁷b⁶ 	
+	Benar 	a¹²b⁸ 	
+		a¹²b² 	
+		a³b⁸ 	
+		a⁴b⁶ 	
+----------------------------------------------------------------------------
+7 	Sederhanakan bentuk √8! 	
+	Benar 	2√2 	
+		4√2 	
+		8√2 	
+		16√2 	
+		32√2 	
+----------------------------------------------------------------------------
+8 	Nilai dari (√3)² + (√2)² adalah ... 	
+		1 	
+		2 	
+		3 	
+	Benar 	5 	
+		6 	
+----------------------------------------------------------------------------
+9 	Jika a = 2 dan b = 3, maka nilai dari (a²b⁻¹)³ adalah ... 	
+		8/9
+	
+		8/27
+	
+		27/8
+	
+	Benar 	64/27 	
+		27/64 	
+----------------------------------------------------------------------------
+10 	Sederhanakan bentuk (2√5)² 	
+	Benar 	20 	
+		4√5 	
+		5√4 	
+		10 	
+		25 	
+----------------------------------------------------------------------------
+11 	Nilai x yang memenuhi persamaan 3ˣ⁻¹ = 27 adalah ... 	
+		2 	
+		3 	
+	Benar 	4 	
+		5 	
+		6 	
+----------------------------------------------------------------------------
+12 	Sebuah koloni bakteri berkembang biak dengan cara membelah diri setiap 30 menit. Jika awalnya terdapat 100 bakteri, berapa banyak bakteri setelah 3 jam? 	
+		200 	
+		400 	
+		1600 	
+		3200 	
+	Benar 	6400 	
+----------------------------------------------------------------------------
+13 	Suatu zat radioaktif meluruh menjadi setengah bagian setiap 5 hari. Jika awalnya terdapat 80 gram zat, berapa gram zat yang tersisa setelah 20 hari? 	
+	Benar 	5 gram 	
+		10 gram 	
+		20 gram 	
+		40 gram 	
+		80 gram 	
+----------------------------------------------------------------------------
+14 	Nilai dari 2log 8 adalah... 	
+		1 	
+		2 	
+	Benar 	3 	
+		4 	
+		5 	
+----------------------------------------------------------------------------
+15 	Jika 3log 9 = x, maka nilai x adalah... 	
+		1 	
+	Benar 	2 	
+		3 	
+		4 	
+		5 	
+----------------------------------------------------------------------------
+16 	Bentuk sederhana dari 5log 125 + 2log 8 adalah... 	
+		7 	
+	Benar 	6 	
+		9 	
+		10 	
+		11 	
+----------------------------------------------------------------------------
+17 	Bentuk eksponen dari log 81 = 4 adalah... 	
+	Benar 	3⁴ = 81 	
+		81⁴ = 3 	
+		4³ = 81 	
+		81³ = 4 	
+		3⁸¹ = 4 	
+----------------------------------------------------------------------------
+18 	Penyelesaian dari persamaan 2log (x + 1) = 3 adalah... 	
+		x = 1 	
+		x = 2 	
+		x = 3 	
+	Benar 	x = 7 	
+		x = 8 	
+----------------------------------------------------------------------------
+19 	Jika log 2 = a dan log 3 = b, maka nilai log 12 adalah... 	
+		a + b 	
+	Benar 	2a + b 	
+		a + 2b 	
+		3a + b 	
+		a + 3b 	
+----------------------------------------------------------------------------
+20 	Nilai dari 5log 1/25 adalah... 	
+		2 	
+	Benar 	-2 	
+		
+1/2
+	
+		
+-1/2
+	
+		5 	
+----------------------------------------------------------------------------
+21 	Sebuah bakteri membelah diri menjadi dua setiap 20 menit. Jika awalnya ada 1 bakteri, maka banyak bakteri setelah 2 jam adalah... 	
+		32 	
+		64 	
+		128 	
+		256 	
+	Benar 	512 	
+----------------------------------------------------------------------------
+22 	Bentuk sederhana dari √125 adalah... 	
+	Benar 	5√5 	
+		5√3 	
+		3√5 	
+		3√3 	
+		√5 	
+----------------------------------------------------------------------------
+23 	Jika 2ˣ = 8 dan 3ʸ = 27, maka nilai dari x + y adalah... 	
+		4 	
+		5 	
+	Benar 	6 	
+		7 	
+		8 	
+----------------------------------------------------------------------------
+24 	Bentuk sederhana dari (a²b³)⁴ : (ab)² adalah... 	
+	Benar 	
+
+a⁶b10
+	
+		a⁸b¹⁰ 	
+		a⁴b⁵ 	
+		a²b 	
+		ab 	
+----------------------------------------------------------------------------
+25 	Nilai dari (2³)² : 2⁵ adalah... 	
+	Benar 	2 	
+		4 	
+		8 	
+		16 	
+		32 	
+----------------------------------------------------------------------------
+26 	Jika diketahui log 2 = 0,3010 dan log 3 = 0,4771 maka nilai dari log 12 adalah . . . . 	
+		19084 	
+		1.806 	
+		0.903 	
+		1.4313 	
+	Benar 	1.0791 	
+----------------------------------------------------------------------------
+27 	Nilai dari 2log 24 + 2log 3 – 2log 9 = . . . . 	
+		6 	
+		5 	
+		9 	
+		4 	
+	Benar 	3 	
+----------------------------------------------------------------------------
+28 	Rumus suku ke-n, dari baris 5, 10, 15, 20, . . . adalah . . . 	
+		2n 	
+		3n 	
+		4n 	
+	Benar 	5n 	
+		6n 	
+----------------------------------------------------------------------------
+29 	Suku perta dan beda dari baris 2, -1, -4, -7, . . . adalah . . . 	
+		2 dan -1 	
+		2 dan 1 	
+	Benar 	2 dan -3 	
+		2 dan 3 	
+		2 dan 0 	
+----------------------------------------------------------------------------
+30 	Untuk membuat ulir disediakan roda gigi pengganti. Banyak gigi yang dibuat oleh roda gigi masing- masing membentuk deret aritmetika, yaitu 20, 25, 30, . . . , 120. Banyak roda gigi yang disediakan adalah . . . 	
+		20 	
+	Benar 	21 	
+		22 	
+		23 	
+		24 	
+----------------------------------------------------------------------------
+31 	Antara bilangan 8 dan 127 disisipkan 6 bilangan sehingga membentuk barisan aritmetika. Maka beda dan suku ke 11 dari barisan tersebut adalah . . . . 	
+		8 dan 170 	
+	Benar 	17 dan 178 	
+		18 dan 178 	
+		7 dan 119 	
+		20 dan 180 	
+----------------------------------------------------------------------------
+32 	
+
+Suku tengah suatu barisan aritmetika adalah -80 dan suku terakhirnya -160. Jika suku ke-4 adalah -16 dan banyak suku barisannya ganjil, maka suku pertama barisan tersebut adalah . . . .
+	
+		
+
+-1
+	
+		-2 	
+		-3 	
+	Benar 	
+
+-4
+	
+		
+
+0
+	
+----------------------------------------------------------------------------
+33 	
+
+Bentuk sederhana dari 4√5+ 2√5  adalah . . . .
+	
+	Benar 	
+
+6√5
+	
+		
+
+6√25
+	
+		
+
+6√10
+	
+		
+
+10√8
+	
+		
+
+16√5
+	
+----------------------------------------------------------------------------
+34 	
+
+ Rasional dari adalah . . . . (√3- √2)/(√3+ √2)
+	
+		
+
+2√6
+	
+		
+
+5√6
+	
+	Benar 	
+
+5-2√6
+	
+		
+
+-2√6
+	
+		
+
+2
+	
+----------------------------------------------------------------------------
+35 	
+
+Jumlah 10 suku pertama dari 2 + 4 + 6 + 8 + ….. + adalah ….
+	
+	Benar 	
+
+110
+	
+		
+
+101
+	
+		
+
+105
+	
+		
+
+125
+	
+		
+
+155
+	
+----------------------------------------------------------------------------
+36 	
+
+Diketahui deret geometri 3 + 9 + 27 + 81 + …. + jumlah 10 suku pertama adalah ….
+	
+	Benar 	
+
+88572
+	
+		
+
+88002
+	
+		
+
+88570
+	
+		
+
+78572
+	
+		
+
+87575
+	
+----------------------------------------------------------------------------
+37 	
+
+Diketahui baris aritmetika 2, -1, -4, -7, . . . Rumus suku ke-n barisan tersebut adalah . . . .
+	
+	Benar 	
+
+-3n + 5
+	
+		
+
+-3n - 5
+	
+		
+
+n + 5
+	
+		
+
+-n + 5
+	
+		
+
+-3n - 5
+	
+----------------------------------------------------------------------------
+38 	
+
+Rumus suku ke-n, dari baris 5, 10, 15, 20, . . .  adalah  . . .
+	
+		
+
+2n
+	
+		
+
+3n
+	
+		
+
+4n
+	
+	Benar 	
+
+5n
+	
+		
+
+6n
+	
+----------------------------------------------------------------------------
+39 	
+
+Jumlah 18 suku pertama deret aritmetika 50 + 48 + 46 + …. + adalah ….
+	
+		
+
+1224
+	
+		
+
+1.206
+	
+	Benar 	
+
+594
+	
+		
+
+549
+	
+		
+
+678
+	
+----------------------------------------------------------------------------
+40 	
+
+Suatu perusahaan memproduksi 5.000 unit barang pada tahun pertama. Pada tahun-tahun berikutnya, hasil produksi turun secara bertahap sebesar 80 unit pertahun. Pada tahun ke berapakah perusahaan tersebut hanya memproduksi 3.000 unit barang . . . .
+	
+	Benar 	
+
+26
+	
+		
+
+28
+	
+		
+
+35
+	
+		
+
+15
+	
+		
+
+75
+	
+----------------------------------------------------------------------------
