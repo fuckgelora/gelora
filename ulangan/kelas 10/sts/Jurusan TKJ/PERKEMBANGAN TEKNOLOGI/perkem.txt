@@ -1,0 +1,627 @@
+Daftar Soal
+Topik = PERKEMBANGAN TEKNOLOGI-X-TKJ-STS
+1 	
+
+1. Apa yang dimaksud dengan jaringan komputer? 
+	
+		
+
+   A. Kumpulan perangkat keras 
+	
+		
+
+   B. Kumpulan perangkat lunak 
+	
+	Benar 	
+
+ C. Koneksi antar komputer untuk berbagi data 
+	
+		
+
+   D. Koneksi internet 
+	
+		
+
+   E. Kumpulan server
+	
+----------------------------------------------------------------------------
+2 	
+
+2. Protokol yang umum digunakan untuk komunikasi data di jaringan adalah: 
+	
+		
+
+   A. HTTP 
+	
+		
+
+   B. FTP 
+	
+	Benar 	
+
+   C. TCP/IP 
+	
+		
+
+   D. SMTP 
+	
+		
+
+   E. DNS
+	
+----------------------------------------------------------------------------
+3 	
+
+3. Perangkat yang berfungsi untuk menghubungkan beberapa jaringan adalah: 
+	
+		
+
+   A. Switch 
+	
+		
+
+   B. Hub 
+	
+	Benar 	
+
+C. Router 
+	
+		
+
+   D. Modem 
+	
+		
+
+   E. Repeater
+	
+----------------------------------------------------------------------------
+4 	
+
+4. Apa fungsi dari DNS dalam jaringan? 
+	
+		
+
+   A. Mengatur trafik jaringan 
+	
+	Benar 	
+
+   B. Mengubah alamat IP menjadi nama domain 
+	
+		
+
+   C. Menghubungkan jaringan lokal 
+	
+		
+
+   D. Mengamankan data 
+	
+		
+
+   E. Mengirim email
+	
+----------------------------------------------------------------------------
+5 	
+
+5. Teknologi yang digunakan untuk jaringan nirkabel adalah: 
+	
+		
+
+   A. Fiber Optik 
+	
+		
+
+   B. Ethernet 
+	
+	Benar 	
+
+   C. Wi-Fi 
+	
+		
+
+   D. Coaxial Cable 
+	
+		
+
+   E. DSL
+	
+----------------------------------------------------------------------------
+6 	
+
+6. Apa kepanjangan dari LAN? 
+	
+	Benar 	
+
+A. Local Area Network 
+	
+		
+
+   B. Long Area Network 
+	
+		
+
+   C. Local Access Network 
+	
+		
+
+   D. Large Area Network 
+	
+		
+
+   E. Light Area Network
+	
+----------------------------------------------------------------------------
+7 	
+
+7. Salah satu keuntungan menggunakan jaringan nirkabel adalah: 
+	
+		
+
+   A. Kecepatan tinggi 
+	
+	Benar 	
+
+ B. Mobilitas 
+	
+		
+
+   C. Biaya tinggi 
+	
+		
+
+   D. Rentan terhadap gangguan 
+	
+		
+
+   E. Membutuhkan kabel
+	
+----------------------------------------------------------------------------
+8 	
+
+8. Jaringan yang mencakup area yang lebih luas seperti kota atau negara disebut: 
+	
+		
+
+   A. LAN 
+	
+	Benar 	
+
+B. WAN 
+	
+		
+
+   C. MAN 
+	
+		
+
+   D. PAN 
+	
+		
+
+   E. CAN
+	
+----------------------------------------------------------------------------
+9 	
+
+9. Apa itu IP Address? 
+	
+		
+
+   A. Alamat email 
+	
+		
+
+   B. Alamat untuk mengakses aplikasi 
+	
+	Benar 	
+
+C. Identitas unik untuk setiap perangkat di jaringan 
+	
+		
+
+   D. Alamat fisik perangkat 
+	
+		
+
+   E. Alamat domain
+	
+----------------------------------------------------------------------------
+10 	
+
+10. Model referensi yang digunakan dalam jaringan komputer adalah: 
+	
+	Benar 	
+
+A. OSI 
+	
+		
+
+   B. TCP 
+	
+		
+
+   C. UDP 
+	
+		
+
+   D. HTTP 
+	
+		
+
+   E. FTP
+	
+----------------------------------------------------------------------------
+11 	
+
+11. Standar Wi-Fi yang umum digunakan saat ini adalah: 
+	
+		
+
+   A. 802.11a 
+	
+		
+
+   B. 802.11b 
+	
+		
+
+   C. 802.11g 
+	
+	Benar 	
+
+   D. 802.11ac 
+	
+		
+
+   E. 802.11n
+	
+----------------------------------------------------------------------------
+12 	
+
+12. Apa yang dimaksud dengan bandwidth? 
+	
+		
+
+   A. Jumlah perangkat dalam jaringan 
+	
+		
+
+   B. Kecepatan transfer data dalam jaringan 
+	
+	Benar 	
+
+C. Jumlah data yang dapat ditransfer dalam waktu tertentu 
+	
+		
+
+   D. Kualitas sinyal nirkabel 
+	
+		
+
+   E. Jarak jangkauan jaringan
+	
+----------------------------------------------------------------------------
+13 	
+
+13. Perangkat yang digunakan untuk memperluas jangkauan sinyal Wi-Fi adalah: 
+	
+		
+
+   A. Switch 
+	
+		
+
+   B. Router 
+	
+	Benar 	
+
+C. Repeater 
+	
+		
+
+   D. Hub 
+	
+		
+
+   E. Modem
+	
+----------------------------------------------------------------------------
+14 	
+
+14. Salah satu teknologi nirkabel yang digunakan untuk komunikasi jarak pendek adalah: 
+	
+	Benar 	
+
+   A. Bluetooth 
+	
+		
+
+   B. 4G 
+	
+		
+
+   C. WiMAX 
+	
+		
+
+   D. Zigbee 
+	
+		
+
+   E. LTE
+	
+----------------------------------------------------------------------------
+15 	
+
+15. Apa itu hotspot? 
+	
+		
+
+   A. Jaringan kabel 
+	
+	Benar 	
+
+B. Titik akses nirkabel untuk koneksi internet 
+	
+		
+
+   C. Server 
+	
+		
+
+   D. Modem portabel 
+	
+		
+
+   E. Jaringan lokal
+	
+----------------------------------------------------------------------------
+16 	
+
+16. Frekuensi yang umum digunakan untuk jaringan Wi-Fi adalah: 
+	
+	Benar 	
+
+   A. 2.4 GHz dan 5 GHz 
+	
+		
+
+   B. 1.5 GHz dan 3.5 GHz 
+	
+		
+
+   C. 900 MHz dan 1.8 GHz 
+	
+		
+
+   D. 6 GHz dan 8 GHz 
+	
+		
+
+   E. 10 GHz dan 12 GHz
+	
+----------------------------------------------------------------------------
+17 	
+
+17. Apa itu VPN dalam konteks jaringan? 
+	
+	Benar 	
+
+A. Virtual Private Network 
+	
+		
+
+   B. Very Private Network 
+	
+		
+
+   C. Variable Protocol Network 
+	
+		
+
+   D. Virtual Public Network 
+	
+		
+
+   E. Vast Private Network
+	
+----------------------------------------------------------------------------
+18 	
+
+18. Perangkat yang digunakan untuk mengatur lalu lintas data di jaringan adalah: 
+	
+		
+
+   A. Modem 
+	
+		
+
+   B. Switch 
+	
+	Benar 	
+
+C. Router 
+	
+		
+
+   D. Hub 
+	
+		
+
+   E. Access Point
+	
+----------------------------------------------------------------------------
+19 	
+
+19. Apa keuntungan menggunakan teknologi nirkabel? 
+	
+		
+
+   A. Stabilitas tinggi 
+	
+	Benar 	
+
+B. Mobilitas dan fleksibilitas 
+	
+		
+
+   C. Biaya yang lebih tinggi 
+	
+		
+
+   D. Koneksi yang lebih lambat 
+	
+		
+
+   E. Ketergantungan pada kabel
+	
+----------------------------------------------------------------------------
+20 	
+
+20. Apa yang dimaksud dengan sinyal interferensi dalam jaringan nirkabel? 
+	
+		
+
+   A. Sinyal yang kuat 
+	
+		
+
+   B. Sinyal yang stabil 
+	
+	Benar 	
+
+C. Gangguan yang mengurangi kualitas sinyal 
+	
+		
+
+   D. Sinyal yang meningkatkan kecepatan 
+	
+		
+
+   E. Sinyal yang aman
+	
+----------------------------------------------------------------------------
+21 	
+
+21. Teknologi yang memungkinkan perangkat untuk berkomunikasi satu sama lain tanpa kabel disebut: 
+	
+		
+
+   A. Wired Communication 
+	
+	Benar 	
+
+  B. Wireless Communication 
+	
+		
+
+   C. Fiber Optic Communication 
+	
+		
+
+   D. Satellite Communication 
+	
+		
+
+   E. Network Communication
+	
+----------------------------------------------------------------------------
+22 	
+
+22. Apa fungsi dari firewall dalam jaringan? 
+	
+		
+
+   A. Mempercepat koneksi 
+	
+	Benar 	
+
+B. Mengamankan jaringan dari ancaman 
+	
+		
+
+   C. Meningkatkan bandwidth 
+	
+		
+
+   D. Menghubungkan jaringan 
+	
+		
+
+   E. Menyimpan data
+	
+----------------------------------------------------------------------------
+23 	
+
+23. Teknologi yang digunakan untuk menghubungkan perangkat dalam jarak dekat seperti smartphone adalah: 
+	
+	Benar 	
+
+   A. Bluetooth 
+	
+		
+
+   B. Wi-Fi 
+	
+		
+
+   C. Ethernet 
+	
+		
+
+   D. Fiber Optik 
+	
+		
+
+   E. DSL
+	
+----------------------------------------------------------------------------
+24 	
+
+24. Apa yang dimaksud dengan jaringan peer-to-peer? 
+	
+		
+
+   A. Jaringan terpusat 
+	
+	Benar 	
+
+B. Jaringan tanpa server 
+	
+		
+
+   C. Jaringan berlangganan 
+	
+		
+
+   D. Jaringan dengan satu administrator 
+	
+		
+
+   E. Jaringan terdistribusi
+	
+----------------------------------------------------------------------------
+25 	
+
+25. Apa keuntungan utama dari menggunakan teknologi fiber optik? 
+	
+		
+
+   A. Biaya rendah 
+	
+	Benar 	
+
+   B. Kecepatan tinggi dan kapasitas besar 
+	
+		
+
+   C. Mudah dipasang 
+	
+		
+
+   D. Rentan terhadap interferensi 
+	
+		
+
+   E. Terbatas jarak
+	
+----------------------------------------------------------------------------
