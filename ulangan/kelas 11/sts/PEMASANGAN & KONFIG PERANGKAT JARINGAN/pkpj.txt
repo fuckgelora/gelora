@@ -1,0 +1,627 @@
+Daftar Soal
+Topik = PEMASANGAN & KONFIG PERANGKAT JARINGAN -XI-TKJ-STS
+1 	
+
+Kabel apa yang biasanya digunakan untuk menghubungkan switch ke router?
+	
+	Benar 	
+
+Kabel straight-through
+	
+		
+
+Kabel crossover
+	
+		
+
+Kabel fiber optic
+	
+		
+
+Kabel coaxial
+	
+		
+
+Kabel telepon
+	
+----------------------------------------------------------------------------
+2 	
+
+Pada konfigurasi jaringan IP statis, informasi apa yang tidak perlu dimasukkan?
+	
+		
+
+Alamat IP
+	
+		
+
+Subnet mask
+	
+		
+
+Default gateway
+	
+		
+
+Alamat DNS server
+	
+	Benar 	
+
+MAC Address
+	
+----------------------------------------------------------------------------
+3 	
+
+Pada konfigurasi jaringan, alamat IP berikut manakah yang termasuk dalam kelas C?
+	
+	Benar 	
+
+192.168.1.1
+	
+		
+
+10.0.0.1
+	
+		
+
+172.16.0.1
+	
+		
+
+127.0.0.1
+	
+		
+
+224.0.0.1
+	
+----------------------------------------------------------------------------
+4 	
+
+Apa tujuan utama dari konfigurasi IP pada router?
+	
+		
+
+Menentukan kapasitas memori router
+	
+		
+
+Mengatur kecepatan transmisi data
+	
+	Benar 	
+
+Mengidentifikasi jaringan dan perangkat yang terhubung
+	
+		
+
+Menyediakan layanan DNS untuk perangkat
+	
+		
+
+Menghubungkan router ke sumber listrik
+	
+----------------------------------------------------------------------------
+5 	
+
+Perintah apa yang digunakan untuk memeriksa konfigurasi IP pada perangkat Cisco?
+	
+		
+
+show ip route
+	
+	Benar 	
+
+show interfaces
+	
+		
+
+ipconfig
+	
+		
+
+ifconfig
+	
+		
+
+show running-config
+	
+----------------------------------------------------------------------------
+6 	
+
+Apa langkah pertama yang harus dilakukan saat mengonfigurasi router baru di sebuah jaringan?
+	
+		
+
+Mengatur alamat IP statis pada setiap perangkat klien 
+	
+	Benar 	
+
+Menghubungkan router ke sumber listrik dan menghidupkannya 
+	
+		
+
+Memperbarui firmware router ke versi terbaru 
+	
+		
+
+Mengatur kata sandi Wi-Fi dan enkripsi
+	
+		
+
+Menyiapkan server DHCP untuk mengelola alamat IP 
+	
+----------------------------------------------------------------------------
+7 	
+
+Jenis kabel apa yang umum digunakan untuk menghubungkan komputer ke jaringan ethernet?
+	
+		
+
+Kabel koaksial
+	
+		
+
+Kabel fiber optic
+	
+	Benar 	
+
+Kabel RJ-45
+	
+		
+
+Kabel HDMI
+	
+		
+
+Kabel USB
+	
+----------------------------------------------------------------------------
+8 	
+
+Open Shortest Path First (OSPF) adalah:
+	
+	Benar 	
+
+Protokol routing dinamis yang digunakan untuk menukar informasi routing antar router dalam satu domain routing.
+	
+		
+
+Protokol routing statis yang dikonfigurasi secara manual oleh administrator jaringan
+	
+		
+
+Perangkat keras yang digunakan untuk menghubungkan dua jaringan berbeda
+	
+		
+
+Jenis kabel jaringan yang digunakan untuk menghubungkan router
+	
+		
+
+Software yang digunakan untuk memonitor dan mengelola jaringan
+	
+----------------------------------------------------------------------------
+9 	
+
+Protokol yang biasanya digunakan untuk mengakses perangkat jaringan secara jarak jauh adalah:
+	
+		
+
+HTTP
+	
+	Benar 	
+
+SSH
+	
+		
+
+FTP
+	
+		
+
+SMTP
+	
+		
+
+POP3
+	
+----------------------------------------------------------------------------
+10 	
+
+Port default yang digunakan oleh protokol HTTP adalah.....
+	
+		
+
+21
+	
+		
+
+22
+	
+	Benar 	
+
+80
+	
+		
+
+443
+	
+		
+
+232
+	
+----------------------------------------------------------------------------
+11 	
+
+Protokol yang digunakan untuk transfer file secara aman antara dua perangkat adalah....
+	
+		
+
+FTP
+	
+		
+
+TFTP
+	
+		
+
+SSH
+	
+	Benar 	
+
+SFTP
+	
+		
+
+HTS
+	
+----------------------------------------------------------------------------
+12 	
+
+Apa fungsi dari DHCP dalam jaringan?
+	
+	Benar 	
+
+Menyediakan alamat IP secara dinamis
+	
+		
+
+Menghubungkan perangkat jaringan
+	
+		
+
+Mengamankan koneksi jaringan
+	
+		
+
+Memonitor penggunaan jaringan
+	
+		
+
+Menghubungkan dua jaringan
+	
+----------------------------------------------------------------------------
+13 	
+
+Apa yang dimaksud dengan routing statis?
+	
+		
+
+Sebuah protokol routing yang secara otomatis mempelajari jaringan dan membuat tabel routing
+	
+	Benar 	
+
+Sebuah metode konfigurasi routing yang dilakukan secara manual oleh administrator jaringan
+	
+		
+
+Sebuah perangkat keras yang digunakan untuk menghubungkan dua jaringan berbeda
+	
+		
+
+Sebuah jenis kabel jaringan yang digunakan untuk menghubungkan router
+	
+		
+
+Sebuah software yang digunakan untuk memonitor dan mengelola jaringan
+	
+----------------------------------------------------------------------------
+14 	
+
+Perangkat jaringan manakah yang berfungsi untuk membagi lalu lintas data antar beberapa jaringan yang berbeda?
+	
+		
+
+Hub
+	
+		
+
+Switch
+	
+	Benar 	
+
+Router
+	
+		
+
+Access Point
+	
+		
+
+Repeater
+	
+----------------------------------------------------------------------------
+15 	
+
+Apa langkah pertama yang harus dilakukan saat memasang perangkat jaringan baru, seperti switch atau router, dalam jaringan yang sudah ada?
+	
+		
+
+Menghubungkan perangkat langsung ke internet
+	
+	Benar 	
+
+Menentukan alamat IP yang sesuai untuk perangkat
+	
+		
+
+Mengkonfigurasi firewall sebelum memasang perangkat
+	
+		
+
+Menginstal antivirus pada perangkat
+	
+		
+
+Melakukan backup semua data jaringan terlebih dahulu
+	
+----------------------------------------------------------------------------
+16 	
+
+Hal-hal yang perlu diperhatikan dalam melakukan konfigurasi routing statis adalah:
+	
+		
+
+Network address dan subnet mask yang benar
+	
+		
+
+Next hop IP address yang benar
+	
+		
+
+Interface yang digunakan untuk keluar (outgoing) traffic
+	
+		
+
+Administrative distance yang tepat
+	
+	Benar 	
+
+Semua jawaban benar
+	
+----------------------------------------------------------------------------
+17 	
+
+Perintah yang digunakan untuk menyimpan konfigurasi routing statis pada Cisco Router adalah:
+	
+		
+
+write
+	
+	Benar 	
+
+copy running-config startup-config
+	
+		
+
+reload
+	
+		
+
+erase startup-config
+	
+		
+
+shutdown
+	
+----------------------------------------------------------------------------
+18 	
+
+Apa peran utama dari protokol DNS dalam jaringan?
+	
+	Benar 	
+
+Menerjemahkan nama domain menjadi alamat IP
+	
+		
+
+Mengelola alamat IP dinamis
+	
+		
+
+Mengamankan transmisi data
+	
+		
+
+Menghubungkan dua jaringan lokal
+	
+		
+
+Menghubungkan perangkat jaringan
+	
+----------------------------------------------------------------------------
+19 	
+
+Perintah yang digunakan untuk mengaktifkan IGRP pada Cisco Router adalah:
+	
+		
+
+ip route 192.168.1.0 255.255.255.0 10.1.1.1
+	
+		
+
+ip route 0.0.0.0 0.0.0.0 10.1.1.1
+	
+	Benar 	
+
+router igrp
+	
+		
+
+network 192.168.1.0
+	
+		
+
+interface Ethernet0/0
+	
+----------------------------------------------------------------------------
+20 	
+
+Berikut ini adalah beberapa metrik yang digunakan IGRP untuk menghitung jalur terbaik:
+	
+		
+
+Bandwidth
+	
+		
+
+Delay
+	
+		
+
+Load
+	
+		
+
+Reliability
+	
+	Benar 	
+
+Semua jawaban benar
+	
+----------------------------------------------------------------------------
+21 	
+
+Apa yang dimaksud dengan perangkat Switch dalam jaringan komputer?
+	
+		
+
+Perangkat yang menghubungkan jaringan lokal dengan jaringan lain
+	
+	Benar 	
+
+Perangkat yang mengelola lalu lintas data antar komputer di dalam jaringan lokal
+	
+		
+
+Perangkat yang mengubah sinyal digital menjadi sinyal analog
+	
+		
+
+Perangkat yang digunakan untuk memberikan alamat IP pada setiap perangkat di jaringan
+	
+		
+
+Perangkat yang berfungsi sebagai pengaman jaringan dari serangan luar
+	
+----------------------------------------------------------------------------
+22 	
+
+Perangkat jaringan yang berfungsi untuk menghubungkan dua jaringan berbeda, misalnya antara jaringan lokal dengan jaringan internet adalah...
+	
+		
+
+Hub
+	
+		
+
+Switch
+	
+		
+
+Modem
+	
+	Benar 	
+
+Router
+	
+		
+
+Access Point
+	
+----------------------------------------------------------------------------
+23 	
+
+Metode enkripsi apa yang digunakan oleh protokol WPA2 untuk mengamankan jaringan nirkabel?
+	
+		
+
+DES
+	
+	Benar 	
+
+AES
+	
+		
+
+WEP
+	
+		
+
+RSA
+	
+		
+
+TKIP
+	
+----------------------------------------------------------------------------
+24 	
+
+Apa fungsi utama dari Firewall dalam jaringan?
+	
+		
+
+Meningkatkan kecepatan jaringan
+	
+	Benar 	
+
+Mengelola dan memonitor lalu lintas data untuk tujuan keamanan
+	
+		
+
+Menghubungkan perangkat di dalam jaringan
+	
+		
+
+Mengatur alokasi alamat IP
+	
+		
+
+Menyediakan akses ke internet
+	
+----------------------------------------------------------------------------
+25 	
+
+Apa fungsi dari kabel straight-through dalam pemasangan jaringan?
+	
+		
+
+Menghubungkan komputer ke komputer
+	
+	Benar 	
+
+Menghubungkan komputer ke switch
+	
+		
+
+Menghubungkan switch ke switch
+	
+		
+
+Menghubungkan router ke router
+	
+		
+
+Menghubungkan komputer ke router
+	
+----------------------------------------------------------------------------
