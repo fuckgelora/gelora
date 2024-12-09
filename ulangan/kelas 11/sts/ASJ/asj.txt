@@ -1,0 +1,627 @@
+Daftar Soal
+Topik = ASJ-XI-TKJ-STS
+1 	
+
+Apa fungsi dari DHCP dalam jaringan?
+	
+		
+
+Menyimpan data 
+	
+		
+
+Mengatur akses pengguna 
+	
+	Benar 	
+
+Memberikan alamat IP
+	
+		
+
+Mentransmisikan data 
+	
+		
+
+Menghubungkan perangkat 
+	
+----------------------------------------------------------------------------
+2 	
+
+Apa yang dimaksud dengan NAT?
+	
+		
+
+Network Access Transfer 
+	
+	Benar 	
+
+Network Address Translation
+	
+		
+
+Network Application Tool 
+	
+		
+
+Network Allocation Table 
+	
+		
+
+Network Adapter Technology 
+	
+----------------------------------------------------------------------------
+3 	
+
+Sistem operasi mana yang paling umum digunakan untuk server jaringan?
+	
+		
+
+Windows 
+	
+	Benar 	
+
+Linux
+	
+		
+
+MacOS 
+	
+		
+
+Android 
+	
+		
+
+iOS 
+	
+----------------------------------------------------------------------------
+4 	
+
+Apa peran dari firewall dalam administrasi jaringan?
+	
+		
+
+Mengatur kecepatan internet 
+	
+	Benar 	
+
+Mencegah akses tidak sah
+	
+		
+
+Mengelola perangkat 
+	
+		
+
+Meningkatkan bandwidth 
+	
+		
+
+Menyimpan file 
+	
+----------------------------------------------------------------------------
+5 	
+
+Apa kepanjangan dari UTP?
+	
+	Benar 	
+
+Unshielded Twisted Pair
+	
+		
+
+Unprotected Twisted Pair 
+	
+		
+
+Universal Twisted Pair 
+	
+		
+
+Unused Twisted Pair 
+	
+		
+
+Unstable Twisted Pair 
+	
+----------------------------------------------------------------------------
+6 	
+
+Apa yang dimaksud dengan user access control di Linux?
+	
+		
+
+Kontrol akses data 
+	
+	Benar 	
+
+Kontrol akses pengguna
+	
+		
+
+Kontrol akses jaringan 
+	
+		
+
+Kontrol akses aplikasi 
+	
+		
+
+Kontrol akses sistem 
+	
+----------------------------------------------------------------------------
+7 	
+
+Dalam administrasi file Linux, apa perintah untuk melihat isi direktori?
+	
+	Benar 	
+
+ls
+	
+		
+
+dir 
+	
+		
+
+cd 
+	
+		
+
+cat 
+	
+		
+
+cp 
+	
+----------------------------------------------------------------------------
+8 	
+
+Apa tujuan dari sistem operasi jaringan?
+	
+	Benar 	
+
+Mengatur perangkat keras 
+	
+		
+
+Menyimpan data 
+	
+	Benar 	
+
+Mengelola jaringan
+	
+		
+
+Menjalankan aplikasi 
+	
+		
+
+Menyediakan backup 
+	
+----------------------------------------------------------------------------
+9 	
+
+Apa fungsi dari switch dalam jaringan?
+	
+	Benar 	
+
+Mentransmisikan data
+	
+		
+
+Menghubungkan ke internet 
+	
+		
+
+Mengelola kecepatan 
+	
+		
+
+Menyimpan file 
+	
+		
+
+Menyaring virus 
+	
+----------------------------------------------------------------------------
+10 	
+
+Apa yang dimaksud dengan server?
+	
+		
+
+Perangkat penyimpan 
+	
+	Benar 	
+
+Perangkat yang memberikan layanan
+	
+		
+
+Perangkat pengguna 
+	
+		
+
+Perangkat penghubung 
+	
+		
+
+Perangkat pengontrol 
+	
+----------------------------------------------------------------------------
+11 	
+
+Dalam konteks administrasi jaringan, apa itu bandwidth?
+	
+		
+
+Kapasitas penyimpanan 
+	
+	Benar 	
+
+Kecepatan transmisi data
+	
+		
+
+Jumlah pengguna 
+	
+		
+
+Jarak sinyal 
+	
+		
+
+Kualitas jaringan 
+	
+----------------------------------------------------------------------------
+12 	
+
+Apa perintah untuk membuat direktori baru di Linux?
+	
+		
+
+mkfile 
+	
+	Benar 	
+
+mkdir
+	
+		
+
+newdir 
+	
+		
+
+touch 
+	
+		
+
+rmdir 
+	
+----------------------------------------------------------------------------
+13 	
+
+Apa yang dimaksud dengan sistem file?
+	
+	Benar 	
+
+Struktur penyimpanan data
+	
+		
+
+Alat pengelola aplikasi 
+	
+		
+
+Jaringan komunikasi 
+	
+		
+
+Pengaturan pengguna 
+	
+		
+
+Pengaturan keamanan 
+	
+----------------------------------------------------------------------------
+14 	
+
+Apa peran dari router dalam jaringan?
+	
+		
+
+Mentransmisikan data 
+	
+	Benar 	
+
+Menghubungkan jaringan yang berbeda
+	
+		
+
+Menyimpan data 
+	
+		
+
+Mengatur perangkat keras 
+	
+		
+
+Mengelola akses pengguna 
+	
+----------------------------------------------------------------------------
+15 	
+
+Dalam administrasi sistem, apa itu VPN?
+	
+	Benar 	
+
+Virtual Private Network
+	
+		
+
+Very Public Network 
+	
+		
+
+Variable Protocol Network 
+	
+		
+
+Virtual Public Node 
+	
+		
+
+Vast Protected Network 
+	
+----------------------------------------------------------------------------
+16 	
+
+Apa fungsi dari DNS dalam jaringan?
+	
+		
+
+Mengatur bandwidth 
+	
+	Benar 	
+
+Mengonversi nama domain menjadi IP
+	
+		
+
+Mencegah akses tidak sah 
+	
+		
+
+Mengelola perangkat 
+	
+		
+
+Menyimpan data 
+	
+----------------------------------------------------------------------------
+17 	
+
+Apa perintah untuk menyalin file di Linux?
+	
+	Benar 	
+
+cp
+	
+		
+
+mv 
+	
+		
+
+rm 
+	
+		
+
+cat 
+	
+		
+
+ls 
+	
+----------------------------------------------------------------------------
+18 	
+
+Apa yang dimaksud dengan pengelolaan pengguna di Linux?
+	
+		
+
+Mengatur aplikasi 
+	
+		
+
+Mengatur file 
+	
+	Benar 	
+
+Mengatur akses pengguna
+	
+		
+
+Mengatur perangkat keras 
+	
+		
+
+Mengatur jaringan 
+	
+----------------------------------------------------------------------------
+19 	
+
+Apa perintah untuk menghapus file di Linux?
+	
+	Benar 	
+
+rm
+	
+		
+
+del 
+	
+		
+
+erase 
+	
+		
+
+remove 
+	
+		
+
+clean 
+	
+----------------------------------------------------------------------------
+20 	
+
+Apa yang dimaksud dengan topologi jaringan?
+	
+		
+
+Cara menghubungkan pengguna 
+	
+		
+
+Struktur pengaturan file 
+	
+		
+
+Pengaturan sistem operasi 
+	
+	Benar 	
+
+Desain jaringan
+	
+		
+
+Jenis perangkat keras 
+	
+----------------------------------------------------------------------------
+21 	
+
+Apa yang dilakukan oleh perintah 'chmod' di Linux?
+	
+		
+
+Mengubah direktori 
+	
+	Benar 	
+
+Mengubah hak akses file
+	
+		
+
+Menghapus file 
+	
+		
+
+Menyalin file 
+	
+		
+
+Menyimpan file 
+	
+----------------------------------------------------------------------------
+22 	
+
+Apa itu sistem operasi berbasis Linux?
+	
+	Benar 	
+
+Sistem yang bebas
+	
+		
+
+Sistem yang berbayar 
+	
+		
+
+Sistem yang rumit 
+	
+		
+
+Sistem yang tidak aman 
+	
+		
+
+Sistem yang cepat 
+	
+----------------------------------------------------------------------------
+23 	
+
+Apa yang dimaksud dengan client-server dalam jaringan?
+	
+		
+
+Hubungan langsung 
+	
+		
+
+Hubungan jaringan 
+	
+	Benar 	
+
+Model komunikasi
+	
+		
+
+Arsitektur aplikasi 
+	
+		
+
+Model penyimpanan data 
+	
+----------------------------------------------------------------------------
+24 	
+
+Apa manfaat dari menggunakan kabel UTP dalam jaringan?
+	
+		
+
+Biaya rendah 
+	
+		
+
+Kecepatan tinggi 
+	
+		
+
+Keamanan data 
+	
+		
+
+Kualitas sinyal 
+	
+	Benar 	
+
+Semua di atas
+	
+----------------------------------------------------------------------------
+25 	
+
+Apa perintah untuk mengecek koneksi jaringan di Linux?
+	
+	Benar 	
+
+ping
+	
+		
+
+check 
+	
+		
+
+test 
+	
+		
+
+connect 
+	
+		
+
+net 
+	
+----------------------------------------------------------------------------
