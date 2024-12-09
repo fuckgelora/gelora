@@ -1,0 +1,627 @@
+Daftar Soal
+Topik = KEAMANAN JARINGAN-XI-TKJ-STS
+1 	
+
+Upaya untuk melindungi jaringan komputer dan data dari berbagai ancaman, seperti serangan siber, pelanggaran data, dan akses tidak sah disebut juga dengan …..
+	
+		
+
+Komputer Jaringan
+	
+		
+
+Komputer Personal
+	
+		
+
+Jaringan Komputer
+	
+	Benar 	
+
+Keamanan Jaringan
+	
+		
+
+Keamanan Komputer
+	
+----------------------------------------------------------------------------
+2 	
+
+Jenis-Jenis Keamanan Jaringan , kecuali …..
+	
+	Benar 	
+
+Cisco Packet Tracer
+	
+		
+
+Enkripsi Data
+	
+		
+
+Software Antivirus
+	
+		
+
+Manajemen Patch
+	
+		
+
+Firewall
+	
+----------------------------------------------------------------------------
+3 	
+
+Berikut ini antivirus yang bisa digunakan untuk keamanan jaringan , kecuali …..
+	
+		
+
+Avast
+	
+		
+
+AVG
+	
+		
+
+Avira
+	
+		
+
+Malwarebytes
+	
+	Benar 	
+
+Deep Freeze
+	
+----------------------------------------------------------------------------
+4 	
+
+Melibatkan memperbarui perangkat lunak dan sistem operasi untuk memperbaiki kerentanan keamanan dan memastikan bahwa perangkat jaringan selalu diperbarui dengan versi yang terbaru adalah …..
+	
+		
+
+Mikrotik
+	
+		
+
+Enkripsi Data
+	
+		
+
+Software Antivirus
+	
+	Benar 	
+
+Manajemen Patch
+	
+		
+
+Firewall
+	
+----------------------------------------------------------------------------
+5 	
+
+Berikut virus yang bisa menyebabkan rusaknya sistem pada computer yaitu , kecuali …..
+	
+		
+
+Worm
+	
+		
+
+Trojan
+	
+	Benar 	
+
+Como
+	
+		
+
+Backdoor
+	
+		
+
+Rogue
+	
+----------------------------------------------------------------------------
+6 	
+
+Proses mengubah data menjadi bentuk yang tidak dapat dibaca atau diakses tanpa izin. Ini membantu melindungi data sensitif dari akses yang tidak sah atau kebocoran disebut …..
+	
+		
+
+Mikrotik
+	
+	Benar 	
+
+Enkripsi Data
+	
+		
+
+Software Antivirus
+	
+		
+
+Manajemen Patch
+	
+		
+
+Firewall
+	
+----------------------------------------------------------------------------
+7 	
+
+Program komputer yang berfungsi untuk mendeteksi, menghapus, dan mencegah perangkat lunak berbahaya (malware) dari komputer atau laptop disebut juga dengan …..
+	
+		
+
+Mikrotik
+	
+		
+
+Enkripsi Data
+	
+	Benar 	
+
+Antivirus
+	
+		
+
+Manajemen Patch
+	
+		
+
+Firewall
+	
+----------------------------------------------------------------------------
+8 	
+
+Sistem atau perangkat yang berfungsi untuk menjaga keamanan jaringan komputer dari ancaman serangan siber adalah …..
+	
+		
+
+Mikrotik
+	
+		
+
+Enkripsi Data
+	
+		
+
+Antivirus
+	
+		
+
+Manajemen Patch
+	
+	Benar 	
+
+Firewall
+	
+----------------------------------------------------------------------------
+9 	
+
+Dibawah ini adalah kelebihan dalam menggunakan keamanan jaringan, kecuali …..
+	
+		
+
+Data serta informasi pengguna terjamin keamanannya dan terlindung dari ancaman kejahatan cyber karena adanya sistem keamanan jaringan, contohnya firewall, enkripsi, autentikasi dua faktor, kata sandi yang autentik, hingga software antivirus.
+	
+	Benar 	
+
+Membutuhkan anggaran besar untuk berinvestasi pada sistem keamanan jaringan, mulai dari perangkat keras, perangkat lunak, dan sumber daya.
+	
+		
+
+Bisa mengatasi dari aktivitas mencurigakan dan aktivitas ilegal ke jaringan, sehingga dapat mengurangi risiko peretasan data dan pembajakan.
+	
+		
+
+Jadi lebih produktif karena sistem keamanan jaringan mampu mengurangi potensi gangguan operasional seperti software yang tidak dapat diakses, data hilang, perangkat komputer yang terkunci.
+	
+		
+
+Tidak perlu mengeluarkan biaya ganti rugi karena pencurian dan ancaman. Biaya ganti rugi ini termasuk proses pemulihan data hilang, pemulihan sistem rusak, dan pemulihan reputasi untuk mengembalikan kepercayaan konsumen akibat pencurian data.
+	
+----------------------------------------------------------------------------
+10 	
+
+Dibawah ini adalah kekurangan dalam menggunakan keamanan jaringan, kecuali …..
+	
+		
+
+Membutuhkan biaya yang cukup besar:
+	
+		
+
+Membutuhkan investasi yang signifikan dalam hal biaya dan sumber daya
+	
+		
+
+Membutuhkan waktu dan upaya yang cukup besar
+	
+	Benar 	
+
+Menghemat sumbar daya manusia
+	
+		
+
+Berisiko menjadi sasaran serangan yang lebih besar
+	
+----------------------------------------------------------------------------
+11 	
+
+Berikut ini adalah tools ( peralatan pemantau ) yang digunakan untuk keamanan jaringan,kecuali …..
+	
+		
+
+Nmap
+	
+		
+
+Wireshark
+	
+	Benar 	
+
+Defragment
+	
+		
+
+Lynis
+	
+		
+
+OSSEC
+	
+----------------------------------------------------------------------------
+12 	
+
+Berikut adalah beberapa jenis keamanan jaringan komputer yang umum digunakan untuk melindungi jaringan dan data dari serangan yang merusak , kecuali …..
+	
+		
+
+Keamanan fisik
+	
+		
+
+Keamanan perangkat keras
+	
+		
+
+Keamanan perangkat lunak
+	
+	Benar 	
+
+Keamanan perangkat pengguna
+	
+		
+
+Keamanan data
+	
+----------------------------------------------------------------------------
+13 	
+
+Tindakan keamanan ini meliputi pengamanan ruang server, penggunaan sensor gerak dan kamera pengawas, serta penempatan perangkat jaringan di tempat yang aman dan terkendali adalah termasuk …..
+	
+	Benar 	
+
+Keamanan fisik
+	
+		
+
+Keamanan perangkat keras
+	
+		
+
+Keamanan perangkat lunak
+	
+		
+
+Keamanan perangkat pengguna
+	
+		
+
+Keamanan data
+	
+----------------------------------------------------------------------------
+14 	
+
+Tindakan keamanan ini meliputi pemasangan perangkat antivirus dan antispyware, pembaruan rutin , serta penerapan kebijakan penggunaan perangkat yang aman adalah termasuk …..
+	
+		
+
+Keamanan fisik
+	
+		
+
+Keamanan perangkat keras
+	
+	Benar 	
+
+Keamanan perangkat lunak
+	
+		
+
+Keamanan perangkat pengguna
+	
+		
+
+Keamanan data
+	
+----------------------------------------------------------------------------
+15 	
+
+Tindakan keamanan Ini meliputi penggunaan enkripsi data, manajemen hak akses data, serta penggunaan prosedur pemulihan data dalam keadaan darurat adalah termasuk …..
+	
+		
+
+Keamanan fisik
+	
+		
+
+Keamanan perangkat keras
+	
+		
+
+Keamanan perangkat lunak
+	
+		
+
+Keamanan perangkat pengguna
+	
+	Benar 	
+
+Keamanan data
+	
+----------------------------------------------------------------------------
+16 	
+
+Seperangkat aturan yang berisi panduan cara bersikap dan berkomunikasi yang baik dan sopan di internet disebut dengan …..
+	
+		
+
+Anti Virus
+	
+		
+
+Etika berinternet
+	
+		
+
+Etika menggunakan jaringan
+	
+	Benar 	
+
+Netiket
+	
+		
+
+Software Anti Virus
+	
+----------------------------------------------------------------------------
+17 	
+
+Berikut prinsip dasar netiket yang dapat diterapkan dalam berinteraksi di dunia digital yaitu, kecuali …..
+	
+		
+
+Privasi
+	
+		
+
+Keamanan
+	
+		
+
+Verifikasi informasi
+	
+		
+
+Berpartisipasi positif
+	
+	Benar 	
+
+Berpartisipasi aktif
+	
+----------------------------------------------------------------------------
+18 	
+
+Contoh dari netiket adalah , kecuali …..
+	
+		
+
+Jangan Gunakan Huruf Kapital
+	
+		
+
+Etika mengutip “copy paste”
+	
+	Benar 	
+
+Boleh melakukan plagiat
+	
+		
+
+Kritik dan Saran yang Bersifat Pribadi Harus Lewat PM (Personal Message)
+	
+		
+
+Dilarang menghina Agama
+	
+----------------------------------------------------------------------------
+19 	
+
+Kepanjangan IETF yang tepat adalah …..
+	
+		
+
+Internet of Engineering Task Force
+	
+	Benar 	
+
+Internet Engineering Task Force
+	
+		
+
+Internet Engineering and Task Force
+	
+		
+
+Internet Engineering Task of Force
+	
+		
+
+Internet Engineering Task and Force
+	
+----------------------------------------------------------------------------
+20 	
+
+IETF adalah …..
+	
+		
+
+sebuah komunitas nasoinal yang merupakan kumpulan dari peneliti, perancang jaringan dan operator yang berperan dengan pengoperasian internet
+	
+	Benar 	
+
+sebuah komunitas internasional yang merupakan kumpulan dari peneliti, perancang jaringan dan operator yang berperan dengan pengoperasian internet
+	
+		
+
+sebuah komunitas nasional dan internasional yang merupakan kumpulan dari peneliti, perancang jaringan dan operator yang berperan dengan pengoperasian internet
+	
+		
+
+sebuah komunitas pribadi yang merupakan kumpulan dari peneliti, perancang jaringan dan operator yang berperan dengan pengoperasian internet
+	
+		
+
+sebuah komunitas non profit yang merupakan kumpulan dari peneliti, perancang jaringan dan operator yang berperan dengan pengoperasian internet
+	
+----------------------------------------------------------------------------
+21 	
+
+Kebijakan pengguna jaringan dibagi tiga , yaitu …..
+	
+		
+
+kebijakan personal, etika menggunakan jaringan dan kebijakan mengakses computer
+	
+		
+
+kebijakan pribadi, etika menggunakan jaringan dan kebijakan mengakses computer
+	
+		
+
+kebijakan masyarakat, etika menggunakan jaringan dan kebijakan mengakses computer
+	
+	Benar 	
+
+kebijakan organisasi, etika menggunakan jaringan dan kebijakan mengakses computer
+	
+		
+
+kebijakan dunia luar, etika menggunakan jaringan dan kebijakan mengakses computer
+	
+----------------------------------------------------------------------------
+22 	
+
+Suatu kebijakan mengenai keamanan jaringan yang dikeluarkan oleh sebuah instansi atau lembaga tempat dimana sistem jaringan tersebut berada disebut dengan …..
+	
+		
+
+kebijakan personal
+	
+		
+
+kebijakan pribadi
+	
+		
+
+kebijakan masyarakat
+	
+	Benar 	
+
+kebijakan organisasi
+	
+		
+
+kebijakan dunia luar
+	
+----------------------------------------------------------------------------
+23 	
+
+Beberapa hal yang perlu diperhatikan atau etika dalam berkomunikasi dalam dunia maya adalah , kecuali …..
+	
+		
+
+Gunakan bahasa yang sopan.
+	
+	Benar 	
+
+Persingkat pertanyaan
+	
+		
+
+Jangan asumsikan bahwa Anda berhak mendapatkan jawaban.
+	
+		
+
+Beri judul yang sesuai dan deskriptif.
+	
+		
+
+Tulis pertanyaan anda dengan bahasa yang baik dan mudah dimengerti.
+	
+----------------------------------------------------------------------------
+24 	
+
+Serangan fisik terhadap keamanan jaringan computer dapat menyebabkan beberapa kerugian, diantaranya , kecuali …..
+	
+		
+
+Terjadi gangguan pada Kabel
+	
+		
+
+Kerusakan harddisk
+	
+	Benar 	
+
+Kerusakan data
+	
+		
+
+Konsleting
+	
+		
+
+Koneksi tak terdeteksi
+	
+----------------------------------------------------------------------------
+25 	
+
+Serangan terhadap keamanan jaringan computer dapat menyebabkan beberapa kerugian, diantaranya mengancam perangkat lunak jaringan seperti data, dokumen, database, aplikasi, dan lain-lain , serangan ini dinamakan …..
+	
+		
+
+serangan fisik
+	
+		
+
+serangan non fisik
+	
+	Benar 	
+
+serangan logic
+	
+		
+
+serangan hardware
+	
+		
+
+serangan software
+	
+----------------------------------------------------------------------------
