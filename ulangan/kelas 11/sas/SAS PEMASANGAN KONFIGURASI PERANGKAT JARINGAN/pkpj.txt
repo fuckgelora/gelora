@@ -1,0 +1,282 @@
+Daftar Soal
+Topik = XI TKJ-SAS PEMASANGAN KONFIGURASI PERANGKAT JARINGAN
+1 	Terdapat 2 buah routerboard pada topologi UKK Paket 2, dimana ada metodologi VLAN, VLAN harus kita buat trunking, pada menu switch di winbox VLAN Mode yang harus dipilih adalah… 	
+	Benar 	secure 	
+		default 	
+		none 	
+		leave as is 	
+		add if missing 	
+----------------------------------------------------------------------------
+2 	Pada topologi UKK paket 2, Routerborad yang bertindak sebagai Router Server akan memiliki 2 buah subinterface pada ether yang akan menjadi master interface untuk distribusi VLAN,, ether berapakah itu….. 	
+	Benar 	ether2 	
+		ether3 	
+		ether4 	
+		vlan 10 dan vlan 20 	
+		trunking 	
+----------------------------------------------------------------------------
+3 	Pada menu apakah kita bisa mengakses tab VLAN 	
+	Benar 	Interface 	
+		PPP 	
+		Routing 	
+		Interface > Tab VLAN 	
+		L2TP Server 	
+----------------------------------------------------------------------------
+4 	Menu yang digunakan pada winbox untuk mengkonfigurasikan WiFi adalah… 	
+		Interface > Wireless 	
+	Benar 	Wireless Tables 	
+		wlan1 	
+		Interface > Wireless Table * 	
+		Wireless 	
+----------------------------------------------------------------------------
+5 	Pada topologi UKK Paket 2, Router Server mempunyai IP Otomatis dari DHCP Server berapakah IP Address nya….. 	
+	Benar 	18.18.0.0/22 	
+		18.18.0.1/22 	
+		192.168.10.1 	
+		18.18.0.121/22 	
+		18.18.0.0/23* 	
+----------------------------------------------------------------------------
+6 	Berapa ether yang kita masukkan ketika ingin membuat VLAN di menu Swicth pada winbox, 	
+	Benar 	ether1 ether2, ether1 ether3 	
+		ether2 	
+		ether2, ether3 	
+		ether2, ether1 	
+		ether1, ether2, ether3 	
+----------------------------------------------------------------------------
+7 	Apa protocol yang sering disebut sama dengan VLAN 	
+		802.11 	
+	Benar 	802.1q 	
+		802.1Q 	
+		802.2f 	
+		802.3a 	
+----------------------------------------------------------------------------
+8 	Ketika kita mendapatkan IP secara otomatis menggunakan DHCP Client maka berapa IP pada ether 1 	
+		18.18.0.221/22* 	
+		18.18.0.1/22 	
+	Benar 	18.18.0.231/22 	
+		18.18.0.24/22 	
+		18.18.0.0/22 	
+----------------------------------------------------------------------------
+9 	Topologi yang digunakan pada UKK Paket 2, adalah jenis topologi… 	
+	Benar 	Tree 	
+		Trunking 	
+		Bus 	
+		Ambasing 	
+		Hybrid* 	
+----------------------------------------------------------------------------
+10 	apa itu VLAN 	
+		Violocation Local Area Network 	
+	Benar 	Virtual Local Area Network 	
+		Distribusi VLAN 	
+		VLAN Trunking 	
+		Virtual LAN 	
+----------------------------------------------------------------------------
+11 	Logic apa yang musti dipilih saat kita konfigurasikan VLAN Header pada menu switch di winbox… 	
+	Benar 	always-strip 	
+		always-vlan 	
+		ALWAYS-STRIP 	
+		always-access 	
+		access 	
+----------------------------------------------------------------------------
+12 	command pada RouterOS untuk mengkonfigurasikan IP address pada VLAN1 pada topologi UKK Paket 2 yang benar 	
+	Benar 	ip address add address=192.168.40.1/24 interface=vlan1 	
+		ip address add address=192.168.40.8/24 interface=vlan1 	
+		ip address add address=18.18.0.233/22 interface=vlan1 	
+		ip address add address=192.168.10.1/24 interface=vlan1 	
+		ip address add address=192.168.10.1/24 interface=vlan1 	
+----------------------------------------------------------------------------
+13 	Pada saat membuat vlan pada interface VLAN menu apa yang harus diperhatikan saat konfigurasi 	
+		Vlan ID 	
+	Benar 	Interface 	
+		Name 	
+		ARP 	
+		User Service Tag 	
+----------------------------------------------------------------------------
+14 	Pada saat konfigurasi VLAN pada menu interface terdapat parameter User Service Tag. Apakah kita Centang atau Tidak ??? 	
+		Iya 	
+		Bisa Jadi 	
+	Benar 	Tidak 	
+		Ragu Ragu 	
+		Kisah Cinta Free Fire 	
+----------------------------------------------------------------------------
+15 	kita lihat pada Topologi UKK Paket 2, Router Distribusi akan dijadikan sebagai Switch, dimanakan letak menu switch pada WinBox??? 	
+		Di atas menu Bridge 	
+		Dibawah menu RADIUS 	
+		Diatas menu MPLS 	
+	Benar 	Diatas menu MESH 	
+		Dimenu Interface 	
+----------------------------------------------------------------------------
+16 	Pada menu apakah kita mengkonfigurasikan Port untuk Trunking dan Access VLAN 	
+		Switch 	
+	Benar 	Port 	
+		Port Isolation 	
+		Host 	
+		VLAN 	
+----------------------------------------------------------------------------
+17 	Pada menu apakah kita mengkonfigurasikan VLAN dan HOTSPOT 	
+		PPP 	
+		IP & INTERFACE 	
+		IP HOTSPOT 	
+	Benar 	INTERFACE & IP 	
+		ROUTING 	
+----------------------------------------------------------------------------
+18 	Pada saat kita mereset perangkat Mikrotik apakah… 	
+		Semua konfigurasi terhapus 	
+		Semua konfigurasi terhapus dan File Backup Terhapus 	
+		Semua Konfigurasi Terbackup dan File Terhapus 	
+	Benar 	Semua Konfigurasi Terhapus dan File Tidak Terhapus 	
+		Free Fire 	
+----------------------------------------------------------------------------
+19 	Pada Topologi UKK Paket 2 Client yang terkoneksi pada VLAN 1 akan mendapatkan IP sesuai yang sudah ditentukan pada topologi dengan range…. 	
+		192.168.40.10 – 192.168.20.50 	
+		192.168.40.1-192.168.40.50 	
+	Benar 	192.168.40.10 – 192.168.40.50 	
+		192.168.40.4 - 192.168.40.1 	
+		192.168.40.1-192.168.40.50 	
+----------------------------------------------------------------------------
+20 	Pada saat kita melakukan konfigurasi untuk UKK Paket 2, kita melakukan Konfigurasi Routing Statis, dimenu apakah Routing Statis di konfigurasi… 	
+		Routing 	
+		PPP 	
+	Benar 	IP Routes 	
+		Hotspot 	
+		BGP 	
+----------------------------------------------------------------------------
+21 	Apa langkah pertama yang harus dilakukan saat mengonfigurasi router baru di sebuah jaringan? 	
+		Mengatur alamat IP statis pada setiap perangkat klien 	
+	Benar 	Menghubungkan router ke sumber listrik dan menghidupkannya 	
+		Memperbarui firmware router ke versi terbaru 	
+		Mengatur kata sandi Wi-Fi dan enkripsi 	
+		Menyiapkan server DHCP untuk mengelola alamat IP 	
+----------------------------------------------------------------------------
+22 	Jenis kabel apa yang umum digunakan untuk menghubungkan komputer ke jaringan ethernet? 	
+		Kabel koaksial 	
+		Kabel fiber optic 	
+	Benar 	Kabel RJ-45 	
+		Kabel HDMI 	
+		Kabel USB 	
+----------------------------------------------------------------------------
+23 	Open Shortest Path First (OSPF) adalah: 	
+	Benar 	Protokol routing dinamis yang digunakan untuk menukar informasi routing antar router dalam satu domain routing. 	
+		Protokol routing statis yang dikonfigurasi secara manual oleh administrator jaringan 	
+		Perangkat keras yang digunakan untuk menghubungkan dua jaringan berbeda 	
+		Jenis kabel jaringan yang digunakan untuk menghubungkan router 	
+		Software yang digunakan untuk memonitor dan mengelola jaringan 	
+----------------------------------------------------------------------------
+24 	Protokol yang biasanya digunakan untuk mengakses perangkat jaringan secara jarak jauh adalah: 	
+		HTTP 	
+	Benar 	SSH 	
+		FTP 	
+		SMTP 	
+		POP3 	
+----------------------------------------------------------------------------
+25 	Port default yang digunakan oleh protokol HTTP adalah..... 	
+		21 	
+		22 	
+	Benar 	80 	
+		443 	
+		232 	
+----------------------------------------------------------------------------
+26 	Protokol yang digunakan untuk transfer file secara aman antara dua perangkat adalah.... 	
+		FTP 	
+		TFTP 	
+		SSH 	
+	Benar 	SFTP 	
+		HTS 	
+----------------------------------------------------------------------------
+27 	Apa fungsi dari DHCP dalam jaringan? 	
+	Benar 	Menyediakan alamat IP secara dinamis 	
+		Menghubungkan perangkat jaringan 	
+		Mengamankan koneksi jaringan 	
+		Memonitor penggunaan jaringan 	
+		Menghubungkan dua jaringan 	
+----------------------------------------------------------------------------
+28 	Apa yang dimaksud dengan routing statis? 	
+		Sebuah protokol routing yang secara otomatis mempelajari jaringan dan membuat tabel routing 	
+	Benar 	Sebuah metode konfigurasi routing yang dilakukan secara manual oleh administrator jaringan 	
+		Sebuah perangkat keras yang digunakan untuk menghubungkan dua jaringan berbeda 	
+		Sebuah jenis kabel jaringan yang digunakan untuk menghubungkan router 	
+		Sebuah software yang digunakan untuk memonitor dan mengelola jaringan 	
+----------------------------------------------------------------------------
+29 	Perangkat jaringan manakah yang berfungsi untuk membagi lalu lintas data antar beberapa jaringan yang berbeda? 	
+		Hub 	
+		Switch 	
+	Benar 	Router 	
+		Access Point 	
+		Repeater 	
+----------------------------------------------------------------------------
+30 	Apa langkah pertama yang harus dilakukan saat memasang perangkat jaringan baru, seperti switch atau router, dalam jaringan yang sudah ada? 	
+		Menghubungkan perangkat langsung ke internet 	
+	Benar 	Menentukan alamat IP yang sesuai untuk perangkat 	
+		Mengkonfigurasi firewall sebelum memasang perangkat 	
+		Menginstal antivirus pada perangkat 	
+		Melakukan backup semua data jaringan terlebih dahulu 	
+----------------------------------------------------------------------------
+31 	Hal-hal yang perlu diperhatikan dalam melakukan konfigurasi routing statis adalah: 	
+		Network address dan subnet mask yang benar 	
+		Next hop IP address yang benar 	
+		Interface yang digunakan untuk keluar (outgoing) traffic 	
+		Administrative distance yang tepat 	
+	Benar 	Semua jawaban benar 	
+----------------------------------------------------------------------------
+32 	Perintah yang digunakan untuk menyimpan konfigurasi routing statis pada Cisco Router adalah: 	
+		write 	
+	Benar 	copy running-config startup-config 	
+		reload 	
+		erase startup-config 	
+		shutdown 	
+----------------------------------------------------------------------------
+33 	Apa peran utama dari protokol DNS dalam jaringan? 	
+	Benar 	Menerjemahkan nama domain menjadi alamat IP 	
+		Mengelola alamat IP dinamis 	
+		Mengamankan transmisi data 	
+		Menghubungkan dua jaringan lokal 	
+		Menghubungkan perangkat jaringan 	
+----------------------------------------------------------------------------
+34 	Perintah yang digunakan untuk mengaktifkan IGRP pada Cisco Router adalah: 	
+		ip route 192.168.1.0 255.255.255.0 10.1.1.1 	
+		ip route 0.0.0.0 0.0.0.0 10.1.1.1 	
+	Benar 	router igrp 	
+		network 192.168.1.0 	
+		interface Ethernet0/0 	
+----------------------------------------------------------------------------
+35 	Berikut ini adalah beberapa metrik yang digunakan IGRP untuk menghitung jalur terbaik: 	
+		Bandwidth 	
+		Delay 	
+		Load 	
+		Reliability 	
+	Benar 	Semua jawaban benar 	
+----------------------------------------------------------------------------
+36 	Apa yang dimaksud dengan perangkat Switch dalam jaringan komputer? 	
+		Perangkat yang menghubungkan jaringan lokal dengan jaringan lain 	
+	Benar 	Perangkat yang mengelola lalu lintas data antar komputer di dalam jaringan lokal 	
+		Perangkat yang mengubah sinyal digital menjadi sinyal analog 	
+		Perangkat yang digunakan untuk memberikan alamat IP pada setiap perangkat di jaringan 	
+		Perangkat yang berfungsi sebagai pengaman jaringan dari serangan luar 	
+----------------------------------------------------------------------------
+37 	Perangkat jaringan yang berfungsi untuk menghubungkan dua jaringan berbeda, misalnya antara jaringan lokal dengan jaringan internet adalah... 	
+		Hub 	
+		Switch 	
+		Modem 	
+	Benar 	Router 	
+		Access Point 	
+----------------------------------------------------------------------------
+38 	Metode enkripsi apa yang digunakan oleh protokol WPA2 untuk mengamankan jaringan nirkabel? 	
+		DES 	
+	Benar 	AES 	
+		WEP 	
+		RSA 	
+		TKIP 	
+----------------------------------------------------------------------------
+39 	Apa fungsi utama dari Firewall dalam jaringan? 	
+		Meningkatkan kecepatan jaringan 	
+	Benar 	Mengelola dan memonitor lalu lintas data untuk tujuan keamanan 	
+		Menghubungkan perangkat di dalam jaringan 	
+		Mengatur alokasi alamat IP 	
+		Menyediakan akses ke internet 	
+----------------------------------------------------------------------------
+40 	Apa fungsi dari kabel straight-through dalam pemasangan jaringan? 	
+		Menghubungkan komputer ke komputer 	
+	Benar 	Menghubungkan komputer ke switch 	
+		Menghubungkan switch ke switch 	
+		Menghubungkan router ke router 	
+		Menghubungkan komputer ke router 	
+----------------------------------------------------------------------------
