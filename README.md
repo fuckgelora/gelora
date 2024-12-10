@@ -22,6 +22,40 @@ Data Ini Dimiliki Oleh **"Smk Gelora Bekasi"**
 
 ------------
 
+
+## Data Materi
+
+#### Kelas 10
+
+| Mapel | sts     | sas                |
+| :-------- | :------- | :------------------------- |
+| `api_key` | `string` | `string` |
+
+#### Kelas 11
+
+| Mapel | sts     | sas                       |
+| :-------- | :------- | :-------------------------------- |
+| agama      | `done` | `done` |
+| sejarah    | `done` | `done` |
+| ADM. SISTEM JARINGAN      | `done` | `done` |
+| MTK      | `done` | `done` |
+| ANIMASI MANUAL      | `done` | `done` |
+| BHS INGGRIS      | `done` | `done` |
+| KEAMANAN JARINGAN       | `done` | `done` |
+| JARINGAN KABEL & NIRKABEL      | `done` | `done` |
+| B. INDONESIA      | `done` | `done` |
+| PENJASOR      | `done` | `done` |
+| PEND. PANCASILA      | `done` | `done` |
+| B. SUNDA      | `done` | `done` |
+| PKK       | `done` | `done` |
+| PPJ      | `done` | `done` |
+| PKPJ      | `done` | `done` |
+| JEPANG      | `done` | `done` |
+
+
+
+------------
+
 ## want buy more data ? call me : +62 819-3874-4941
 
 [![wkw](https://github.com/fuckgelora/gelora/blob/main/assets/701f1de4e4c328cd764640d6e6afca67.gif "wkw")](https://github.com/fuckgelora/gelora/blob/main/assets/701f1de4e4c328cd764640d6e6afca67.gif "wkw")
