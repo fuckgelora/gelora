@@ -1,0 +1,282 @@
+Daftar Soal
+Topik = KJ-XI-TKJ-SAS GANJIL
+1 	Apa yang dimaksud dengan keamanan jaringan ? 	
+		Proses mempercepat koneksi internet 	
+	Benar 	Proteksi terhadap jaringan dari akses yang tidak sah 	
+		Proses meningkatkan bandwidth jaringan 	
+		Menambah jumlah pengguna jaringan 	
+		Peningkatan efisiensi jaringan 	
+----------------------------------------------------------------------------
+2 	Yang termasuk ancaman keamanan jaringan adalah ... 	
+	Benar 	Malware 	
+		Firewall 	
+		Antivirus 	
+		Proxy 	
+		DHCP 	
+----------------------------------------------------------------------------
+3 	Alat yang digunakan untuk memantau dan menganalisis aktivitas jaringan disebut... 	
+		Router 	
+	Benar 	Packet Sniffer 	
+		Firewall 	
+		VPN 	
+		Switch 	
+----------------------------------------------------------------------------
+4 	Fungsi dari firewall adalah ... 	
+		Menghubungkan jaringan lokal dengan internet 	
+	Benar 	Memfilter dan melindungi jaringan dari akses tidak sah 	
+		Mengatur alamat IP dalam jaringan 	
+		Menyediakan koneksi internet berkecepatan tinggi 	
+		Meningkatkan bandwidth 	
+----------------------------------------------------------------------------
+5 	Contoh serangan DoS (Denial of Service) adalah... 	
+		Menyusup ke komputer lain 	
+		Menggunakan jaringan tanpa izin 	
+	Benar 	Membanjiri jaringan dengan permintaan palsu 	
+		Menginfeksi komputer dengan malware 	
+		Mencuri data pribadi 	
+----------------------------------------------------------------------------
+6 	Protokol keamanan yang digunakan untuk mengenkripsi data di jaringan adalah... 	
+		HTTP 	
+		FTP 	
+	Benar 	HTTPS 	
+		SMTP 	
+		ICMP 	
+----------------------------------------------------------------------------
+7 	Metode autentikasi yang sering digunakan untuk keamanan jaringan adalah... 	
+		Password dan username 	
+		Biometrik 	
+		Token keamanan 	
+	Benar 	Semua benar 	
+		Semua salah 	
+----------------------------------------------------------------------------
+8 	Perangkat lunak yang dirancang untuk mencuri data atau mengganggu sistem disebut... 	
+	Benar 	Malware 	
+		Firewall 	
+		VPN 	
+		Proxy 	
+		IPS 	
+----------------------------------------------------------------------------
+9 	Serangan phishing dilakukan dengan cara ... 	
+		Membanjiri jaringan dengan permintaan palsu 	
+	Benar 	Mengirimkan email palsu untuk mencuri informasi pribadi 	
+		Menyusup ke server perusahaan 	
+		Menginfeksi komputer dengan virus 	
+		Menyadap komunikasi jaringan 	
+----------------------------------------------------------------------------
+10 	Jenis malware yang mengenkripsi data pengguna dan meminta tebusan disebut... 	
+		Spyware 	
+		Adware 	
+		Trojan 	
+		Worm 	
+	Benar 	Ransomware 	
+----------------------------------------------------------------------------
+11 	Berikut ini adalah perangkat keras yang digunakan untuk keamanan jaringan, kecuali... 	
+		Firewall 	
+		Switch 	
+		IDS (Intrusion Detection System) 	
+		Router 	
+	Benar 	Sniffer 	
+----------------------------------------------------------------------------
+12 	Salah satu kelemahan keamanan jaringan nirkabel adalah... 	
+		Biaya instalasi tinggi 	
+		Sulit diakses 	
+	Benar 	Rentan terhadap penyadapan data 	
+		Tidak kompatibel dengan perangkat modern 	
+		Membutuhkan kabel tambahan 	
+----------------------------------------------------------------------------
+13 	Istilah untuk usaha mendapatkan akses ilegal ke jaringan komputer adalah... 	
+		Cryptography 	
+	Benar 	Hacking 	
+		Sniffing 	
+		Authentication 	
+		Routing 	
+----------------------------------------------------------------------------
+14 	Berikut ini termasuk serangan terhadap jaringan, kecuali... 	
+		Sniffing 	
+		Spoofing 	
+		SQL Injection 	
+	Benar 	Load Balancing 	
+		Malware 	
+----------------------------------------------------------------------------
+15 	Proses mengidentifikasi dan mengelola ancaman pada jaringan disebut... 	
+		Cryptography 	
+	Benar 	Risk Management 	
+		Bandwidth Management 	
+		Proxy 	
+		Load Testing 	
+----------------------------------------------------------------------------
+16 	Teknik menyamarkan identitas dengan menggunakan alamat IP palsu disebut... 	
+		Sniffing 	
+	Benar 	Spoofing 	
+		Phishing 	
+		DDoS 	
+		Firewalling 	
+----------------------------------------------------------------------------
+17 	Alat untuk mendeteksi dan mencegah serangan pada jaringan disebut... 	
+	Benar 	IDS/IPS 	
+		Proxy 	
+		Switch 	
+		Router 	
+		DHCP 	
+----------------------------------------------------------------------------
+18 	Penggunaan CAPTCHA bertujuan untuk... 	
+		Menjaga bandwidth jaringan 	
+	Benar 	Mendeteksi aktivitas bot atau otomatis 	
+		Mempercepat koneksi 	
+		Membatasi jumlah pengguna 	
+		Memblokir malware 	
+----------------------------------------------------------------------------
+19 	Untuk menghindari pencurian data pada jaringan, sebaiknya... 	
+	Benar 	Memperbarui perangkat lunak secara rutin 	
+		Menggunakan bandwidth tinggi 	
+		Mengaktifkan fitur auto-login 	
+		Membagikan password secara publik 	
+		Menonaktifkan firewall 	
+----------------------------------------------------------------------------
+20 	Manakah di bawah ini yang merupakan software keamanan jaringan ? 	
+	Benar 	Wireshark 	
+		GIMP 	
+		Blender 	
+		Photoshop 	
+		VLC 	
+----------------------------------------------------------------------------
+21 	Salah satu cara sederhana untuk melindungi perangkat dari serangan jaringan adalah... 	
+	Benar 	Menggunakan kata sandi yang kuat 	
+		Menonaktifkan perangkat keras 	
+		Membuka semua port jaringan 	
+		Mengabaikan pembaruan perangkat lunak 	
+		Membagikan kredensial dengan semua pengguna 	
+----------------------------------------------------------------------------
+22 	Berikut ini antivirus yang bisa digunakan untuk keamanan jaringan , kecuali ….. 	
+		Avast 	
+		AVG 	
+		Avira 	
+		Malwarebytes 	
+	Benar 	Deep Freeze 	
+----------------------------------------------------------------------------
+23 	Jenis-Jenis Keamanan Jaringan , kecuali ….. 	
+	Benar 	Cisco Packet Tracer 	
+		Enkripsi Data 	
+		Software Antivirus 	
+		Manajemen Patch 	
+		Firewall 	
+----------------------------------------------------------------------------
+24 	Proses mengubah data menjadi bentuk yang tidak dapat dibaca atau diakses tanpa izin. Ini membantu melindungi data sensitif dari akses yang tidak sah atau kebocoran disebut ….. 	
+		Mikrotik 	
+	Benar 	Enkripsi Data 	
+		Software Antivirus 	
+		Manajemen Patch 	
+		Firewall 	
+----------------------------------------------------------------------------
+25 	Program komputer yang berfungsi untuk mendeteksi, menghapus, dan mencegah perangkat lunak berbahaya (malware) dari komputer atau laptop disebut juga dengan ….. 	
+		Mikrotik 	
+		Enkripsi Data 	
+	Benar 	Antivirus 	
+		Manajemen Patch 	
+		Firewall 	
+----------------------------------------------------------------------------
+26 	Langkah penting dalam mengamankan login ke MikroTik adalah ? 	
+	Benar 	Mengganti username default dan membuat password kuat 	
+		Menambah jumlah pengguna administrator 	
+		Menonaktifkan fitur firewall 	
+		Menggunakan koneksi HTTP untuk akses 	
+		Membiarkan username default 	
+----------------------------------------------------------------------------
+27 	Fitur MikroTik yang digunakan untuk memblokir situs web tertentu adalah? 	
+		Queue Tree 	
+	Benar 	Web Proxy 	
+		DHCP Lease 	
+		Firewall NAT 	
+		DNS Static 	
+----------------------------------------------------------------------------
+28 	Langkah yang benar untuk membatasi akses hanya dari IP tertentu ke MikroTik adalah? 	
+	Benar 	Membuat Address List dan menambahkannya ke Filter Rules 	
+		Mengatur Queue Tree untuk IP tertentu 	
+		Membatasi akses melalui NAT 	
+		Mengaktifkan fitur DNS Cache 	
+		Menonaktifkan semua interface 	
+----------------------------------------------------------------------------
+29 	Manakah langkah keamanan dasar yang disarankan pada MikroTik? 	
+		Mengaktifkan semua port default 	
+		Menghapus semua konfigurasi firewall 	
+	Benar 	Membatasi akses ke router hanya dari jaringan internal 	
+		Menonaktifkan fitur keamanan bawaan 	
+		Membuka semua akses protokol 	
+----------------------------------------------------------------------------
+30 	Apa tujuan dari membatasi akses Winbox hanya dari IP tertentu? 	
+		Meningkatkan bandwidth 	
+	Benar 	Mencegah akses tidak sah ke router 	
+		Mempercepat pengaturan router 	
+		Menyederhanakan konfigurasi 	
+		Mengaktifkan semua fitur keamanan 	
+----------------------------------------------------------------------------
+31 	Apa fungsi utama dari firewall di MikroTik? 	
+		Mempercepat koneksi jaringan 	
+	Benar 	Melindungi jaringan dari akses yang tidak diinginkan 	
+		Mengatur bandwidth pengguna 	
+		Menghubungkan perangkat dengan jaringan internet 	
+		Memindahkan data dari satu server ke server lain 	
+----------------------------------------------------------------------------
+32 	Di MikroTik, fitur yang digunakan untuk memblokir alamat IP tertentu adalah? 	
+		NAT 	
+		Queue 	
+	Benar 	Filter Rules 	
+		DHCP Server 	
+		Routing 	
+----------------------------------------------------------------------------
+33 	Apa yang dimaksud dengan VPN? 	
+	Benar 	Virtual Private Network 	
+		Virtual Public Network 	
+		Virtual Physical Network 	
+		Virtual Protected Network 	
+		Virtual Premium Network 	
+----------------------------------------------------------------------------
+34 	VPN bekerja dengan cara... 	
+		Mempercepat akses jaringan 	
+		Menghubungkan perangkat dengan alamat IP publik 	
+	Benar 	Membuat jalur aman melalui enkripsi data 	
+		Memfilter website berbahaya 	
+		Mengganti alamat MAC perangkat 	
+----------------------------------------------------------------------------
+35 	Apa tujuan dari serangan brute force? 	
+		Menyusup ke jaringan tanpa izin 	
+	Benar 	Menebak password dengan mencoba semua kemungkinan 	
+		Menyebarkan virus ke jaringan 	
+		Membanjiri jaringan dengan data palsu 	
+		Mencuri data melalui email palsu 	
+----------------------------------------------------------------------------
+36 	Teknik serangan yang dilakukan dengan memanfaatkan kelemahan aplikasi web disebut... 	
+	Benar 	SQL Injection 	
+		Sniffing 	
+		Spoofing 	
+		Phishing 	
+		Malware 	
+----------------------------------------------------------------------------
+37 	Menggunakan sertifikat digital dalam komunikasi jaringan berfungsi untuk... 	
+		Menyediakan koneksi internet 	
+	Benar 	Memvalidasi identitas dan menjaga keamanan data 	
+		Mengatur bandwidth jaringan 	
+		Mengurangi penggunaan data 	
+		Memblokir alamat IP tertentu 	
+----------------------------------------------------------------------------
+38 	Apa yang dimaksud dengan autentikasi biometrik ? 	
+		Menggunakan password untuk autentikasi 	
+	Benar 	Menggunakan sidik jari atau wajah untuk autentikasi 	
+		Menggunakan kode OTP untuk autentikasi 	
+		Menggunakan email untuk verifikasi 	
+		Menggunakan username untuk login 	
+----------------------------------------------------------------------------
+39 	Serangan fisik terhadap keamanan jaringan computer dapat menyebabkan beberapa kerugian, diantaranya kecuali ….. 	
+		Terjadi gangguan pada Kabel 	
+		Kerusakan harddisk 	
+	Benar 	Kerusakan data 	
+		Konsleting 	
+		Koneksi tak terdeteksi 	
+----------------------------------------------------------------------------
+40 	Serangan terhadap keamanan jaringan computer dapat menyebabkan beberapa kerugian, diantaranya mengancam perangkat lunak jaringan seperti data, dokumen, database, aplikasi, dan lain-lain , serangan ini dinamakan ….. 	
+		serangan fisik 	
+		serangan non fisik 	
+	Benar 	serangan logic 	
+		serangan hardware 	
+		serangan software 	
+----------------------------------------------------------------------------
