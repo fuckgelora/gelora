@@ -1,0 +1,282 @@
+Daftar Soal
+Topik = Teknologi Jaringan Kabel dan Nirkabel-XI-TKJ-PSAS
+1 	Apa yang dimaksud dengan teknologi jaringan kabel dalam konteks komunikasi data? 	
+	Benar 	Penggunaan kabel fisik untuk menghubungkan perangkat dalam jaringan 	
+		Penggunaan gelombang radio untuk mentransmisikan data 	
+		Penggunaan sinyal inframerah untuk komunikasi antar perangkat 	
+		Penggunaan fiber optik untuk pengiriman suara 	
+		Penggunaan satelit untuk pengiriman data 	
+----------------------------------------------------------------------------
+2 	Pada jaringan kabel, apa fungsi utama dari kabel twisted pair? 	
+	Benar 	Mengurangi interferensi dan noise pada transmisi data 	
+		Mempercepat transmisi data menggunakan sinyal gelombang radio 	
+		Menggunakan media optik untuk transmisi data berkecepatan tinggi 	
+		Meningkatkan jangkauan transmisi melalui udara 	
+		Meningkatkan daya tampung data dalam jaringan 	
+----------------------------------------------------------------------------
+3 	Dalam teknologi jaringan nirkabel, apa yang dimaksud dengan Wi-Fi? 	
+	Benar 	Teknologi komunikasi data tanpa menggunakan kabel dengan frekuensi radio 	
+		Protokol komunikasi untuk jaringan kabel berkecepatan tinggi 	
+		Sistem komunikasi satelit untuk transmisi data 	
+		Teknologi untuk menghubungkan perangkat dengan kabel optik 	
+		Sistem jaringan yang menggunakan sinyal inframerah untuk transmisi data 	
+----------------------------------------------------------------------------
+4 	Protokol komunikasi yang digunakan untuk mengatur jaringan Ethernet di jaringan kabel adalah: 	
+	Benar 	IEEE 802.3 	
+		IEEE 802.11 	
+		IEEE 802.15 	
+		IEEE 802.5 	
+		IEEE 802.16 	
+----------------------------------------------------------------------------
+5 	Apa yang dimaksud dengan “latency” dalam jaringan nirkabel? 	
+	Benar 	Waktu yang dibutuhkan untuk pengiriman data dari sumber ke tujuan 	
+		Jarak fisik antara dua perangkat dalam jaringan 	
+		Jumlah perangkat yang terhubung dalam satu jaringan 	
+		Kecepatan transfer data dalam jaringan kabel 	
+		Daya transmisi sinyal yang digunakan dalam jaringan 	
+----------------------------------------------------------------------------
+6 	Untuk meningkatkan kecepatan transmisi data dalam jaringan kabel, jenis kabel apa yang sebaiknya digunakan? 	
+	Benar 	Kabel fiber optik 	
+		Kabel coaxial 	
+		Kabel twisted pair standar 	
+		Kabel tembaga 	
+		Kabel USB 	
+----------------------------------------------------------------------------
+7 	Apa keuntungan utama dari penggunaan jaringan nirkabel dibandingkan dengan jaringan kabel? 	
+	Benar 	Fleksibilitas dalam mobilitas perangkat 	
+		Kecepatan transmisi yang lebih tinggi 	
+		Tidak memerlukan perangkat tambahan untuk koneksi 	
+		Penggunaan kabel yang lebih sedikit 	
+		Keamanan data yang lebih tinggi 	
+----------------------------------------------------------------------------
+8 	Jaringan jenis apa yang menggunakan teknologi Bluetooth untuk komunikasi antar perangkat? 	
+	Benar 	Jaringan PAN (Personal Area Network) 	
+		Jaringan LAN (Local Area Network) 	
+		Jaringan MAN (Metropolitan Area Network) 	
+		Jaringan WAN (Wide Area Network) 	
+		Jaringan GAN (Global Area Network) 	
+----------------------------------------------------------------------------
+9 	Apa yang menjadi perbedaan utama antara jaringan kabel dan nirkabel dalam hal keamanan data? 	
+	Benar 	Jaringan kabel lebih aman karena transmisi data tidak terpapar sinyal udara 	
+		Jaringan nirkabel lebih aman karena menggunakan enkripsi yang lebih kuat 	
+		Jaringan kabel lebih rentan terhadap peretasan dibandingkan nirkabel 	
+		Jaringan nirkabel lebih rentan terhadap gangguan interferensi 	
+		Jaringan kabel lebih mudah untuk dipantau oleh perangkat pihak ketiga 	
+----------------------------------------------------------------------------
+10 	Standar IEEE yang mengatur komunikasi dalam jaringan nirkabel adalah: 	
+	Benar 	IEEE 802.11 	
+		IEEE 802.3 	
+		IEEE 802.5 	
+		IEEE 802.16 	
+		IEEE 802.15 	
+----------------------------------------------------------------------------
+11 	Apa yang dimaksud dengan teknologi 4G dalam konteks jaringan nirkabel? 	
+	Benar 	Teknologi komunikasi seluler generasi keempat dengan kecepatan tinggi 	
+		Teknologi untuk transmisi data dengan kabel tembaga 	
+		Sistem komunikasi radio yang digunakan pada jaringan satelit 	
+		Teknologi komunikasi yang berbasis fiber optik 	
+		Sistem jaringan yang menggunakan sinyal inframerah 	
+----------------------------------------------------------------------------
+12 	Dalam jaringan kabel, untuk menghubungkan dua perangkat menggunakan fiber optic, teknologi apa yang digunakan? 	
+	Benar 	SFP (Small Form-factor Pluggable) 	
+		PCIe (Peripheral Component Interconnect Express) 	
+		HDMI (High Definition Multimedia Interface) 	
+		USB (Universal Serial Bus) 	
+		VGA (Video Graphics Array) 	
+----------------------------------------------------------------------------
+13 	Keuntungan utama dari penggunaan teknologi 5G dalam jaringan nirkabel adalah: 	
+	Benar 	Kecepatan transmisi data yang sangat tinggi 	
+		Pengurangan biaya instalasi perangkat 	
+		Penggunaan lebih sedikit energi dalam pengiriman data 	
+		Penggunaan lebih sedikit spektrum frekuensi radio 	
+		Pengurangan penggunaan perangkat di dalam jaringan 	
+----------------------------------------------------------------------------
+14 	Dalam jaringan nirkabel, standar apa yang digunakan untuk menghubungkan perangkat dengan jarak pendek, seperti earphone dan ponsel? 	
+	Benar 	Bluetooth 	
+		Wi-Fi 	
+		Zigbee 	
+		NFC (Near Field Communication) 	
+		4G 	
+----------------------------------------------------------------------------
+15 	Apa yang dimaksud dengan "bandwidth" dalam konteks jaringan kabel atau nirkabel? 	
+	Benar 	Jumlah data yang dapat dikirimkan dalam satuan waktu tertentu 	
+		Jarak antara dua perangkat dalam jaringan 	
+		Jumlah perangkat yang terhubung dalam jaringan 	
+		Kekuatan sinyal yang digunakan untuk transmisi data 	
+		Waktu yang dibutuhkan untuk transmisi data dari pengirim ke penerima 	
+----------------------------------------------------------------------------
+16 	Jaringan Ethernet mengandalkan kabel apa untuk menghubungkan perangkat dalam jaringan lokal? 	
+	Benar 	Kabel twisted pair 	
+		Kabel coaxial 	
+		Kabel fiber optik 	
+		Kabel HDMI 	
+		Kabel USB 	
+----------------------------------------------------------------------------
+17 	Apa yang dimaksud dengan "SSID" dalam jaringan Wi-Fi? 	
+	Benar 	Nama yang digunakan untuk mengidentifikasi jaringan nirkabel 	
+		Kecepatan transmisi data pada jaringan nirkabel 	
+		Protokol keamanan pada jaringan nirkabel 	
+		Standar komunikasi untuk perangkat Wi-Fi 	
+		Teknologi yang digunakan untuk mengurangi interferensi 	
+----------------------------------------------------------------------------
+18 	Apa yang menjadi tantangan utama dalam implementasi jaringan nirkabel di daerah perkotaan? 	
+	Benar 	Gangguan interferensi dari perangkat lain 	
+		Penggunaan kabel yang lebih banyak 	
+		Kecepatan transmisi yang rendah 	
+		Penggunaan energi yang lebih besar 	
+		Pengurangan biaya jaringan 	
+----------------------------------------------------------------------------
+19 	Apa keuntungan menggunakan kabel fiber optik dibandingkan dengan kabel tembaga dalam jaringan kabel? 	
+	Benar 	Kapasitas transmisi yang lebih tinggi dan jarak yang lebih jauh 	
+		Lebih mudah dipasang dan lebih murah 	
+		Lebih tahan terhadap interferensi elektromagnetik 	
+		Penggunaan lebih sedikit energi untuk transmisi 	
+		Semua jawaban benar 	
+----------------------------------------------------------------------------
+20 	Apa yang dimaksud dengan "Mesh Network" dalam teknologi jaringan nirkabel? 	
+	Benar 	Sistem jaringan di mana setiap perangkat dapat bertindak sebagai pengulang sinyal 	
+		Jaringan dengan titik akses tunggal untuk koneksi 	
+		Jaringan yang menggunakan hanya satu perangkat untuk koneksi internet 	
+		Jaringan dengan pengaturan kabel fisik di seluruh area 	
+		Sistem jaringan dengan transmisi data menggunakan kabel coaxial 	
+----------------------------------------------------------------------------
+21 	Pada jaringan nirkabel, apa yang dimaksud dengan "Access Point"? 	
+	Benar 	Perangkat yang menghubungkan perangkat nirkabel ke jaringan kabel 	
+		Titik akses untuk menghubungkan perangkat dengan kabel Ethernet 	
+		Penghubung antara perangkat Bluetooth dan jaringan internet 	
+		Perangkat yang meningkatkan kecepatan jaringan kabel 	
+		Pengontrol untuk mengelola jaringan LAN 	
+----------------------------------------------------------------------------
+22 	Dalam jaringan kabel, apa yang dimaksud dengan "Star Topology"? 	
+	Benar 	Semua perangkat terhubung ke satu perangkat pusat, seperti switch atau hub 	
+		Perangkat terhubung dalam bentuk lingkaran tanpa pusat 	
+		Setiap perangkat terhubung langsung satu sama lain tanpa perangkat pusat 	
+		Semua perangkat terhubung dalam pola mesh yang sangat kompleks 	
+		Sistem di mana perangkat hanya terhubung dalam pola vertikal 	
+----------------------------------------------------------------------------
+23 	Apa yang dimaksud dengan "LAN" dalam konteks jaringan komputer? 	
+	Benar 	Jaringan lokal yang menghubungkan perangkat dalam area terbatas 	
+		Jaringan yang menghubungkan perangkat di seluruh dunia 	
+		Jaringan yang menghubungkan perangkat dalam jarak sangat jauh 	
+		Sistem yang digunakan untuk menghubungkan perangkat di satelit 	
+		Jaringan yang hanya menghubungkan perangkat dengan kabel fiber optik 	
+----------------------------------------------------------------------------
+24 	Protokol keamanan yang paling umum digunakan dalam jaringan Wi-Fi adalah: 	
+	Benar 	WPA2 (Wi-Fi Protected Access 2) 	
+		WPA (Wi-Fi Protected Access) 	
+		WEP (Wired Equivalent Privacy) 	
+		SSL (Secure Sockets Layer) 	
+		IPSec (Internet Protocol Security) 	
+----------------------------------------------------------------------------
+25 	Dalam sistem jaringan nirkabel, apa yang dimaksud dengan "Roaming"? 	
+	Benar 	Proses berpindah antar titik akses tanpa kehilangan koneksi 	
+		Penggunaan perangkat untuk menjelajahi internet tanpa pembatasan geografis 	
+		Penggunaan perangkat di luar jaringan nirkabel 	
+		Menghubungkan beberapa jaringan nirkabel menjadi satu 	
+		Pro 	
+----------------------------------------------------------------------------
+26 	Teknologi yang digunakan untuk menghubungkan perangkat jarak jauh dengan kabel adalah: 	
+	Benar 	Fiber Optik 	
+		Bluetooth 	
+		Wi-Fi 	
+		Zigbee 	
+		NFC 	
+----------------------------------------------------------------------------
+27 	Dalam jaringan nirkabel, frekuensi radio yang digunakan oleh standar Wi-Fi adalah: 	
+	Benar 	2.4 GHz dan 5 GHz 	
+		1.4 GHz dan 3.6 GHz 	
+		4.5 GHz dan 7.2 GHz 	
+		1.0 GHz dan 6.0 GHz 	
+		5.2 GHz dan 10.0 GHz 	
+----------------------------------------------------------------------------
+28 	Apa yang dimaksud dengan "Backbone" dalam jaringan komputer? 	
+	Benar 	Bagian utama jaringan yang menghubungkan sub-jaringan 	
+		Perangkat yang menghubungkan satu perangkat dengan perangkat lainnya 	
+		Kabel yang digunakan untuk menghubungkan perangkat dalam satu lokasi 	
+		Sistem protokol yang mengelola aliran data di dalam jaringan 	
+		Sistem keamanan yang melindungi jaringan dari serangan 	
+----------------------------------------------------------------------------
+29 	Dalam jaringan kabel, apa yang dimaksud dengan "Hub"? 	
+	Benar 	Perangkat yang menghubungkan beberapa perangkat dalam jaringan dan mengirim data ke semua perangkat 	
+		Perangkat yang menghubungkan perangkat dengan internet 	
+		Perangkat yang digunakan untuk mengelola sinyal dalam jaringan nirkabel 	
+		Perangkat yang mempercepat transmisi data dalam jaringan 	
+		Perangkat untuk mengenkripsi data dalam jaringan 	
+----------------------------------------------------------------------------
+30 	Apa keuntungan utama dari menggunakan teknologi jaringan kabel dibandingkan dengan jaringan nirkabel? 	
+	Benar 	Keamanan data yang lebih tinggi 	
+		Lebih fleksibel dalam hal mobilitas perangkat 	
+		Lebih mudah untuk dipasang tanpa kabel 	
+		Lebih hemat energi dibandingkan jaringan nirkabel 	
+		Jangkauan yang lebih luas dalam area terbuka 	
+----------------------------------------------------------------------------
+31 	Apa yang dimaksud dengan "IP Address" dalam jaringan komputer? 	
+	Benar 	Alamat unik yang digunakan untuk mengidentifikasi perangkat dalam jaringan 	
+		Protokol yang digunakan untuk mengirim data dalam jaringan 	
+		Teknologi yang digunakan untuk enkripsi data dalam jaringan 	
+		Jaringan lokal yang menghubungkan beberapa perangkat dalam satu area 	
+		Perangkat keras yang digunakan untuk menghubungkan jaringan dengan internet 	
+----------------------------------------------------------------------------
+32 	Dalam jaringan kabel, apa yang dimaksud dengan "Fiber to the Home (FTTH)"? 	
+	Benar 	Penggunaan kabel fiber optik untuk menghubungkan rumah ke jaringan internet 	
+		Penggunaan kabel coaxial untuk menghubungkan rumah ke internet 	
+		Penggunaan Wi-Fi untuk menghubungkan rumah ke internet 	
+		Penggunaan kabel tembaga untuk menghubungkan rumah ke internet 	
+		Penggunaan satelit untuk menghubungkan rumah ke internet 	
+----------------------------------------------------------------------------
+33 	Dalam komunikasi nirkabel, teknologi apa yang digunakan untuk jaringan jarak pendek dengan transmisi data rendah? 	
+	Benar 	Zigbee 	
+		4G 	
+		Wi-Fi 	
+		NFC 	
+		Bluetooth 	
+----------------------------------------------------------------------------
+34 	Apa yang dimaksud dengan "MIMO" dalam teknologi jaringan nirkabel? 	
+	Benar 	Teknologi yang memungkinkan penggunaan beberapa antena untuk meningkatkan kecepatan transmisi data 	
+		Teknologi yang mengurangi penggunaan frekuensi dalam jaringan 	
+		Protokol untuk menghubungkan perangkat dengan jaringan satelit 	
+		Sistem keamanan yang mengatur enkripsi data dalam jaringan 	
+		Teknik untuk mengatur kualitas sinyal dalam jaringan Wi-Fi 	
+----------------------------------------------------------------------------
+35 	Apa yang dimaksud dengan "Mesh Network" dalam konteks jaringan nirkabel? 	
+	Benar 	Jaringan yang menghubungkan perangkat satu sama lain dengan cara setiap perangkat berfungsi sebagai pengulang sinyal 	
+		Jaringan yang menghubungkan perangkat menggunakan hanya satu perangkat pusat 	
+		Jaringan yang menggunakan kabel coaxial untuk transmisi data 	
+		Jaringan dengan perangkat hanya terhubung langsung satu sama lain tanpa perangkat pusat 	
+		Sistem yang menghubungkan perangkat melalui jaringan satelit 	
+----------------------------------------------------------------------------
+36 	Dalam jaringan Ethernet, apa fungsi utama dari "Switch"? 	
+	Benar 	Menghubungkan perangkat dalam jaringan dan mengatur pengiriman data ke tujuan yang tepat 	
+		Meningkatkan kecepatan transmisi data antara dua perangkat 	
+		Menyambungkan perangkat dengan jaringan nirkabel 	
+		Mengatur koneksi internet ke perangkat di dalam jaringan 	
+		Mencegah perangkat jaringan dari interferensi elektromagnetik 	
+----------------------------------------------------------------------------
+37 	Apa yang dimaksud dengan "Throughput" dalam konteks jaringan? 	
+	Benar 	Jumlah data yang berhasil dikirimkan dalam satuan waktu tertentu 	
+		Jarak antara perangkat yang terhubung dalam jaringan 	
+		Waktu yang dibutuhkan untuk mengirimkan data dari satu perangkat ke perangkat lain 	
+		Jumlah perangkat yang terhubung dalam satu jaringan 	
+		Kecepatan koneksi antara dua perangkat dalam jaringan 	
+----------------------------------------------------------------------------
+38 	Teknologi jaringan nirkabel yang digunakan untuk komunikasi antar perangkat dengan jarak sangat pendek adalah: 	
+	Benar 	NFC (Near Field Communication) 	
+		Wi-Fi 	
+		Zigbee 	
+		5G 	
+		Bluetooth 	
+----------------------------------------------------------------------------
+39 	Apa yang dimaksud dengan "Network Address Translation (NAT)" dalam jaringan? 	
+	Benar 	Proses mengubah alamat IP internal menjadi alamat IP publik saat mengakses internet 	
+		Teknologi yang digunakan untuk menghubungkan perangkat dengan jaringan Wi-Fi 	
+		Protokol yang digunakan untuk mengatur keamanan jaringan 	
+		Proses menghubungkan dua jaringan lokal menjadi satu jaringan besar 	
+		Teknologi untuk meningkatkan kualitas sinyal dalam jaringan nirkabel 	
+----------------------------------------------------------------------------
+40 	Dalam jaringan kabel, apakah yang dimaksud dengan "Coaxial Cable"? 	
+	Benar 	Kabel dengan lapisan pelindung untuk mengurangi interferensi elektromagnetik 	
+		Kabel yang digunakan untuk menghubungkan perangkat Wi-Fi ke internet 	
+		Kabel serat optik yang digunakan untuk transmisi data berkecepatan tinggi 	
+		Kabel tembaga yang digunakan untuk penghubung daya listrik 	
+		Kabel yang digunakan untuk menghubungkan perangkat Bluetooth ke internet 	
+----------------------------------------------------------------------------
