@@ -1,0 +1,284 @@
+Daftar Soal
+Topik = PPJ-XI-TKJ-SAS-GANJIL
+1 	Perintah yang digunakan untuk mengetahui informasi statistik translasi NAT yang aktif adalah… 	
+	Benar 	show ip nat statistic 	
+		show ip nat translation 	
+		show ip snat 	
+		debug ip nat 	
+		show ip nat translation verbose 	
+----------------------------------------------------------------------------
+2 	Dibawah ini bukan merupakan peringatan terkait dengan NAT adalah… 	
+		NAT berkontribusi pada keterlambatan end-to-end total 	
+		Beberapa aplikasi tidak mendukung NAT 	
+		NAT sebaiknya digunakan di VPN 	
+	Benar 	NAT hanya didukung pada protokol-protokol routing tertentu 	
+		NAT akan menyembunyikan informasi alamat IP 	
+----------------------------------------------------------------------------
+3 	Fungsi firewall di dalam jaringan adalah… 	
+		Mengganti fungsi NAT gateway 	
+		Bertindak sebagai protokol jaringan 	
+	Benar 	Mengontrol serta mengawasi arus paket data yang mengalir pada jaringan 	
+		Menerima sinyal dari sebuah komputer yang berada di dalam jaringan 	
+		Menghubungkan jaringan LAN dengan internet 	
+----------------------------------------------------------------------------
+4 	Firewall dapat memonitor traffic dari konten-konten yang tidak diinginkan. Cara kerjanya yaitu… 	
+		Firewall akan menutup traffic berdasarkan kontennya 	
+	Benar 	Firewall akan menutup traffic yang datang 	
+		Firewall akan menutup traffic yang keluar 	
+		Firewall akan melaporkan traffic di jaringan 	
+		Firewall akan bekerja melakukan pemeriksaan paket data dari sumber 	
+----------------------------------------------------------------------------
+5 	Firewall yang bekerja pada bagian transport layer model referensi TCP/IP adalah… 	
+		Packet filtering gateway 	
+		Application layer gateway 	
+		Stateful multilayer inspection firewall 	
+		Tunnel 	
+	Benar 	Circuit level gateway 	
+----------------------------------------------------------------------------
+6 	Tabel pada iptables yang bertanggung jawab untuk melakukan penghalusan paket data seperti mengubah QoS (Quality of Service), TTL, dan MARK pada header TCP adalah… 	
+		table NAT 	
+	Benar 	table mangle 	
+		table filter 	
+		table pre-routing 	
+		table post-routing 	
+----------------------------------------------------------------------------
+7 	Berikut perintah yang benar digunakan untuk memblokir paket dari IP 192.168.10.5 adalah… 	
+	Benar 	# iptables -I INPUT -s 192.168.10.0 -j REJECT 	
+		# ipfw add 200 permit ip from 192.168.10.5/24 to any 	
+		# ipfw add 200 permit ip from 192.168.10.0/24 -j DROP 	
+		# iptables -I INPUT -s 192.168.10.5 -j DROP 	
+		# iptables -A INPUT -p tcp -dport 22 192.168.10.5 -j REJECT 	
+----------------------------------------------------------------------------
+8 	Protokol yang memungkinkan dua perangkat saling bertukar data dengan kemanan lainnya dalam format terenkripsi, sehingga melindungi data yang akan ditransmisikan adalah… 	
+		IEEE 	
+	Benar 	SSH 	
+		IPFW 	
+		Ipsec 	
+		firewall policies 	
+----------------------------------------------------------------------------
+9 	Perintah yang digunakan untuk menghapus iptables yang telah dikonfigurasi adalah… 	
+		iptables -D INPUT n2 	
+		iptables -L 	
+	Benar 	iptables -P INPUT DROP 	
+		iptables -P FORWARD DROP 	
+		iptables -F 	
+----------------------------------------------------------------------------
+10 	Arsitektur yang menyediakan service dari sebuah host pada jaringan internal dengan menggunakan router yang terpisah adalah… 	
+	Benar 	screened host architecture 	
+		dual-host architecture 	
+		private network architecture 	
+		screened subnet architecture 	
+		packet filtering architecture 	
+----------------------------------------------------------------------------
+11 	Jika suatu host menggunakan ip 192.168.200.150 dengan asumsi pada jaringan tersebut akan digunakan sebanyak 60 host, maka network dari ip tersebut adalah ... 	
+		192.168.200.64/26 	
+		192.168.200.100/26 	
+		192.168.200.92/26 	
+	Benar 	192.168.200.128/26 	
+		192.168.200.0/26 	
+----------------------------------------------------------------------------
+12 	Jika dalam suatu jaringan ada 20 perangkat yang saling terhubung, dan salah satu perangkat memiliki IP address 195.170.50.70/27. Maka berapakah ip address dan subnet mask yang seharusnya diberikan kepada perangkat yang terakhir atau PC ke-20 adalah… 	
+		195.170.50.33 255.255.255.224 	
+		195.170.50.65 255.255.255.192 	
+		195.170.50.70 255.255.255.224 	
+		195.170.50.94 255.255.255.224 	
+	Benar 	195.170.50.84 255.255.255.224 	
+----------------------------------------------------------------------------
+13 	1100 0000.1010 1000.0110 0100.0001 0100 jika dikonversikan kedalam 4 oktet bilangan decimal akan menjadi… 	
+	Benar 	192.168.100.20 	
+		192.168.100.21 	
+		192.168.100.22 	
+		192.168.100.23 	
+		192.168.100.24 	
+----------------------------------------------------------------------------
+14 	Jika diketahui divisi Manajemen memiliki IP Gateway 197.16.12.202/29, ip address yang tidak mungkin digunakan oleh client pada divisi Manajamen tersebut adalah… 	
+	Benar 	197.16.12.199 	
+		197.16.12.200 	
+		197.16.12.201 	
+		197.16.12.204 	
+		197.16.12.206 	
+----------------------------------------------------------------------------
+15 	Nilai Default Subnetmask untuk kelas B pada IPv4 adalah... 	
+		255255255252 	
+		255255255128 	
+		255.0.0.0 	
+	Benar 	255.255.0.0 	
+		255.255.255.0 	
+----------------------------------------------------------------------------
+16 	Router#copy run start
+
+Fungsi dari perintah konfigurasi tersebut adalah… 	
+		Melakukan backup konfigurasi yang sedang berjalan ke TFTP Server 	
+		Melihat hasil backup konfigurasi yang sedang berjalan ke startup 	
+	Benar 	Melakukan backup konfigurasi yang sedang berjalan ke startup 	
+		Melihat hasil backup konfigurasi yang sedang berjalan ke TFTP Server 	
+		Menghapus backup konfigurasi yang sedang berjalan ke TFTP Server 	
+----------------------------------------------------------------------------
+17 	Alamat IP yang digunakan untuk jaringan internal (intranet) disebut dengan… 	
+		IP Public 	
+	Benar 	IP Private 	
+		IP Host 	
+		IP Perl 	
+		IP Broadcast 	
+----------------------------------------------------------------------------
+18 	IP Address yang secara permanen dimiliki oleh sebuah mesin adalah jenis IP… 	
+	Benar 	IP Static 	
+		IP Dynamic 	
+		IPV4 	
+		IPV6 	
+		IP Network 	
+----------------------------------------------------------------------------
+19 	IPv4 terdiri dari berapa Byte dan bit..... 	
+		40 bit dan 32 Byte 	
+		48 Byte dan 6 bit 	
+	Benar 	4 Byte dan 32 bit 	
+		32 Byte dan 4 bit 	
+		6 Byte dan 32 bit 	
+----------------------------------------------------------------------------
+20 	Mode awal saat melakukan console pada router. Dalam mode ini anda akan melihat tanda Router>. Dalam mode ini kita hanya bisa melihat informasi dasar pada router. Berikut ini yang termasuk mode tersebut adalah… 	
+	Benar 	User Mode 	
+		Privilege Mode 	
+		Global Configuration Mode 	
+		Semua Jawaban Benar 	
+		Exec Mode 	
+----------------------------------------------------------------------------
+21 	Salah satu tipe jaringan komputer yang umum dijumpai adalah… 	
+		Star 	
+		Bus 	
+		WAN 	
+		Wireless 	
+	Benar 	Client-server 	
+----------------------------------------------------------------------------
+22 	Pilih salah satu Distro Linux dibawah ini… 	
+		Windows XP 	
+	Benar 	Ubuntu 	
+		Windows 7 	
+		Windows 10 	
+		Windows 8 	
+----------------------------------------------------------------------------
+23 	Satuan iniformasi terkecil yang dikenal dalam komunikasi datan dibawah ini adalah… 	
+	Benar 	Bit 	
+		Byte 	
+		Mbps 	
+		GB 	
+		Segment 	
+----------------------------------------------------------------------------
+24 	1 Terabyte sama dengan… 	
+	Benar 	1000 Gigabyte 	
+		1200 Gigabyte 	
+		4000 Gigabyte 	
+		2300 Gigabyte 	
+		500 Gigabyte 	
+----------------------------------------------------------------------------
+25 	Untuk melakukan update paket di Ubuntu kita harus menjalankan perintah… 	
+		apt-get install dhcp 	
+		apt-get install virtualbox 	
+	Benar 	apt-get update 	
+		cd 	
+		Is 	
+----------------------------------------------------------------------------
+26 	Siapakah penemu sistem operasi Linux… 	
+	Benar 	Linus Torvalds 	
+		Bill Gates 	
+		Mark Zuckerberg 	
+		Tim Cook 	
+		Sundar Pichai 	
+----------------------------------------------------------------------------
+27 	Di bawah ini yang termasuk jenis-jenis TCP adalah… 	
+		Komunikasi Suara, Radio, Data 	
+		Bandwidge 	
+	Benar 	SMTP, FTP, dan Telnet 	
+		DNS, IP, FTP 	
+		Transmitter, Router, dan IP 	
+----------------------------------------------------------------------------
+28 	Mail Transfer Protocol (SMTP) adalah protokol pada jaringan internet yang berfungsi untuk… 	
+	Benar 	Mengirimkan pesan email agar tepat waktu dan efisien kepada penerima 	
+		Menerima email 	
+		Menambahkan IP Address 	
+		Membuat database email 	
+		Mengumpulkan email yang masuk 	
+----------------------------------------------------------------------------
+29 	Suatu sistem yang memungkinkan nama suatu host pada jaringan komputer atau internet ditranslasikan menjadi IP address disebut… 	
+	Benar 	DNS 	
+		Gateway 	
+		Protokol 	
+		DHCP 	
+		Ipconfig 	
+----------------------------------------------------------------------------
+30 	Angka 32 bit yang digunakan untuk membedakan Net ID dan Host ID disebut… 	
+		Default Gateway 	
+	Benar 	Subnet Mask 	
+		IP Privite 	
+		IP Broadcast 	
+		IP Public 	
+----------------------------------------------------------------------------
+31 	… Adalah sebuah alat yang mengirimkan paket data melalui sebuah jaringan atau internet menuju tujuannya, melalui sebuah proses yang dikenal sebagai Routing 	
+		Proxy 	
+		DNS 	
+	Benar 	Router 	
+		Gateway 	
+		Switch 	
+----------------------------------------------------------------------------
+32 	… Adalah sebuah perangkat untuk meneruskan internet ke client yang terhubung dengan server 	
+		Proxy 	
+		Router 	
+		Gateway 	
+		Gatekeeper 	
+	Benar 	Switch 	
+----------------------------------------------------------------------------
+33 	Penulisan IP Address 10.208.15.240 dalam bentuk binary ditulis sebagai berikut… 	
+		00001010.11010000.00001111.11111000 	
+		00001010.11010000.00001111.11100000 	
+		00001010.11010000.00001111.11010000 	
+		00001010.11010000.00001111.10110000 	
+	Benar 	00001010.11010000.00001111.11110000 	
+----------------------------------------------------------------------------
+34 	Signal melewati 2 arah dengan satu kabel, kemungkinan terjadi collision (tabrakan data atau tercampurnya data) besar, adalah kelemahan dari kabel jenis… 	
+	Benar 	Coaxial 	
+		UTP 	
+		STP 	
+		Twisted 	
+		Unshielded 	
+----------------------------------------------------------------------------
+35 	Jenis-jenis sistem operasi jaringan yang digunakan sebagai server dalam jaringan adalah sebagai berikut, kecuali… 	
+		Windows NT 	
+		Redhat 	
+		DebianD 	
+	Benar 	StarBugs 	
+		San Solaris 	
+----------------------------------------------------------------------------
+36 	… adalah server yang digunakan untuk mengetahui IP Address suatu host lewat host namenya 	
+	Benar 	DNS 	
+		DHCP 	
+		FTP 	
+		Database 	
+		Mail Server 	
+----------------------------------------------------------------------------
+37 	File transfer protocol (FTP) merupakan protokol yang bertugas untuk… 	
+	Benar 	Menjembatani pertukaran informasi di dalam suatu komputer seperti mengunduh dan menggunggah file 	
+		Meminjamkan IP Address 	
+		Memerikan layanan database 	
+		Transfer file antara email 	
+		Mengubah IP Address menjadi domain 	
+----------------------------------------------------------------------------
+38 	Software utiliti yang bekerja pada komputer dan didesain untuk memberikan IP Address ke komputer client disebut… 	
+		Gateway 	
+		IP Address 	
+	Benar 	DHCP 	
+		DNS 	
+		Domain 	
+----------------------------------------------------------------------------
+39 	Skema desain untuk pembangunan sebuah jaringan komputer dikenal dengan… 	
+		Desain 	
+	Benar 	Topologi 	
+		Geografi 	
+		Media Transisi 	
+		Skalabilitas 	
+----------------------------------------------------------------------------
+40 	Berapa Mb/s kecepatan akses data pada access point yang memiliki standar kode IEEE 802.11g… 	
+		10Mb/s 	
+		100Mb/s 	
+		150Mb/s 	
+	Benar 	54Mb/s 	
+		423Mb/s 	
+----------------------------------------------------------------------------
