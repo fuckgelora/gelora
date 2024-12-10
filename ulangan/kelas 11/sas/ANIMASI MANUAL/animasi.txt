@@ -1,0 +1,282 @@
+Daftar Soal
+Topik = XI TKJ - ANIMASI MANUAL SAS GANJIL - 2024-2025
+1 	Gambar bergerak yang terbentuk dari sekumpulan gambar yang disusun secara beraturan mengikuti alur pergerakan yang telah ditentukan adalah… 	
+	Benar 	Animasi 	
+		Animanim 	
+		Puppeters 	
+		Animootion 	
+		Stopmotion 	
+----------------------------------------------------------------------------
+2 	Animasi yang dibuat menggunakan komputer dengan cara menggambar dan membuat animasi vektor secara langsung pada komputer disebut… 	
+		Animasi 2D 	
+		Animasi 3D 	
+		Animasi motion graphic 	
+	Benar 	Animasi berbasis vektor 	
+		Animasi 1D 	
+----------------------------------------------------------------------------
+3 	Animasi yang dibuat dengan cara gambar manual oleh tangan, animator membuat gambar untuk setiap frame yang kemudian akan menjadi rangkaian gambar animasi adalah pengertian dari… 	
+		Animasi 3D 	
+	Benar 	Animasi tradisional 	
+		Animasi motion graphic 	
+		Animasi berbasis vektor 	
+		Animasi modern 	
+----------------------------------------------------------------------------
+4 	Animasi gerakan elemen grafis atau teks dengan tujuan untuk iklan atau promosi disebut… 	
+		Animasi 3D 	
+		Animasi tradisional 	
+	Benar 	Animasi motion graphic 	
+		Animasi berbasis vektor 	
+		Animiasi 2D 	
+----------------------------------------------------------------------------
+5 	Pengertian animasi identik dengan kata… 	
+		Objek 	
+		Waktu 	
+	Benar 	Gerakan 	
+		Timeline 	
+		Frame 	
+----------------------------------------------------------------------------
+6 	Untuk membuat sebuah animasi sangat diperlukan hal berikut yaitu… 	
+		Lampu 	
+		Media 	
+	Benar 	Gambar 	
+		Timeline 	
+		Kamera 	
+----------------------------------------------------------------------------
+7 	Animasi 2 dimensi bermakna bahwa perpektifnya dilihat dari… 	
+		Depan 	
+		Samping 	
+		Atas 	
+		Bawah 	
+		Pinggir 	
+----------------------------------------------------------------------------
+8 	Penanda gerak animasi dilambangkan dengan… 	
+		Twinning 	
+	Benar 	Keyframe 	
+		Timeline 	
+		Twin 	
+		Titik 	
+----------------------------------------------------------------------------
+9 	Teknik 2D secara digital adalah teknik animasi yang dibuat secara… 	
+		Script 	
+		Angka 	
+		Media 	
+	Benar 	Komputer 	
+		Tulisan 	
+----------------------------------------------------------------------------
+10 	Gambar dalam format vektor pada umumnya dapat dilakukan… 	
+		Pemisahan 	
+	Benar 	Manipulasi 	
+		Pemotongan 	
+		Pembesaran 	
+		Pengecilan 	
+----------------------------------------------------------------------------
+11 	Ketika dibutuhkan gambar dengan resolusi yang sangat tinggi yang dibutuhkan adalah gambar format… 	
+		Bitmap 	
+		Raster 	
+	Benar 	Vector 	
+		Tiff 	
+		Jpeg 	
+----------------------------------------------------------------------------
+12 	Format gambar bitmap sangat rentan untuk dilakukan perubahan resolusi karena format gambar bitmap berbasis… 	
+		Digital 	
+		Angka 	
+		Garis 	
+	Benar 	Titik 	
+		Garis lengkung 	
+----------------------------------------------------------------------------
+13 	Efek yang paling rentan terjadi ketika melakukan perubahan ukuran resolusi pada gambar format bitmap adalah… 	
+	Benar 	Pecah-pecah 	
+		Terbalik 	
+		Flikr 	
+		Blur 	
+		Melengkung 	
+----------------------------------------------------------------------------
+14 	Perlunya memahami prinsip dasar animasi agar produk animasi yang dibuat terlihat… 	
+		Baik 	
+		Nyaman 	
+		Elastis 	
+	Benar 	Dinamis 	
+		Jelek 	
+----------------------------------------------------------------------------
+15 	Pada prinsip animasi staging penekanan yang diperlihatkan oleh karakter adalah… 	
+	Benar 	Gerak 	
+		Warna 	
+		Ukuran 	
+		Ekspresi 	
+		Warni 	
+----------------------------------------------------------------------------
+16 	Prinsip animasi yang menyatakan bahwa setiap benda yang bergerak akan mengalami percepatan dan perlambatan yaitu pengertian dari prinsip… 	
+		Staging 	
+		Anticipation 	
+		Squash and Stretch 	
+	Benar 	Slow in and Slow out 	
+		Zoom 	
+----------------------------------------------------------------------------
+17 	Prinsip ini menjadi acuan untuk mengatur durasi terjadinyan suatu gerakan dan durasi percepatan-percepatan gerakan, yaitu pengertian dari prinsip… 	
+		Staging 	
+		Anticipation 	
+		Squash and Stretch 	
+	Benar 	Timing 	
+		Solid drawing 	
+----------------------------------------------------------------------------
+18 	Melakukan perubahan objek pada posisi, rotasi, ukuran, constrain, dan kemiringan adalah pengertian… 	
+	Benar 	Workspace 	
+		Tools panel 	
+		Panel library 	
+		Transromation 	
+		Save as 	
+----------------------------------------------------------------------------
+19 	Area kerja untuk melakukan pembuatan dan manipulasi proyek animasi dengan menggunakan panel, bar, dan window adalah… 	
+	Benar 	Workspace 	
+		Tools panel 	
+		Panel library 	
+		Panel properties 	
+		Tools 	
+----------------------------------------------------------------------------
+20 	User interface aplikasi 2D (Adobe Flash) terdiri atas panel, bar, dan… 	
+		Panel 	
+	Benar 	Window 	
+		Tools panel 	
+		Panel library 	
+		Workspace 	
+----------------------------------------------------------------------------
+21 	Area atau kanvas dapat digunakan untuk menggambar dan meletakkan objek yang ingin diproses dalam pembuatan animasi adalah… 	
+	Benar 	Stage 	
+		Tools panel 	
+		Panel library 	
+		Panel properties 	
+		Menu 	
+----------------------------------------------------------------------------
+22 	Manipulasi yang bisa kita lakukan antara lain adalah rotate, scaling, dan skew yaitu menggunakan tool… 	
+		Pen tool 	
+		Lasso tool 	
+		Subselection tool 	
+	Benar 	Free transform tool 	
+		Pick tool 	
+----------------------------------------------------------------------------
+23 	Tempat menyimpan aset-aset yang digunakan pada pembuatan animasi seperti gambar, suara, video, dan simbol adalah… 	
+		Stage 	
+		Workspace 	
+		Tools panel 	
+	Benar 	Panel library 	
+		Tool bar 	
+----------------------------------------------------------------------------
+24 	Tool yang kegunaannya untuk menggambar adalah… 	
+	Benar 	Pen tool 	
+		Selection tool 	
+		Subselection tool 	
+		Free transform tool 	
+		Bucket 	
+----------------------------------------------------------------------------
+25 	Doraemon, Scooby Doo, Looney Tunes merupakan jenis animasi yang tergolong… 	
+		1D 	
+	Benar 	2D 	
+		3D 	
+		Animasi Clay 	
+		4D 	
+----------------------------------------------------------------------------
+26 	Pembuatan tokoh pada animasi clay seperti animasi ChickenRun dan Shaun The Sheep menggunakan media berupa… 	
+	Benar 	Plasticine 	
+		Kerangka besi 	
+		Plastic 	
+		Kertas 	
+		Kayu 	
+----------------------------------------------------------------------------
+27 	Contoh animasi 3D pertama yang menggunakan teknologi CGI (Computer Generated Image) adalah… 	
+		Doraemon 	
+		Spongebob 	
+	Benar 	Finding Nemo 	
+		Dragon ball 	
+		Naruto 	
+----------------------------------------------------------------------------
+28 	Ilmu yang mempelajari segala sesuatu yang berkaitan dengan keindahan, mempelajari segala aspek yang kita sebut keindahan adalah… 	
+	Benar 	Estetika 	
+		Seni 	
+		Artistic 	
+		Photography 	
+		Videography 	
+----------------------------------------------------------------------------
+29 	Berikut adalah tahapan untuk pasca produksi digital, kecuali… 	
+		Key motion 	
+		Background 	
+		Coloring 	
+	Benar 	Storyboard 	
+		Key frame 	
+----------------------------------------------------------------------------
+30 	Tahap pertama yang dilakukan untuk proses pra produksi konvensional maupun pra produksi digital adalah… 	
+		Rendering 	
+	Benar 	Konsep 	
+		Storyboard 	
+		Dubbing awal 	
+		Editing 	
+----------------------------------------------------------------------------
+31 	Metode untuk menetapkan kunci posisi ekstrem benda dan membiarkan computer mengisi diantara gerak dikenal dengan istilah… 	
+		Frame 	
+	Benar 	Keyframe 	
+		Motion 	
+		Blank frame 	
+		Export 	
+----------------------------------------------------------------------------
+32 	Dibawah ini adalah software yang dapat digunakan untuk membuat animasi 2D yaitu… 	
+		Coreldraw 	
+		PHP 	
+		Cakewalk proaudition 	
+	Benar 	Adobe flash 	
+		Mobile legends 	
+----------------------------------------------------------------------------
+33 	Untuk melihat hasil animasi pada program Adobe Flash dengan menggunakan kombinasi tombol 	
+		Shift+Enter 	
+	Benar 	Ctrl+Enter 	
+		Alt+Enter 	
+		Ctrl+Alt+Enter 	
+		Enter 	
+----------------------------------------------------------------------------
+34 	Frame rate menunjukkan banyaknya deretan gambar diam dalam video yang dapat ditampilkan dalam satu detik. Frame rate diukur dalam satuan… 	
+		Sps 	
+		Byte 	
+		Lines 	
+	Benar 	Fps 	
+		Bpjs 	
+----------------------------------------------------------------------------
+35 	Dalam sebuah pembuatan animasi terdapat istilah 24 Fps. Apa kepanjangan dari Fps… 	
+		Frame per satu 	
+		Frame per solid 	
+		Frame per sold 	
+	Benar 	Frame per second 	
+		Frame per frame 	
+----------------------------------------------------------------------------
+36 	Jika gambar ingin kita putar, maka perintah yang digunakan adalah… 	
+		Crop 	
+	Benar 	Rotate 	
+		Zoom 	
+		Resize 	
+		Save 	
+----------------------------------------------------------------------------
+37 	Jenis animasi dalam Adobe Flash dengan cara menggambar setiap frame dinamakan animasi… 	
+		Motion 	
+		Shape 	
+		Movie clip 	
+		Movie 	
+	Benar 	Frame by frame 	
+----------------------------------------------------------------------------
+38 	Sebuah gerakan objek maupun teks yang diatur sedemikian rupa sehingga kelihatan hidup adalah pengertian dari… 	
+		Timeline 	
+		Frame 	
+		Action script 	
+		Foto 	
+	Benar 	Animation 	
+----------------------------------------------------------------------------
+39 	Sebuah nama tempat yang digunakan untuk menampung suatu gerakan objek sehingga jika ingin membuat gerakan lebih dari satu objek, sebaiknya diletakkan pada layer tersendiri adalah… 	
+		Scene 	
+		Action script 	
+		Movie clip 	
+	Benar 	Layer 	
+		Library 	
+----------------------------------------------------------------------------
+40 	Di bawah ini yang termasuk ke dalam animasi 2D adalah… 	
+		Frozen 	
+		Upin-ipin 	
+		Nusa 	
+		Transormer 	
+	Benar 	Scobydoo 	
+----------------------------------------------------------------------------
