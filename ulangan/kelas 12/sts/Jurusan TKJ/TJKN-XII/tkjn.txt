@@ -1,0 +1,627 @@
+Daftar Soal
+Topik = TJKN-XII-TKJ-STS
+1 	
+
+1. Apa yang dimaksud dengan kabel UTP? 
+	
+	Benar 	
+
+   A. Unshielded Twisted Pair 
+	
+		
+
+   B. Universal Twisted Pair 
+	
+		
+
+   C. Unidirectional Twisted Pair 
+	
+		
+
+   D. Unshielded Terminal Pair 
+	
+		
+
+   E. Unified Twisted Pair
+	
+----------------------------------------------------------------------------
+2 	
+
+2. Kabel yang memiliki pelindung untuk mengurangi interferensi adalah: 
+	
+		
+
+   A. UTP 
+	
+	Benar 	
+
+B. STP 
+	
+		
+
+   C. Coaxial 
+	
+		
+
+   D. Fiber Optic 
+	
+		
+
+   E. Twisted Pair
+	
+----------------------------------------------------------------------------
+3 	
+
+3. Keuntungan utama menggunakan kabel fiber optik adalah: 
+	
+		
+
+   A. Biaya murah 
+	
+	Benar 	
+
+B. Kecepatan tinggi dan jarak jauh 
+	
+		
+
+   C. Mudah dipasang 
+	
+		
+
+   D. Fleksibilitas 
+	
+		
+
+   E. Ketersediaan tinggi
+	
+----------------------------------------------------------------------------
+4 	
+
+4. Kabel yang digunakan untuk koneksi TV kabel biasanya adalah: 
+	
+		
+
+   A. UTP 
+	
+		
+
+   B. STP 
+	
+	Benar 	
+
+C. Coaxial 
+	
+		
+
+   D. Fiber Optic 
+	
+		
+
+   E. Ethernet
+	
+----------------------------------------------------------------------------
+5 	
+
+5. Apa fungsi dari patch panel dalam jaringan kabel? 
+	
+		
+
+   A. Menghubungkan perangkat secara langsung 
+	
+	Benar 	
+
+   B. Mengorganisir dan memudahkan manajemen kabel 
+	
+		
+
+   C. Meningkatkan kecepatan jaringan 
+	
+		
+
+   D. Melindungi kabel dari kerusakan 
+	
+		
+
+   E. Menyimpan data
+	
+----------------------------------------------------------------------------
+6 	
+
+6. Apa yang dimaksud dengan throughput dalam jaringan? 
+	
+		
+
+   A. Kecepatan maksimum 
+	
+	Benar 	
+
+   B. Jumlah data yang berhasil ditransfer dalam waktu tertentu 
+	
+		
+
+   C. Jumlah perangkat terhubung 
+	
+		
+
+   D. Kecepatan koneksi internet 
+	
+		
+
+   E. Jarak kabel
+	
+----------------------------------------------------------------------------
+7 	
+
+7. Kabel mana yang paling cocok untuk transmisi data jarak jauh? 
+	
+		
+
+   A. UTP 
+	
+		
+
+   B. STP 
+	
+		
+
+   C. Coaxial 
+	
+	Benar 	
+
+   D. Fiber Optic 
+	
+		
+
+   E. Twisted Pair
+	
+----------------------------------------------------------------------------
+8 	
+
+8. Apa standar yang digunakan untuk Ethernet? 
+	
+		
+
+   A. 802.11 
+	
+		
+
+   B. 802.15 
+	
+	Benar 	
+
+   C. 802.3 
+	
+		
+
+   D. 802.16 
+	
+		
+
+   E. 802.20
+	
+----------------------------------------------------------------------------
+9 	
+
+9. Kabel mana yang paling umum digunakan di jaringan lokal (LAN)? 
+	
+		
+
+   A. Fiber Optic 
+	
+		
+
+   B. Coaxial 
+	
+	Benar 	
+
+C. UTP 
+	
+		
+
+   D. STP 
+	
+		
+
+   E. HDMI
+	
+----------------------------------------------------------------------------
+10 	
+
+10. Perangkat yang digunakan untuk menghubungkan kabel-kabel dalam jaringan adalah: 
+	
+		
+
+    A. Router 
+	
+	Benar 	
+
+B. Switch 
+	
+		
+
+    C. Hub 
+	
+		
+
+    D. Modem 
+	
+		
+
+    E. Repeater
+	
+----------------------------------------------------------------------------
+11 	
+
+11. Apa yang dimaksud dengan Wi-Fi? 
+	
+	Benar 	
+
+    A. Wireless Fidelity 
+	
+		
+
+    B. Wired Fidelity 
+	
+		
+
+    C. Wireless Frequency 
+	
+		
+
+    D. Wired Frequency 
+	
+		
+
+    E. Wireless Functionality
+	
+----------------------------------------------------------------------------
+12 	
+
+12. Teknologi nirkabel yang sering digunakan untuk komunikasi jarak dekat adalah: 
+	
+		
+
+    A. 4G 
+	
+	Benar 	
+
+    B. Bluetooth 
+	
+		
+
+    C. WiMAX 
+	
+		
+
+    D. Zigbee 
+	
+		
+
+    E. LTE
+	
+----------------------------------------------------------------------------
+13 	
+
+13. Apa yang menjadi batasan utama dari jaringan nirkabel? 
+	
+		
+
+    A. Biaya 
+	
+		
+
+    B. Kecepatan 
+	
+	Benar 	
+
+  C. Jarak dan interferensi 
+	
+		
+
+    D. Keamanan 
+	
+		
+
+    E. Ketersediaan perangkat
+	
+----------------------------------------------------------------------------
+14 	
+
+14. Apa frekuensi yang umum digunakan oleh jaringan Wi-Fi? 
+	
+		
+
+    A. 1 GHz 
+	
+	Benar 	
+
+    B. 2.4 GHz dan 5 GHz 
+	
+		
+
+    C. 900 MHz 
+	
+		
+
+    D. 3.5 GHz 
+	
+		
+
+    E. 10 GHz
+	
+----------------------------------------------------------------------------
+15 	
+
+15. Apa fungsi dari access point dalam jaringan nirkabel? 
+	
+		
+
+    A. Menghubungkan kabel 
+	
+	Benar 	
+
+    B. Menyediakan koneksi jaringan untuk perangkat nirkabel 
+	
+		
+
+    C. Mengelola lalu lintas data 
+	
+		
+
+    D. Meningkatkan bandwidth 
+	
+		
+
+    E. Menyimpan data
+	
+----------------------------------------------------------------------------
+16 	
+
+16. Apa yang dimaksud dengan SSID? 
+	
+		
+
+    A. Standard Service Identifier 
+	
+	Benar 	
+
+    B. Service Set Identifier 
+	
+		
+
+    C. Secure Service Identifier 
+	
+		
+
+    D. Simple Service Identifier 
+	
+		
+
+    E. System Set Identifier
+	
+----------------------------------------------------------------------------
+17 	
+
+17. Apa yang menjadi keuntungan utama dari jaringan nirkabel? 
+	
+		
+
+    A. Keamanan tinggi 
+	
+		
+
+    B. Keterbatasan mobilitas 
+	
+	Benar 	
+
+    C. Mobilitas dan fleksibilitas 
+	
+		
+
+    D. Kecepatan tinggi 
+	
+		
+
+    E. Keterbatasan biaya
+	
+----------------------------------------------------------------------------
+18 	
+
+18. Apa yang dimaksud dengan sinyal interferensi dalam jaringan nirkabel? 
+	
+		
+
+    A. Sinyal yang stabil 
+	
+	Benar 	
+
+    B. Gangguan yang mengurangi kualitas sinyal 
+	
+		
+
+    C. Sinyal yang cepat 
+	
+		
+
+    D. Sinyal yang aman 
+	
+		
+
+    E. Sinyal yang kuat
+	
+----------------------------------------------------------------------------
+19 	
+
+19. Protokol yang digunakan untuk mengamankan komunikasi nirkabel adalah: 
+	
+		
+
+    A. FTP 
+	
+		
+
+    B. HTTP 
+	
+	Benar 	
+
+C. WEP 
+	
+		
+
+    D. TCP 
+	
+		
+
+    E. UDP
+	
+----------------------------------------------------------------------------
+20 	
+
+20. Apa yang dimaksud dengan MIMO dalam jaringan nirkabel? 
+	
+	Benar 	
+
+    A. Multiple Input Multiple Output 
+	
+		
+
+    B. Multi-Internet Multi-Output 
+	
+		
+
+    C. Multiple Interface Multiple Operation 
+	
+		
+
+    D. Multi-Input Multi-Operation 
+	
+		
+
+    E. Multiple Internet Multiple Output
+	
+----------------------------------------------------------------------------
+21 	
+
+21. Teknologi 5G menawarkan kecepatan yang lebih tinggi dibandingkan dengan: 
+	
+		
+
+    A. 3G 
+	
+		
+
+    B. 4G 
+	
+		
+
+    C. 2G 
+	
+	Benar 	
+
+    D. Semua di atas 
+	
+		
+
+    E. Hanya 4G
+	
+----------------------------------------------------------------------------
+22 	
+
+22. Apa yang dimaksud dengan IoT (Internet of Things)? 
+	
+		
+
+    A. Jaringan komputer 
+	
+	Benar 	
+
+    B. Koneksi perangkat sehari-hari ke internet 
+	
+		
+
+    C. Jaringan sosial 
+	
+		
+
+    D. Teknologi komunikasi 
+	
+		
+
+    E. Sistem operasi
+	
+----------------------------------------------------------------------------
+23 	
+
+23. Apa keuntungan utama dari penggunaan fiber optik dalam jaringan? 
+	
+		
+
+    A. Biaya rendah 
+	
+	Benar 	
+
+    B. Tahan terhadap interferensi 
+	
+		
+
+    C. Mudah dipasang 
+	
+		
+
+    D. Rentan terhadap kerusakan 
+	
+		
+
+    E. Kapasitas rendah
+	
+----------------------------------------------------------------------------
+24 	
+
+24. Apa yang dimaksud dengan load balancing dalam jaringan? 
+	
+		
+
+    A. Menyimpan data di server 
+	
+	Benar 	
+
+    B. Membagi beban trafik secara merata di beberapa server 
+	
+		
+
+    C. Meningkatkan kecepatan koneksi 
+	
+		
+
+    D. Menghubungkan perangkat 
+	
+		
+
+    E. Mengamankan jaringan
+	
+----------------------------------------------------------------------------
+25 	
+
+25. Apa fungsi dari VLAN dalam jaringan kabel? 
+	
+		
+
+    A. Menghubungkan perangkat nirkabel 
+	
+	Benar 	
+
+    B. Memisahkan lalu lintas jaringan dalam satu jaringan fisik 
+	
+		
+
+    C. Meningkatkan kecepatan jaringan 
+	
+		
+
+    D. Menyimpan data 
+	
+		
+
+    E. Mengurangi biaya
+	
+----------------------------------------------------------------------------
