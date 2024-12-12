@@ -1,298 +1,629 @@
 Daftar Soal
-Topik = MATEMATIKA-XII-ALLJURUSAN-PSAS
-1 	Suatu konsep matematis yang melibatkan perpindahan seluruh grafik fungsi ke arah tertentu pada sistem koordinat tanpa mengubah bentuk atau kemiringan grafik disebut dengan.... 	
-		Kombinasi Transformasi Fungsi 	
-		Dilatasi 	
-		Rotasi 	
-		Refleksi 	
-	Benar 	Translasi 	
+Topik = MTK-XII-ALL JURUSAN-STS
+1 	
+
+Diketahui fungsi h(x) = 5x + 2 ditranslasikan ke atas 2 satuan. Persamaan fungsi hasil translasi adalah...
+	
+		
+
+h(x) = 5x
+	
+	Benar 	
+
+h(x) = 5x + 4
+	
+		
+
+h(x) = 5x - 2
+	
+		
+
+h(x) = 5x - 4
+	
+		
+
+h(x) = 5x + 2
+	
 ----------------------------------------------------------------------------
-2 	Fungsi f(x) = 5x – 8 digeser 4 satuan ke bawah. Persamaan fungsi hasil translasi adalah... 	
-		5x – 4 	
-		5x – 8 	
-		5x – 14 	
-	Benar 	5x – 12 	
-		5x – 28 	
+2 	
+
+Diketahui fungsi linear h(x) = -2x + 3 mengalami translasi ke kanan 4 satuan. Persamaan fungsi hasil transformasi adalah...
+	
+	Benar 	
+
+h(x) = -2(x - 4) + 3
+	
+		
+
+h(x) = -2(x + 4) + 3
+	
+		
+
+h(x) = -2(x - 4) - 3
+	
+		
+
+h(x) = -2(x + 4) - 3
+	
+		
+
+h(x) = -2(x - 4) - 6
+	
 ----------------------------------------------------------------------------
-3 	Fungsi linear h(x) = 3x – 2 direfleksikan terhadap sumbu Y. Hasil refleksi fungsi tersebut adalah... 	
-		h(x) = 3x + 2 	
-	Benar 	h(x) = -3x – 2 	
-		h(x) = -3x + 2 	
-		h(x) = 3x – 2 	
-		h(x) = -3x + 3 	
+3 	
+
+Diketahui fungsi y = 3x^2 - 4 digeser ke kiri 4 satuan. Tentukan fungsi hasil translasi!
+	
+		
+
+y = 3x^2 - 24x + 44
+	
+		
+
+y = -3x^2 + 24x - 44
+	
+	Benar 	
+
+y = 3x^2 + 24x + 44
+	
+		
+
+y = -3x^2 - 24x + 44
+	
+		
+
+y = 3x^2 - 24x - 44
+	
 ----------------------------------------------------------------------------
-4 	Diketahui fungsi g(x) = -2x + 1 direfleksikan terhadap sumbu X. Hasil refleksi fungsi tersebut adalah... 	
-	Benar 	g(x) = 2x – 1 	
-		g(x) = -2x -1 	
-		g(x) = 2x + 1 	
-		g(x) = -2x + 1 	
-		g(x) = -2x -1 	
+4 	
+
+Diketahui fungsi f(x) = 2x + 3 mengalami translasi ke kanan sejauh 4 satuan. Tentukan persamaan fungsi hasil transformasi !
+	
+		
+
+y = 2x + 5
+	
+		
+
+y = -2x + 5
+	
+	Benar 	
+
+y = 2x - 5
+	
+		
+
+y = -2x - 5
+	
+		
+
+y = 2x - (-5)
+	
 ----------------------------------------------------------------------------
-5 	Bentuk translasi transformasi y = 3x² - 2x + 4 menjadi y = 3x² - 2x -5 adalah... 	
-		Translasi ke atas 1 satuan 	
-	Benar 	Translasi ke bawah 9 satuan 	
-		Translasi ke kanan 1 satuan 	
-		Translasi ke atas 9 satuan 	
-		Translasi ke kiri 9 satuan 	
+5 	
+
+Tentukan persamaan fungsi hasil pergeseran dari y = 2x + 5 jika digeser ke kanan sejauh 7 satuan!
+	
+		
+
+y = -2x - 9
+	
+	Benar 	
+
+y = 2x + 9
+	
+		
+
+y = -2x + 9
+	
+		
+
+y = 2x - 9
+	
+		
+
+y = 2x + (-9)
+	
 ----------------------------------------------------------------------------
-6 	Garis p: 2x - 3y + 5 = 0 direfleksikan terhadap sumbu Y. Hasil refleksi garis p adalah... 	
-		(2x + 3y + 5 = 0) 	
-		(-2x + 3y - 5 = 0) 	
-		(2x - 3y - 5 = 0) 	
-	Benar 	(-2x - 3y + 5 = 0) 	
-		(-2x + 3y + 5 = 0) 	
+6 	
+
+Tentukan hasil pergeseran dari y = 3x^2 + x - 9 jika digeser ke kanan 2 satuan !
+	
+		
+
+y = -3x^2 - 11x + 1
+	
+		
+
+y = 3x^2 + 11x -1
+	
+		
+
+y = 3x^2 + 11x + 1
+	
+		
+
+y = -3x^2 + 11x - 1
+	
+	Benar 	
+
+y = 3x^2 - 11x + 1
+	
 ----------------------------------------------------------------------------
-7 	Fungsi h(x) = x² + 2 direfleksikan terhadap sumbu X. Hasil refleksi fungsi tersebut adalah... 	
-		h(x) = -x² + 2 	
-		h(x) = x² - 2 	
-	Benar 	h(x) = -x² - 2 	
-		h(x) = x² + 2 	
-		h(x) = -2x² + 2 	
+7 	
+
+Suatu konsep matematis yang melibatkan perpindahan seluruh grafik fungsi ke arah tertentu pada sistem koordinat tanpa mengubah bentuk atau kemiringan grafik disebut dengan....
+	
+		
+
+Dilatasi
+	
+		
+
+Refleksi
+	
+	Benar 	
+
+Translasi
+	
+		
+
+Permutasi
+	
+		
+
+Rotasi
+	
 ----------------------------------------------------------------------------
-8 	Fungsi eksponen g(x) = 10x + 8 dirotasikan sebesar 90° terhadap titik pusat (0,0), maka hasil transformasi fungsi g(x) adalah... 	
-		x = -10y - 8 	
-	Benar 	x = -10y + 8 	
-		x = 10 y - 8 	
-		x = 10 y 	
-		x = 10 y + 8 	
+8 	
+
+Transformasi yang memindahkan objek menurut sifat-sifat cermin merupakan pengertian dari....
+
+	
+		
+
+Translasi 
+
+	
+	Benar 	
+
+Refleksi
+
+	
+		
+
+Rotasi
+
+	
+		
+
+Dilatasi
+
+	
+		
+
+Permutasi
+
+	
 ----------------------------------------------------------------------------
-9 	Fungsi kuadrat g(x) = -x² + 4 dirotasikan sebesar 90° terhadap titik pusat (0,0). Persamaan fungsi hasil tranformasi adalah.. 	
-		x = -y² - 4 	
-		x = -y² + 4 	
-		x = -y² - 2 	
-		x = y² - 4 	
-	Benar 	x = y² + 4 	
+9 	
+
+Soal Gambar No 8
+	
+		
+
+Jawaban Soal no 8 PG (a)
+	
+		
+
+Jawaban Soal no 8 PG (b)
+	
+	Benar 	
+
+Jawaban Soal no 8 PG (c)
+	
+		
+
+Jawaban Soal no 8 PG (d)
+	
+		
+
+Jawaban Soal no 8 PG (e)
+	
 ----------------------------------------------------------------------------
-10 	Diketahui sebuah lingkaran memiliki jari-jari 30 cm. Panjang busur lingkaran yang berada di depan sudut pusat sebesar 60° pada lingkaran tersebut adalah... 	
-	Benar 	31,4 cm 	
-		62,8 cm 	
-		314 cm 	
-		471 cm 	
-		628 cm 	
+10 	
+
+Yang bukan merupakan sifat-sifat cermin dibawah ini adalah....
+	
+		
+
+Bentuk objek sama dengan bentuk bayangan
+	
+		
+
+Jarak objek ke cermin sama dengan jarak bayangan ke cermin
+	
+		
+
+Garis yang menghubungkan objek dan bayangan tegak lurus dengan cermin
+	
+		
+
+Refleksi bersifat isometris, artinya berukuran tetap atau sama
+	
+	Benar 	
+
+Bentuk objek tidak sama dengan bentuk bayangan
+	
 ----------------------------------------------------------------------------
 11 	
 
-Perhatikan gambar berikut!
-
-Jika panjang jari-jari lingkaran P adalah 14 cm, panjang busur AB adalah...
+Fungsi g(x) = x^2 mengalami refleksi terhadap sumbu X. Fungsi yang dihasilkan adalah....
 	
-		11 cm 	
-	Benar 	22 cm 	
-		61 cm 	
-		84 cm 	
-		154 cm 	
+		
+
+g(x) = x^2
+	
+	Benar 	
+
+g(x) = -x^2
+	
+		
+
+g(x) = -x^2 + 1
+	
+		
+
+g(x) = x^2 -1
+	
+		
+
+g(x) = -2x^2
+	
 ----------------------------------------------------------------------------
 12 	
 
-Perhatikan gambar berikut!
-
-Jika panjang busur PQ adalah 3π cm, panjang jari-jari lingkaran O adalah...
+Fungsi r(x) = 3^x mengalami refleksi terhadap sumbu Y. Fungsi yang dihasilkan adalah...
 	
-		5 cm 	
-		6 cm 	
-		10 cm 	
-		11 cm 	
-	Benar 	12 cm 	
+	Benar 	
+
+r(x) = -3^x
+	
+		
+
+r(x) = 3^-x
+	
+		
+
+r(x) = -3^-x
+	
+		
+
+r(x) = 3x
+	
+		
+
+r(x) = -3x
+	
 ----------------------------------------------------------------------------
-13 	Diketahui sebuah lingkaran memiliki panjang busur 6π cm. Jika panjang jari-jarinya adalah 8 cm, besar sudut pusat lingkaran tersebut adalah... 	
-		90° 	
-		120° 	
-	Benar 	135° 	
-		150° 	
-		180° 	
+13 	
+
+Soal Gambar No.13
+
+	
+		
+
+	
+	Benar 	
+
+	
+		
+
+	
+		
+
+	
+		
+
+	
 ----------------------------------------------------------------------------
 14 	
 
-Perhatikan gambar berikut! Luas Juring POQ adalah...
+Garis 2x - y = 5 dirotasikan sebesar 180° terhadap titik pusat (0,0). Hasil rotasi garis tersebut adalah...
 	
-		66 cm² 	
-		511 cm² 	
-	Benar 	1.155 cm² 	
-		3.120 cm² 	
-		4.620 cm² 	
-----------------------------------------------------------------------------
-15 	Lingkaran O memiliki jari-jari 14 cm. Jika sudut pusat suatu juring pada lingkaran O adalah 45°, luas juring tersebut adalah... 	
-	Benar 	77 cm² 	
-		112 cm² 	
-		224 cm² 	
-		280 cm² 	
-		336 cm² 	
-----------------------------------------------------------------------------
-16 	Suatu lingkaran memiliki keliling 88 cm. Luas juring bersudut pusat 270° adalah... 	
-		66 cm² 	
-		128 cm² 	
-		330 cm² 	
-	Benar 	448 cm² 	
-		462 cm² 	
-----------------------------------------------------------------------------
-17 	Sebuah juring lingkaran dengan sudut pusat 135° luasnya 117,75 cm². Panjang jari-jari lingkaran tersebut adalah... 	
-		8 cm 	
-		10 cm 	
-		12 cm 	
-	Benar 	14 cm 	
-		16 cm 	
-----------------------------------------------------------------------------
-18 	Jika fungsi eksponensial f(x) = 4x mengalami translasi ke bawah 3 satuan, maka persamaan fungsi hasil transformasi adalah.... 	
-	Benar 	f(x) = 4x - 3 	
-		f(x) = 4 + 3 	
-		f(x) = -4x - 3 	
-		f(x) = -4x + 3 	
-		f(x) = 4x - 12 	
-----------------------------------------------------------------------------
-19 	Fungsi kuadrat f(x) = -2x² + 4x - 3 mengalami translasi ke kanan 2 satuan dilanjutkan refleksi terhadap sumbu Y. Persamaan fungsi hasil transformasi adalah... 	
-	Benar 	f(x) = -2(-x-2)² + 4(-x - 2) - 3 	
-		f(x) = 2 (-x -2)² - 4(-x - 2) + 3 	
-		f(x) = -2(x + 2)² - 4(x + 2) - 3 	
-		f(x) = 2(x + 2)² - 4(x + 2) + 3 	
-		f(x) = -2(x + 2)² - 4(x + 2) - 3 	
-----------------------------------------------------------------------------
-20 	Diketahui fungsi h(x) = 5x + 2 ditranslasikan ke atas 2 satuan. Persamaan fungsi hasil translasi adalah... 	
-		h(x) = 5x 	
-	Benar 	h(x) = 5x + 4 	
-		h(x) = 5x - 2 	
-		h(x) = 5x – 4 	
-		h(x) = 5x + 2 	
-----------------------------------------------------------------------------
-21 	Fungsi eksponen f(x) = 4ˣ digeser ke atas 5 satuan. Persamaan fungsi hasil translasi adalah... 	
-		f(x) = 4ˣ + 1 	
-	Benar 	f(x) = 4ˣ + 5 	
-		f(x) = 4ˣ 	
-		f(x) = 4ˣ - 5 	
-		f(x) = 4ˣ - 1 	
-----------------------------------------------------------------------------
-22 	Diketahui dungsi linear h(x) = -2x + 3 mengalami translasi ke kanan 4 satuan. Persamaan fungsi hasil transformasi adalah... 	
-	Benar 	h(x) = -2(x - 4) + 3 	
-		h(x) = -2(x + 4) + 3 	
-		h(x) = -2(x - 4) - 3 	
-		h(x) = -2(x + 4) - 3 	
-		h(x) = -2(x - 4) - 6 	
-----------------------------------------------------------------------------
-23 	Refleksi fungsi yang dilakukan dengan merefleksikan sebuah grafik fungsi terhadap sumbu X merupakan refleksi.... 	
-		Refleksi Horizontal 	
-	Benar 	Refleksi Vertikal 	
-		Refleksi Atas 	
-		Refleksi Bawah 	
-		Refleksi Horizontal dan Vertikal 	
-----------------------------------------------------------------------------
-24 	Putaran benda pada poros yang tetap merupakan pengertian dari.... 	
-		Dilatasi 	
-		Refleksi 	
-		Translasi 	
-	Benar 	Rotasi 	
-		Permutasi 	
-----------------------------------------------------------------------------
-25 	Arah rotasi diputar berlawanan arah jarum jam maka besar sudut rotasinya adalah.... 	
-		Negatif 	
-	Benar 	Positif 	
-		Minus 	
-		Plus 	
-		Plus Minus 	
-----------------------------------------------------------------------------
-26 	Fungsi linear h(x) = 5x + 1 dirotasikan sebesar 90° searah jarum jam terhadap titik pusat (0,0). Persamaan fungsi hasil rotasi adalah... 	
-	Benar 	x = 5y + 1 	
-		x = 5y - 1 	
-		x = -5y + 5 	
-		x = -5y + 1 	
-		x = -5y - 1 	
-----------------------------------------------------------------------------
-27 	Diketahui fungsi f(x) = 3x + 2 mengalami dilatasi vertikal dengan skala 2. Fungsi hasil kombinasi transformasi tersebut adalah... 	
-		f(x) = 3x + 2 	
-		f(x) = 3x + 4 	
-		f(x) = 6x + 2 	
-	Benar 	f(x) = 6x + 4 	
-		f(x) = 6x + 8 	
-----------------------------------------------------------------------------
-28 	Fungsi y = 2x² + 5 digeser ke atas 5 satuan. Tentukan fungsi hasil translasi tersebut! 	
-	Benar 	y = 2x² + 10 	
-		y = -2x² + 10 	
-		y = 2x² - 10 	
-		y = -2x² - 10 	
-		y = 2x² + 5 	
-----------------------------------------------------------------------------
-29 	Garis y = 2x + 1 digeser ke bawah 2 satuan. Tentukan persamaan garis hasil translasi! 	
-		y = 2x + 1 	
-	Benar 	y = 2x - 1 	
-		y = -2 + 1 	
-		y = -2x + 1 	
-		y= -2x - 1 	
-----------------------------------------------------------------------------
-30 	Diketahui f(x) = 5x + 7 direfleksikan terhadap sumbu Y. Tentukan hasil refleksi f(x) terhadap sumbu Y! 	
-		y = -5 - 7 	
-		y = -5x - 7 	
-	Benar 	y = -5x + 7 	
-		y = 5x + 7 	
-		y = 5x - 7 	
-----------------------------------------------------------------------------
-31 	Dua buah dadu dilempar secara bersamaan. Setiap dadu mempunyai enam mata. Maka berapakah semua variasi pasangan mata dadu? 	
-		6 	
-	Benar 	36 	
-		66 	
-		12 	
-		18 	
-----------------------------------------------------------------------------
-32 	Tentukan hasil dari bentuk permutasi P(5, 2)! 	
-	Benar 	20 	
-		10 	
-		2 	
-		15 	
-		25 	
-----------------------------------------------------------------------------
-33 	Untuk menjabat pengelola suatu perusahaan memerlukan 3 staf pengurus yaitu, ketua, sekretaris, dan bendahara. Jika tersedia 7 calon, berapa banyaknya susunan staf pengurus yang mungkin? 	
-		151.200 unsur 	
-	Benar 	210 unsur 	
-		120 unsur 	
-		10 unsur 	
-		105 unsur 	
-----------------------------------------------------------------------------
-34 	Rumah makan “LEZAT” menyediakan 6 macam menu makanan dan 9 macam menu minuman. Banyak pasangan menu makanan dan minuman yang dapat dipilih pelanggan adalah... 	
-	Benar 	54 	
-		48 	
-		36 	
-		30 	
-		15 	
-----------------------------------------------------------------------------
-35 	Banyak susunan kata yang dapat dibentuk dari penyusun kata “BAHASA” adalah... 	
-		720 	
-		480 	
-		360 	
-		240 	
-	Benar 	120 	
-----------------------------------------------------------------------------
-36 	Berapa banyak susunan huruf yang dapat dibentuk dari huruf-huruf pada kata “MATEMATIKA” ? 	
-		10 	
-		151100 	
+		
+
+2x - y = 5
+	
+		
+
+2x + y = -5
+	
+		
+
+2x + y = 5
+	
+		
+
+2x - 2y = 5
+	
 	Benar 	
 
-151200
+2x - y = -5
 	
-		10000 	
-		3628 	
 ----------------------------------------------------------------------------
-37 	Nila mempunyai koleksi 4 baju yang berlainan coraknya dan 2 celana panjang yang berbeda warna. Banyak cara berpakaian Nila dengan penampilan yang berbeda adalah.. 	
-		6 	
-		8 	
-	Benar 	12 	
-		16 	
-		36 	
+15 	
+
+Fungsi linear y = 2x - 3 dirotasikan sebesar 90° terhadap titik pusat (0,0). Hasil rotasi fungsi tersebut adalah....
+	
+	Benar 	
+
+x = -2y - 3
+	
+		
+
+x = 2y - 3
+	
+		
+
+x = 2y + 3
+	
+		
+
+x = -2y + 3
+	
+		
+
+x = -y + 3
+	
 ----------------------------------------------------------------------------
-38 	Hasil dari 7! : 3! X 4! adalah.... 	
-		210 	
-		105 	
-		42 	
-	Benar 	35 	
-		30 	
+16 	
+
+Diketahui fungsi kuadrat f(x) = -x^2 - 5x + 2 dirotasikan sebesar 180° terhadap titik pusat (0,0). Persamaan fungsi hasil rotasi adalah....
+	
+		
+
+y = x^2 + 5x + 2
+	
+		
+
+y = -x^2 + 5x - 2
+	
+		
+
+y = x^2 - 5x -2
+	
+	Benar 	
+
+y = x^2 - 5x - 2
+	
+		
+
+y = -x^2 - 5x - 2
+	
 ----------------------------------------------------------------------------
-39 	Nilai dari 8! X 3! : 6! Adalah... 	
-		240 	
-	Benar 	336 	
-		403 	
-		620 	
-		861 	
+17 	
+
+Fungsi linear h(x) = 5x + 1 dirotasikan sebesar 90° searah jarum jam terhadap titik pusat (0,0). Persamaan fungsi hasil rotasi adalah....
+	
+		
+
+x = 5y + 1
+	
+		
+
+x = 5y - 1
+	
+		
+
+x = -5y + 5
+	
+	Benar 	
+
+x = -5y + 1
+	
+		
+
+x = -5y - 1
+	
 ----------------------------------------------------------------------------
-40 	Dalam sebuah kelas terdapat 10 siswa laki-laki yang akan dipilih menjadi tim futsal. Banyak cara yang berbeda untuk memilih tim futsal yang terdiri atas 5 orang dari kelas tersebut adalah... 	
-	Benar 	252 	
-		240 	
-		120 	
-		72 	
-		45 	
+18 	
+
+Fungsi g(x) = 4^3x dirotasikan sebesar 270° terhadap titik pusat (0,0). Persamaan fungsi hasil rotasi adalah...
+	
+		
+
+x = 4^3y
+	
+		
+
+x = 4^-3
+	
+		
+
+x = 3^-4y
+	
+		
+
+x = -4^3y
+	
+	Benar 	
+
+x = -4^-3y
+	
+----------------------------------------------------------------------------
+19 	
+
+Diketahui persamaan garis lurus y = -2x + 5. Tentukan hasil rotasi garis tersebut sebesar 90° dengan pusat (0,0)
+	
+	Benar 	
+
+x = 2y + 5
+	
+		
+
+x = -2y - 5
+	
+		
+
+x = -2y + 5
+	
+		
+
+y = 2y + 5
+	
+		
+
+y = -2y + 5
+	
+----------------------------------------------------------------------------
+20 	
+
+Fungsi kuadrat f(x) = -2x^2 + 4x - 3 mengalami translasi ke kanan 2 satuan dilanjutkan refleksi terhadap sumbu Y. Persamaan fungsi hasil transformasi adalah...
+	
+		
+
+f(x) = -2(-x-2)^2 + 4(-x - 2) - 3
+	
+		
+
+f(x) = 2(-x - 2)^2 - 4(-x - 2) + 3
+	
+	Benar 	
+
+f(x) = -2(x - 2)^2 + 4(x - 2) - 3
+	
+		
+
+f(x) = 2(x + 2)^2 - 4(x + 2) + 3
+	
+		
+
+f(x) = -2(x + 2)^2 - 4(x + 2) - 3
+	
+----------------------------------------------------------------------------
+21 	
+
+Jika fungsi eksponensial f(x) = 4x mengalami translasi ke bawah 3 satuan, maka persamaan fungsi hasil transformasi adalah....
+	
+	Benar 	
+
+f(x) = 4x - 3
+	
+		
+
+f(x) = 4x + 3
+	
+		
+
+f(x) = -4x - 3
+	
+		
+
+f(x) = -4x + 3
+	
+		
+
+f(x) = 4x - 12
+	
+----------------------------------------------------------------------------
+22 	
+
+Diketahui fungsi y = x^2 + 2x + 10 dirotasikan sebesar 90° terhadap titik pusat (0,0) dilanjutkan rotasi sebesar 180° terhadap titik pusat (0,0). Hasil kombinasi transformasi dari fungsi tersebut adalah....
+	
+		
+
+x = y^2 + 2y + 10
+	
+		
+
+x = y^2 + 2y - 10
+	
+		
+
+x = y^2 - 2y + 10
+	
+	Benar 	
+
+x = y^2 - 2y - 10
+	
+		
+
+x = -y^2 - 2x - 10
+	
+----------------------------------------------------------------------------
+23 	
+
+Refleksi fungsi yang dilakukan dengan merefleksikan sebuah grafik fungsi terhadap sumbu X merupakan refleksi....
+	
+		
+
+Refleksi Horizontal
+	
+	Benar 	
+
+Refleksi Vertikal
+	
+		
+
+Refleksi Atas
+	
+		
+
+Refleksi Bawah
+	
+		
+
+Refleksi Horizontal dan Vertikal
+	
+----------------------------------------------------------------------------
+24 	
+
+Putaran benda pada poros yang tetap merupakan pengertian dari....
+	
+		
+
+Dilatasi
+	
+		
+
+Refleksi
+	
+		
+
+Translasi
+	
+	Benar 	
+
+Rotasi
+	
+		
+
+Permutasi
+	
+----------------------------------------------------------------------------
+25 	
+
+Arah rotasi diputar berlawanan arah jarum jam maka besar sudut rotasinya adalah....
+	
+		
+
+Negatif
+	
+	Benar 	
+
+Positif
+	
+		
+
+Minus
+	
+		
+
+Plus
+	
+		
+
+Plus Minus
+	
 ----------------------------------------------------------------------------
