@@ -1,0 +1,627 @@
+Daftar Soal
+Topik = PPJ-XII-TKJ-STS
+1 	
+
+Apa yang dimaksud IP Address…
+	
+		
+
+Protokol komunikasi jaringan
+	
+	Benar 	
+
+Alamat unik untuk setiap perangkat di jaringan
+	
+		
+
+Nama domain dari sebuah situs web
+	
+		
+
+Jaringan lokal
+	
+		
+
+Jaringan wan
+	
+----------------------------------------------------------------------------
+2 	
+
+Apa fungsi router dalam jaringan...
+	
+		
+
+Menghubungkan komputer ke internet
+	
+	Benar 	
+
+Mengarahkan lalu lintas data antar jaringan
+	
+		
+
+Menyimpan data pengguna
+	
+		
+
+Memperkuat sinyal wifi
+	
+		
+
+Membuat repeater
+	
+----------------------------------------------------------------------------
+3 	
+
+Apa kepanjangan dari DNS…
+	
+	Benar 	
+
+Domain Name Sistem
+	
+		
+
+Digital Network Sistem
+	
+		
+
+Data Name Server
+	
+		
+
+Domain Network Server
+	
+		
+
+Domain Mac komputer
+	
+----------------------------------------------------------------------------
+4 	
+
+Apa fungsi dari protokol TCP/IP…
+	
+		
+
+Untuk mengamankan data
+	
+		
+
+Untuk mengatur alokasi memori
+	
+	Benar 	
+
+Untuk mengatur komunikasi data di jaringan internet
+	
+		
+
+Untuk mengelola basis data
+	
+		
+
+Untuk membuat FTP
+	
+----------------------------------------------------------------------------
+5 	
+
+Apa kepanjangan dari OSI dalam model OSI…
+	
+	Benar 	
+
+Open Sistem Interconnection
+	
+		
+
+Open Service Interface
+	
+		
+
+Operating Sistem Interface
+	
+		
+
+Online Service Internet
+	
+		
+
+Open Java Script
+	
+----------------------------------------------------------------------------
+6 	
+
+Di lapisan OSI manakah switch beroperasi...
+	
+		
+
+Layer 1
+	
+	Benar 	
+
+Layer 2
+	
+		
+
+Layer 3
+	
+		
+
+Layer 4
+	
+		
+
+Layer 5
+	
+----------------------------------------------------------------------------
+7 	
+
+Apa fungsi dari firewall dalam jaringan…
+	
+		
+
+Menghubungkan komputer ke internet
+	
+	Benar 	
+
+Mencegah akses tidak sah ke atau dari jaringan pribadi
+	
+		
+
+Menyimpan data pengguna
+	
+		
+
+Memperkuat sinyal wifi
+	
+		
+
+Memperkuat bandwidth
+	
+----------------------------------------------------------------------------
+8 	
+
+Apa yang dimaksud dengan topologi jaringan…
+	
+	Benar 	
+
+Susunan fisik dari jaringan
+	
+		
+
+Alamat IP dari jaringan
+	
+		
+
+Nama domain dari jaringan
+	
+		
+
+Protokol yang digunakan dalam jaringan
+	
+		
+
+Proxy
+	
+----------------------------------------------------------------------------
+9 	
+
+Apa kepanjangan dari DHCP…
+	
+	Benar 	
+
+Dynamic Host Configuration Protocol
+	
+		
+
+Data Host Configuration Protocol
+	
+		
+
+Domain Host Control Protocol
+	
+		
+
+Digital Host Configuration Protocol
+	
+		
+
+Data Host Configuration Proxy
+	
+----------------------------------------------------------------------------
+10 	
+
+Apa fungsi dari kabel UTP...
+	
+		
+
+Untuk menyuplai listrik
+	
+	Benar 	
+
+Untuk menghubungkan perangkat jaringan
+	
+		
+
+Untuk memperkuat sinyal wifi
+	
+		
+
+Untuk menyimpan data
+	
+		
+
+Untuk membuat share data
+	
+----------------------------------------------------------------------------
+11 	
+
+VLAN (Virtual Local Area Network) adalah fungsi…dari sebuah switch
+	
+		
+
+Logaritma
+	
+		
+
+Local
+	
+	Benar 	
+
+Logic
+	
+		
+
+Lomari
+	
+		
+
+Lan
+	
+----------------------------------------------------------------------------
+12 	
+
+Agar komputer berkomunikasi pada VLAN yang sama setiap komputer harus memiliki sebuah…
+	
+		
+
+Subnet mask
+	
+	Benar 	
+
+Alamat IP dan Subnet mask
+	
+		
+
+Alamat IP
+	
+		
+
+Face mask
+	
+		
+
+Kabel
+	
+----------------------------------------------------------------------------
+13 	
+
+VLAN adalah singkatan dari...
+	
+		
+
+Virtual Local Area Neering
+	
+		
+
+Virtual Lan Area Network
+	
+	Benar 	
+
+Virtual Local Area Network
+	
+		
+
+Visit Local Area Network
+	
+		
+
+Virtual Land Area Network
+	
+----------------------------------------------------------------------------
+14 	
+
+Berikut ini yang termasuk kelebihan VLAN...
+	
+		
+
+Failed
+	
+		
+
+Faximilie
+	
+		
+
+Fight
+	
+	Benar 	
+
+Fleksibel
+	
+		
+
+Tidak ada yang benar
+	
+----------------------------------------------------------------------------
+15 	
+
+Yang dikembalikan ke suatu port apabila tidak dalam bentuk trunking dan untagged, merupakan pengertian...
+	
+	Benar 	
+
+Native VLAN
+	
+		
+
+Default VLAN
+	
+		
+
+Data VLAN
+	
+		
+
+Management VLAN
+	
+		
+
+Voice VLAN
+	
+----------------------------------------------------------------------------
+16 	
+
+VLAN yang sudah ada sejak pertama kali switch dihidupkan, sebelum di konfigurasi semua port yang ada pada switch akan tergabung ke dalam default VLAN dan dapat terhubung pada masing-masing port pada cisco, default VLAN adalah VLAN 1, pernyataan tersebut pengertian dari…
+	
+		
+
+Native VLAN
+	
+	Benar 	
+
+Default VLAN
+	
+		
+
+Data VLAN
+	
+		
+
+Management VLAN
+	
+		
+
+Voice VLAN
+	
+----------------------------------------------------------------------------
+17 	
+
+VLAN yang mengatur trafik data pada VLAN, merupakan pengertia dari...
+	
+		
+
+Native VLAN
+	
+		
+
+Default VLAN
+	
+	Benar 	
+
+Data VLAN
+	
+		
+
+Management VLAN
+	
+		
+
+Voice VLAN
+	
+----------------------------------------------------------------------------
+18 	
+
+Yang mendukung VoIP dan dikhususkan untuk komunikasi data suara pada VLAN, merupakan pengertian dari…
+	
+		
+
+Native VLAN
+	
+		
+
+Default VLAN
+	
+		
+
+Data VLAN
+	
+		
+
+Management VLAN
+	
+	Benar 	
+
+Voice VLAN
+	
+----------------------------------------------------------------------------
+19 	
+
+VLAN yang dikonfigurasi management switch, merupakan pengertian dari…
+	
+	Benar 	
+
+Native VLAN
+	
+		
+
+Default VLAN
+	
+		
+
+Data VLAN
+	
+		
+
+Management VLAN
+	
+		
+
+Voice VLAN
+	
+----------------------------------------------------------------------------
+20 	
+
+Jika sebelumnya mempunyai jaringan LAN yang cukup besar dan dibagi dengan VLAN, maka…
+	
+		
+
+Traffic broadcast hanya akan dikirim sesuai dengan VLAN masing-masing memudahkan dalam pengelolaan komputer
+	
+		
+
+Traffic broadcast hanya akan dikirim sesuai dengan VLAN masing-masing memudahkan dalam pengelolaan trunking
+	
+		
+
+Traffic broadcast hanya akan dikirim sesuai dengan VLAN masing-masing memudahkan dalam teknik
+	
+	Benar 	
+
+Traffic broadcast hanya akan dikirim sesuai dengan VLAN masing-masing memudahkan dalam pengelolaan jaringan
+	
+		
+
+Traffic broadcast hanya akan dikirim sesuai dengan VLAN masing-masing memudahkan dalam VLAN
+	
+----------------------------------------------------------------------------
+21 	
+
+Sebuah port switch yang telah di konfigurasi dengan sebuah VLAN tunggal disebut sebagai…
+	
+		
+
+Trunking
+	
+	Benar 	
+
+Access Port
+	
+		
+
+Seven segment
+	
+		
+
+IP
+	
+		
+
+VLAN
+	
+----------------------------------------------------------------------------
+22 	
+
+Ketika ada dua PC di dalam VLAN yang berbeda tetapi ada di switch yang sama, maka...
+	
+		
+
+PC bisa saling terhubung
+	
+		
+
+PC bisa mengakses internet
+	
+	Benar 	
+
+PC tidak bisa terhubung
+	
+		
+
+PC mati dengan sendirinya
+	
+		
+
+PC bisa mengontrol 1 sama lain
+	
+----------------------------------------------------------------------------
+23 	
+
+Untuk menghubungkan 2 buah VLAN yang sama tetapi pada switch yang berbeda harus menggunakan mode…
+	
+	Benar 	
+
+Trunking
+	
+		
+
+Packing
+	
+		
+
+Disable
+	
+		
+
+Desirable
+	
+		
+
+Configurasi terminal
+	
+----------------------------------------------------------------------------
+24 	
+
+Untuk me-remote suatu switch diperlukan kabel jenis…
+	
+		
+
+Cross
+	
+		
+
+Straight
+	
+		
+
+USB
+	
+		
+
+UTP
+	
+	Benar 	
+
+Console
+	
+----------------------------------------------------------------------------
+25 	
+
+Keuntungan dari pengguna VLAN adalah...
+	
+	Benar 	
+
+Untuk menghindarkan dari Collusion IP atau tabrakan IP
+	
+		
+
+Manajemen jaringan menjadi lebih sulit
+	
+		
+
+Berguna untuk menurunkan kinerja atau performansi LAN agar tidak stabil
+	
+		
+
+Biaya membuat jaringan menjadi lebih mahal
+	
+		
+
+Kemanan data tidak terjamin
+	
+----------------------------------------------------------------------------
