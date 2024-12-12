@@ -1,0 +1,627 @@
+Daftar Soal
+Topik = PEMASANGAN & KONFIG PERANGKAT JARINGAN -XII-TKJ-STS
+1 	
+
+Ether1 pada mikrotik biasanya digunakan untuk ......
+	
+		
+
+local
+	
+		
+
+public
+	
+	Benar 	
+
+internet
+	
+		
+
+gateway
+	
+		
+
+host
+	
+----------------------------------------------------------------------------
+2 	
+
+Winbox merupakan sebuah service yang mengijinkan koneksi ke router menggunakan aplikasi1.
+	
+	Benar 	
+
+local
+	
+		
+
+public
+	
+		
+
+internet
+	
+		
+
+gateway
+	
+		
+
+host
+	
+----------------------------------------------------------------------------
+3 	
+
+winbox yang berbasis GUI (Graphical User Interface) setiap admin jaringan tentu sudah familiar dengan aplikasi yang satu ini karena dapat memudahkan dalam mengkonfigurasi router, service winbox berjalan di port...
+	
+	Benar 	
+
+8291
+	
+		
+
+8729
+	
+		
+
+22
+	
+		
+
+443
+	
+		
+
+80
+	
+----------------------------------------------------------------------------
+4 	
+
+Sebuah program utilitas yang dapat digunakan untuk memeriksa Induktivitas jaringan berbasis teknologi Transmission Control Protocol/Internet Protocol (TCP/ IP)....
+	
+	Benar 	
+
+ping
+	
+		
+
+sudo
+	
+		
+
+netstat
+	
+		
+
+ipconfig
+	
+		
+
+ifconfig
+	
+----------------------------------------------------------------------------
+5 	
+
+Protokol yang berbasis arsitektur client/ server yang dipakai untuk memudahkan pengalokasian alamat IP dalam satu jaringan....
+	
+	Benar 	
+
+DHCP
+	
+		
+
+DNS
+	
+		
+
+Gateway
+	
+		
+
+IP Address
+	
+		
+
+Subnetting
+	
+----------------------------------------------------------------------------
+6 	
+
+5. Router menjalankan beberapa service untuk memudahkan cara user dalam mengakses router, atau menggunakan fitur lainnya. Service ini by-default akan dijalankan oleh router terus menerus seperti Telnet, Ftp, www, Ssh, www-ssl, Api Winbox dan Api-ssl. Service port pada router SSH dapat diakses pada port....
+	
+		
+
+80
+	
+	Benar 	
+
+22
+	
+		
+
+21
+	
+		
+
+443
+	
+		
+
+8291
+	
+----------------------------------------------------------------------------
+7 	
+
+6. Suatu metode untuk menghubungkan lebih dari satu komputer ke jaringan internet dengan menggunakan satu alamat IP....
+	
+		
+
+DHCP
+	
+	Benar 	
+
+NAT
+	
+		
+
+Gateway
+	
+		
+
+IP Address
+	
+		
+
+Subnetting
+	
+----------------------------------------------------------------------------
+8 	
+
+Cara kerja switch ini dapat mengurangi potensi adanya tabrakan data. Adapun beberapa di bawah ini yang bukan tujuan menggunakan switch.
+	
+		
+
+Mengurangi beban kerja di masing-masing PC host.
+	
+		
+
+Membantu meningkatkan kinerja pada jaringan.
+	
+		
+
+Jaringan yang memakai switch akan mempunyai lebih benturan frame lebih kecil. Sebab adanya switch menjadikan collision domain pada setiap koneksi.
+	
+		
+
+Switch dapat dihubungkan secara langsung dengan workstation.
+	
+	Benar 	
+
+Mendeteksi adanya serangan/ penyusup
+	
+----------------------------------------------------------------------------
+9 	
+
+Berikut ini BUKAN kegunaan dan fungsi dari MikroTik ....
+	
+		
+
+Sebagai Internet gateway
+	
+		
+
+Untuk Autentikasi jaringan
+	
+		
+
+Sebagai Access Point WiFi
+	
+		
+
+Untuk mengatur firewall
+	
+	Benar 	
+
+Sebagai alat penguat sinyal
+	
+----------------------------------------------------------------------------
+10 	
+
+Paket data yang dikirim oleh client yang memiliki tujuan ke internet, dan melewati router dikenal dengan chain...
+	
+		
+
+Input
+	
+		
+
+Ouput
+	
+	Benar 	
+
+Forward
+	
+		
+
+Routing
+	
+		
+
+Prerouting
+	
+----------------------------------------------------------------------------
+11 	
+
+Fitur pada mikrotik digunakan untuk melakukan kebijakan boleh atau tidaknya sebuah trafik ada dalam jaringan, identik dengan accept atau drop...
+	
+		
+
+NAT
+	
+		
+
+Mangle
+	
+	Benar 	
+
+Filter Rule
+	
+		
+
+Raw
+	
+		
+
+Resource
+	
+----------------------------------------------------------------------------
+12 	
+
+Kodai Naraoka mengakses ke jaringan utama / internet maka port yang digunakan di router mikrotik menggunakan....
+	
+		
+
+Port 1
+	
+		
+
+Port 2
+	
+	Benar 	
+
+Port 3
+	
+		
+
+Port 4
+	
+		
+
+Port 5
+	
+----------------------------------------------------------------------------
+13 	
+
+Status yang tertampil pada saat sudah terkoneksi dari sumber internet adalah....
+	
+		
+
+replay from
+	
+		
+
+bound
+	
+	Benar 	
+
+connect
+	
+		
+
+sucsesfully
+	
+		
+
+egepe
+	
+----------------------------------------------------------------------------
+14 	
+
+Pada menu NAT di firewall bagian action yang harus dipilih Kanta Nishimoto adalah...
+	
+		
+
+replay from
+	
+		
+
+bound
+	
+		
+
+forward
+	
+		
+
+drop
+	
+	Benar 	
+
+masquarade
+	
+----------------------------------------------------------------------------
+15 	
+
+Koshiro Moriguchi akan mengeblok situs tertentu di menu filter rule, action yang harus dipilih adalah...
+	
+		
+
+bound
+	
+		
+
+ceklist
+	
+		
+
+blok
+	
+	Benar 	
+
+drop
+	
+		
+
+forward
+	
+----------------------------------------------------------------------------
+16 	
+
+Riko Gunji tentunya paham perintah mikrotik jika akan melakukan konfigurasi/ mereset mikrotik dengan menggunakan Command Line Interface adalah dengan memilih ....
+	
+		
+
+System
+	
+		
+
+Exit
+	
+		
+
+Tools
+	
+	Benar 	
+
+new terminal
+	
+		
+
+files
+	
+----------------------------------------------------------------------------
+17 	
+
+Anda adalah seorang teknisi jaringan. Anda diminta Koki Watanabe untuk mengkonfigurasi jaringan Point To Point dengan Ubiquiti U6-PRO dari katornya ke rumahnya, dan anda diminta untuk inventarisasi alat dan bahan apa saja yang dibutuhkan agar Point To Point dapat dibuat ....
+	
+		
+
+Ubiquiti U6-PRO, Tang crimping, Kabel UTP, Komputer / Laptop
+	
+	Benar 	
+
+Ubiquiti U6-PRO, Konektor RG 45, Tang crimping, Kabel UTP, Komputer / Laptop
+	
+		
+
+Ubiquiti U6-PRO, Konektor RJ 45, Tang crimping, Kabel UTP.
+	
+		
+
+Ubiquiti U6-PRO, Konektor RJ 45, Tang crimping, Komputer / Laptop
+	
+		
+
+Ubiquiti U6-PRO, Hub, Switch, Server.
+	
+----------------------------------------------------------------------------
+18 	
+
+Kenta Nishimoto menghubungkan Komputer dengan Router MikroTik menggunakan sambungan kabel UTP dengan tipe....
+	
+		
+
+Straight
+	
+		
+
+Rollover
+	
+	Benar 	
+
+Crossover
+	
+		
+
+Loopback
+	
+		
+
+Fiber Optic
+	
+----------------------------------------------------------------------------
+19 	
+
+Dibawah ini yang bukan merupakan kelebihan topologi star...
+	
+		
+
+Mengurangi kemungkinan terjadinya kegagalan koneksi dikarenakan setiap perangkat terhubung dengan inti perangkat.
+	
+		
+
+Semua perangkat yang ada dapat berhubungan satu sama lain baik menerima ataupun mengirimkan data melewati inti perangkat.
+	
+		
+
+Dapat menggunakan beberapa tipe kabel di dalam jaringan yang sama dengan hub yang dapat mengakomodasi tipe kabel yang berbeda.
+	
+		
+
+Arus lalu lintas informasi data lebih optimal.
+	
+	Benar 	
+
+Jumlah terminal terbatas, tergantung dari port yang ada pada hub
+	
+----------------------------------------------------------------------------
+20 	
+
+Dibawah ini yang bukan merupakan kemampuan yang dimiliki router pada sebuah jaringan berbasis LAN atau berbasis luas...
+	
+		
+
+Router akan mencarikan alternatif jalur yang terbaik untuk mengirimkan data melewati internet/ jaringan lokal.
+	
+		
+
+Mengatur jalur sinyal secara efisien dan dapat mengatur data yang mengalir diantara dua buah protokol.
+	
+		
+
+Dapat mengatur aliran data berbagai topologi jaringan seperti Bus, Star dan sebagainya.
+	
+		
+
+Dapat mengatur aliran data melewati kabel Fiber optic dan kabel coaxcial.
+	
+	Benar 	
+
+Router dapat mematikan seluruh jaringan atau network yang tidak berguna
+	
+----------------------------------------------------------------------------
+21 	
+
+Berikut ciri khas dari web Server. Kecuali ....
+	
+		
+
+Dapat dijadikan pengganti bagi NCSA Web Server
+	
+		
+
+Perbaikan terhadap kerusakan dan error pada NCSA 1.3 dan 1.4
+	
+		
+
+Melayani permintaaan Client
+	
+	Benar 	
+
+Mampu dikomplikasikan sesuai dengan spresifikasi HTTP yang sekarang
+	
+		
+
+pertemuan sel dengan horizontal dan vertical
+	
+----------------------------------------------------------------------------
+22 	
+
+Kapasitas Harddisk untuk instalasi minimal base system debian etch adalah…
+	
+		
+
+256 MB
+	
+		
+
+28 MB
+	
+	Benar 	
+
+512 MB
+	
+		
+
+1024 MB
+	
+		
+
+2 GB
+	
+----------------------------------------------------------------------------
+23 	
+
+Manfaat penggunaan DHCP adalah, kecuali...
+	
+		
+
+Administrator jaringan tidak perlu melakukan konfigurasi yang rumitdi sisi klien
+	
+		
+
+Administrator jaringan tidak perlu melakukan konfigurasi yang rumitdi sisi server
+	
+	Benar 	
+
+Pengguna pada sisi klien harus melakukan konfigurasitambahan seperti netmask, dan gateway agar terhubung ke dalamjaringan yang dimaksud
+	
+		
+
+Proses koneksi ke jaringan lebih cepat daripada setting secaramanual
+	
+		
+
+Bisa voice call
+	
+----------------------------------------------------------------------------
+24 	
+
+192.168.0.10 merupakan contoh pemberian alamat pada sebuah komputer yang akan dihubungkan dalam sebuah jaringan. Angka-angka tersebut dikenal dengan :
+	
+		
+
+Protokol
+	
+	Benar 	
+
+IP Address
+	
+		
+
+Konfigurasi
+	
+		
+
+Domain
+	
+		
+
+TCP/IP
+	
+----------------------------------------------------------------------------
+25 	
+
+Suatu aturan dimana pemilik program tetap memegang haknya tetapi orang lain dimungkinkan untuk menyebarkan dan memodifikasi, dengan syarat source code asli harus diikutsertakan dalam distri businya disebut.....
+	
+		
+
+OEM (Original Equipment Manufacturer)
+	
+		
+
+TTL (Time to Live)
+	
+		
+
+OEP (Overseas Employment promoters)
+	
+	Benar 	
+
+GPL (General Public License)
+	
+		
+
+RTO (Request Time Out
+	
+----------------------------------------------------------------------------
