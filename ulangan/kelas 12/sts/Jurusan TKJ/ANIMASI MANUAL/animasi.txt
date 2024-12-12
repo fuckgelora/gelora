@@ -1,0 +1,907 @@
+Daftar Soal
+Topik = ANIMASI MANUAL-XII-TKJ-STS
+1 	
+
+Apakah yang dimaksud layer pada Adobe Photoshop…
+	
+		
+
+Mengatur resolusi
+	
+		
+
+Mengatur bidang kerja
+	
+		
+
+Modifikasi warna
+	
+		
+
+Memberi efek khusus
+	
+	Benar 	
+
+Memberi lapisan pada bidang kerja
+	
+----------------------------------------------------------------------------
+2 	
+
+Untuk mengatur bidang kerja digunakan...
+	
+	Benar 	
+
+Image > Image Size
+	
+		
+
+Image > Mode
+	
+		
+
+Image > Rotation Canvas
+	
+	Benar 	
+
+Image > Canvas Size
+	
+		
+
+Image > Edit Canvas
+	
+----------------------------------------------------------------------------
+3 	
+
+Perintah berikut ini yang digunakan untuk mensejajarkan Layer adalah…
+	
+		
+
+Distribute
+	
+		
+
+Link
+	
+		
+
+Arrange
+	
+	Benar 	
+
+Align
+	
+		
+
+Masking Layer
+	
+----------------------------------------------------------------------------
+4 	
+
+Effect Black Body digunakan untuk pembuatan teks dengan model…
+	
+		
+
+Teks Bersalju
+	
+	Benar 	
+
+Teks Membara
+	
+		
+
+Teks Berkilau
+	
+		
+
+Teks Mencair
+	
+		
+
+Teks Kristal
+	
+----------------------------------------------------------------------------
+5 	
+
+Tool yang digunakan untuk menggeser bidang kerja adalah…
+	
+		
+
+Pointer Tool
+	
+	Benar 	
+
+Move Tool
+	
+		
+
+Croop Tool
+	
+		
+
+Hand Tool
+	
+		
+
+Marquee Tool
+	
+----------------------------------------------------------------------------
+6 	
+
+Untuk membuat alur teks menjadi tegak lurus digunakan...
+	
+		
+
+Vertikal Tool
+	
+		
+
+Horizontal Mask
+	
+		
+
+Horizontal Teks
+	
+		
+
+Vertikal Mask
+	
+	Benar 	
+
+Vertikal Text
+	
+----------------------------------------------------------------------------
+7 	
+
+Berikut ini adalah efek/ dampak dari Blur Tool, yaitu…
+	
+		
+
+Efek Bayangan
+	
+	Benar 	
+
+Efek Kabur
+	
+		
+
+Efek Kontras
+	
+		
+
+Efek Gradient
+	
+		
+
+Efek Cahaya
+	
+----------------------------------------------------------------------------
+8 	
+
+File yang dihasilkan oleh Macromedia Freehand akan berkestensi…
+	
+		
+
+.BMP
+	
+		
+
+.FLA
+	
+		
+
+.JPG
+	
+	Benar 	
+
+.FH
+	
+		
+
+.DOC
+	
+----------------------------------------------------------------------------
+9 	
+
+Perintah yang digunakan untuk menyimpan dokumen Freehand adalah…
+	
+		
+
+File>Open
+	
+		
+
+File>Export
+	
+		
+
+File>Simpan As
+	
+		
+
+File>Save In
+	
+	Benar 	
+
+File>Save
+	
+----------------------------------------------------------------------------
+10 	
+
+Perintah yang biasa digunakan untuk membuat lembar/file baru adalah...
+	
+		
+
+Menu>New
+	
+		
+
+Windows>New
+	
+	Benar 	
+
+File>New
+	
+		
+
+Paper>New
+	
+		
+
+Tool>New
+	
+----------------------------------------------------------------------------
+11 	
+
+Perintah untuk membuka dokumen Freehand yang telah dibuat yaitu …
+	
+		
+
+File>Import
+	
+		
+
+File>Publish
+	
+		
+
+File>Send
+	
+	Benar 	
+
+File>Open
+	
+		
+
+File>Page Setup
+	
+----------------------------------------------------------------------------
+12 	
+
+Berikut ini yang dapat dibuat dengan menggunakan software Freehand, kecuali…
+	
+		
+
+Logo
+	
+		
+
+Brosur
+	
+	Benar 	
+
+Database
+	
+		
+
+Sertifikat
+	
+		
+
+Ilustrasi
+	
+----------------------------------------------------------------------------
+13 	
+
+Panel Tools dapat dimunculkan dan dapat dihilangkan dengan memberikan perintah...
+	
+		
+
+View>Toolbox
+	
+	Benar 	
+
+View>Toolbox>Tools
+	
+		
+
+Windows>Tools
+	
+		
+
+Windows>Toolbars>Toolbox
+	
+		
+
+View>Panels>Toolbox
+	
+----------------------------------------------------------------------------
+14 	
+
+Cara-cara berikut bergunak untuk melakukan penggandaan terhadap objek yang ada yaitu...
+	
+	Benar 	
+
+Copy, Clone, Duplicate
+	
+		
+
+Copy, Transform, Duplicate
+	
+		
+
+Copy, Clone, Paste
+	
+		
+
+Edit, Copy, Clone
+	
+		
+
+Modify, Copy, Paste
+	
+----------------------------------------------------------------------------
+15 	
+
+Untuk mengeluarkan Panel Transformasi dapat dilakukan dengan cara klik 2x pada salah satu tool transformasi yang ada pada toolbox, atau melalui menu...
+	
+		
+
+Windows>Freeform
+	
+	Benar 	
+
+Edit>Transform
+	
+		
+
+Edit>Freeform
+	
+		
+
+Modify>Transform
+	
+		
+
+Layer>Transforms
+	
+----------------------------------------------------------------------------
+16 	
+
+Salah satu program pengolah grafis profesional standar adalah…
+	
+		
+
+Microsoft Word
+	
+		
+
+Microsoft Excel
+	
+		
+
+Microsoft PowerPoint
+	
+	Benar 	
+
+Adobe Photoshop
+	
+		
+
+Windows Media Player
+	
+----------------------------------------------------------------------------
+17 	
+
+Dibawah ini menu yang tidak terdapat di pulldown menu image pada Adobe Photoshop adalah...
+	
+		
+
+Adjustment
+	
+	Benar 	
+
+Transform
+	
+		
+
+Duplicate
+	
+		
+
+Mode
+	
+		
+
+Image Size
+	
+----------------------------------------------------------------------------
+18 	
+
+Sistem warna pada Adobe Photoshop yang hanya mampu mempresentasikan maksimal 256 variasi warna dengan informasi 8 bit atau kurang adalah…
+	
+		
+
+Grascale
+	
+		
+
+CMYK
+	
+		
+
+RGB
+	
+		
+
+Lab Color
+	
+	Benar 	
+
+Indexed Color
+	
+----------------------------------------------------------------------------
+19 	
+
+Fungsi Marquee Tool pada  menu toolbox di Adobe Photoshop adalah…
+	
+	Benar 	
+
+Memilih bagian tertentu dari image yang akan di potong
+	
+		
+
+Memilih atau menemukan bagian gambar yang sama kedalaman warnanya
+	
+		
+
+Memotong gambar
+	
+		
+
+Mengubah atau memperbaiki bagian terentu pada gambar menggunakan pola dari bagian gambar lain
+	
+		
+
+Memindahkan gambar
+	
+----------------------------------------------------------------------------
+20 	
+
+Fasilitas pada toolbox untuk duplikasi image/ bagian image…
+	
+		
+
+Marquee Tool
+	
+		
+
+Croop Tool
+	
+	Benar 	
+
+Clone Stamp
+	
+		
+
+Layer
+	
+		
+
+Polygonal Lasso Tool
+	
+----------------------------------------------------------------------------
+21 	
+
+Tipe file gambar yang memungkinkan gradasi yang sangat rumit adalah…
+	
+		
+
+.flv
+	
+		
+
+.mp3
+	
+		
+
+.jpg
+	
+		
+
+.doc
+	
+	Benar 	
+
+.bmp
+	
+----------------------------------------------------------------------------
+22 	
+
+Tempat untuk mengerjakan semua gambar pada Adobe Photoshop...
+	
+		
+
+Ruler
+	
+		
+
+Guide
+	
+	Benar 	
+
+Canvas Window
+	
+		
+
+Toolbox
+	
+		
+
+Shortkey
+	
+----------------------------------------------------------------------------
+23 	
+
+Fasilitas dalam photoshop yang berguna untuk menutupi bagian suatu gambar adalah…
+	
+	Benar 	
+
+Layer Mask
+	
+		
+
+Photofilter
+	
+		
+
+Adjustment
+	
+		
+
+Free Transform
+	
+		
+
+Texture
+	
+----------------------------------------------------------------------------
+24 	
+
+File ekstensi untuk photoshop pada saat disimpan adalah dapat berupa file-file dibawah ini, kecuali…
+	
+		
+
+jpg
+	
+		
+
+psd
+	
+		
+
+gif
+	
+		
+
+png
+	
+	Benar 	
+
+mpg
+	
+----------------------------------------------------------------------------
+25 	
+
+Hal-Hal yang dapat dilakukan pada saat kita menggunakan photoshop, kecuali...
+	
+		
+
+Memberikan efek gambar
+	
+		
+
+Memperbaiki iritasi mata merah pada foto
+	
+	Benar 	
+
+Memasukan atau mengimport suara
+	
+		
+
+Menggandakan gambar
+	
+		
+
+Memperbaiki kualitas foto
+	
+----------------------------------------------------------------------------
+26 	Pada Photoshop, Tab Layer terdapat banyak sekali menu salah satu nya adalah menu Layer Style, terletak disebelah mana menu tersebut 	
+	Benar 	Dibawah Rename Layer 	
+		Diatas Rename Layer 	
+		Dibatas Distribute 	
+		Dibawah New 	
+		Di atas Group Layer 	
+----------------------------------------------------------------------------
+27 	Menu Preset terletak di Tab… 	
+		File 	
+	Benar 	Edit 	
+		Image 	
+		Type 	
+		Windows 	
+----------------------------------------------------------------------------
+28 	Content Aware Scale menggunakan Shortcut…. 	
+		Alt+Ctrl 	
+		Shift+Ctrl+6 	
+	Benar 	Alt+Shift+Ctrl+C 	
+		Alt+Ctrl+Shift+C 	
+		Windows+Ctrl+Shift+B 	
+----------------------------------------------------------------------------
+29 	Perinta View berfungsi untuk 	
+		Memperbesar dan Memperkecil tampilan 	
+		Untuk Copy Layer 	
+		untuk menampilkan menu bar 	
+		Untuk Adjustment Gambar 	
+	Benar 	Memperbesar dan Memperkecil tampilan 	
+----------------------------------------------------------------------------
+30 	Cara menyimpan file di photoshop…. 	
+	Benar 	File -> Save AS 	
+		File -> Save 	
+		File-> Convert 	
+		Save As 	
+		Save 	
+----------------------------------------------------------------------------
+31 	Pada Photoshop kita bisa menyimpan hasil dari project yang kita buat. Apakah format file simpanan photoshop 	
+		.psd 	
+	Benar 	.pdd 	
+		.jpeg 	
+		.jpg.jpeg 	
+		.jpg .jpeg .png 	
+----------------------------------------------------------------------------
+32 	Apa nama menu di atas ?? 	
+	Benar 	Foreground Color 	
+		Background Color 	
+		Path 	
+		Color 	
+		Text 	
+----------------------------------------------------------------------------
+33 	Pada photoshop kita bisa mengubah jenis objek, menggunakan shortcut… 	
+	Benar 	U+Shift U 	
+		Ctrl+U 	
+		Ctrl+V 	
+		Ctrl+Shift+B 	
+		Shift+N 	
+----------------------------------------------------------------------------
+34 	Pada photoshop kita bisa membuat garis menggunakan menu Line Tool pada photoshop berfungsi untuk… 	
+	Benar 	Menggambar Garis Lurus 	
+		Menggambar Bentuk 	
+		Meggambar Polygon 	
+		Membuat Lingkaran 	
+		Membentuk objek Elipse 	
+----------------------------------------------------------------------------
+35 	Pada photoshop kita bisa membuat seperti yang ada pada gambar diatas, gambar diatas diberikan efek… 	
+	Benar 	Blur 	
+		Flat 	
+		Sharp 	
+		Burn 	
+		Smudge 	
+----------------------------------------------------------------------------
+36 	Menu Auto Tune pada photshop menggunakan Shortcut….. 	
+		Ctrl+Shift+L 	
+		Shift+G 	
+		Ctrl+B N 	
+		Tab+V 	
+	Benar 	Shift+Ctrl+L 	
+----------------------------------------------------------------------------
+37 	Apa nama layer yang ditunjukan pada Huruf E dan F 	
+	Benar 	Active Layer dan Layer Thumbnail 	
+		Lock Layer 	
+		Add a Layer Style dan Add a Mask 	
+		Create a New Set 	
+		Opacity dan Blending Mode 	
+----------------------------------------------------------------------------
+38 	Apakah kalian tau bahwasannya Software Adobe Photoshop dibuat pada tahun 1987, Yang dibuat oleh Thomas Knoll, dia seorang mahasiswa di… 	
+		Universitas Andalas 	
+		Universitas Cambridge 	
+	Benar 	Universitas Michigan 	
+		Universitas Pancasila 	
+		University of Singapure 	
+----------------------------------------------------------------------------
+39 	Ada banyak versi dari Adobe Photoshop, yang paling baru untuk saat ini adalah Adoba Photoshop CC, singkatan dari CC adalah…. 	
+		Creative suite 	
+	Benar 	Create Cloud 	
+		Creative Profisional 	
+		Creative Creatve 	
+		CS6 	
+----------------------------------------------------------------------------
+40 	Versi pertama dari aplikasi Adobe Photoshop dibuat pada tahun…. 	
+		1190 	
+		1945 	
+		1930 	
+	Benar 	1990 	
+		2002 	
+----------------------------------------------------------------------------
+41 	Software adobe photoshop bisa kalian jumpai di Sistem Operasi 	
+		Windows 	
+		Mac OS 	
+		Ubuntu 	
+		Linux 	
+	Benar 	Cross Platform 	
+----------------------------------------------------------------------------
+42 	Ada banyak sekali mode warna yang bisa kita gunakan di Adobe Photoshop yaitu 	
+		CMYK 	
+	Benar 	RGB, CMYK 	
+		Bitmap 	
+		Duoton 	
+		Skala Keabuan dan CMYK 	
+----------------------------------------------------------------------------
+43 	Apa fungsi dari Clipping … 	
+	Benar 	Menampilkan dan Menyembunyikan Objek pada sebuah layer 	
+		Menampilkan Toolbar 	
+		Memotong Gambar 	
+		Menggerakan Bidang Kerja 	
+		Memotong Area Bidang Kerja 	
+----------------------------------------------------------------------------
+44 	Tools pada photoshop yang berfungsi untuk memindahkan gambar ataupun Teks adalah…. 	
+	Benar 	Move Tool 	
+		Marquee Tool 	
+		Polygonal Lasso Tool 	
+		Crop Tool 	
+		Magnetic Lasso Tool 	
+----------------------------------------------------------------------------
+45 	Pada Adobe Photoshop tepatnya pada Tab Filter, terdapat menu Liquify, untuk menggunakan nya kita bisa menggunakan Shortcut Keyboard…. 	
+		Shift+Ctrl+C 	
+	Benar 	Shift+Ctrl+X 	
+		Alt+V 	
+		Alt+Shift+PO 	
+		Ctrl+Shift+X 	
+----------------------------------------------------------------------------
+46 	Ada sebuah aplikasi untuk edit grafis berbasiskan Vektor, apakah nama Software tersebut… 	
+	Benar 	Intaglio 	
+		CorelDRAW 	
+		Macromedia FreeHand 	
+		Adobe Dreamweaver 	
+		Adobe CC 	
+----------------------------------------------------------------------------
+47 	CorelDRAW pertama kali diperkenalkan ke publik pada tahun… 	
+		1978 	
+		1980 	
+		2008 	
+		1970 	
+	Benar 	1989 	
+----------------------------------------------------------------------------
+48 	Untuk menyatukan beberapa object menjadi 1 bagian pada aplikasi CorelDRAW menggunakan tools… 	
+		Group 	
+		Wrap Group 	
+		Groups 	
+	Benar 	Trim 	
+		Cruves 	
+----------------------------------------------------------------------------
+49 	F8 pada aplikasi CorelDRAW merupakan shortcut pada keyboard untuk memunculkan…. 	
+		Berzier Tool 	
+		Shape Tool 	
+	Benar 	Text Tool 	
+		Freehand 	
+		Polygonal Tool 	
+----------------------------------------------------------------------------
+50 	Tombol pada keyboard untuk membuat grafik baru pada aplikasi CorelDRAW… 	
+		Ctrl+O 	
+	Benar 	Ctrl+N 	
+		Ctrl+C 	
+		Ctrl+Shift+G 	
+		Ctrl+X 	
+----------------------------------------------------------------------------
+51 	Untuk membuat background bisa dipilih dari menu…. 	
+		Trim 	
+	Benar 	Layout 	
+		Polygon Tool 	
+		View 	
+		Arrange 	
+----------------------------------------------------------------------------
+52 	Freehand Tool adalah 	
+		Alat yang digunakan untuk membentuk beragam garis lurus dan garis yang tidak beraturan secara bersamaan 	
+		Alat yang digunakan untuk membentuk berbagai objek garis artistik 	
+		Alat yang pemakaian pen tool hampir serupa dengan pemakaian bezier tool 	
+		Alat yang pemakaiaa polyline tool 	
+	Benar 	Alat yang digunakan untuk membentuk beragam garis lurus / garis yang tidak beraturan 	
+----------------------------------------------------------------------------
+53 	Blender 3D diciptakan oleh Ton Roosendaal, seorang direktur seni asal belanda dan pengembang software otodidak, Blender Resmi di publish pada tanggal dan tahun…. 	
+	Benar 	2 Januari 1994 	
+		4 Agustus 1997 	
+		4 Agustus 1997 	
+		8 Januari 1994 	
+		7 Januari 1994 	
+----------------------------------------------------------------------------
+54 	Software Video editing 3D Blender tersedia di Sistem Operasi…. 	
+		Windows 	
+		Linux 	
+		BSD 	
+		MAC OS 	
+	Benar 	Semua Benar 	
+----------------------------------------------------------------------------
+55 	Tombol shortcut G+Z pada aplikasi blender digunakan untuk 	
+	Benar 	Memindahkan objek ke arah sumbu Z 	
+		Memutar objek ke arah sumbu Z 	
+		Memperbesar objek ke arah sumbu Z 	
+		Memindah Objek ke arah sumbu Y 	
+		Memperbesar objek ke arah sumbu Y 	
+----------------------------------------------------------------------------
+56 	Alt + U berfungsi untuk…. 	
+		Menampilkan Toolbar 	
+	Benar 	Menampilkan menu Global Undo Command 	
+		Memasukkan Animasi 	
+		Memulai Mode Game 	
+		Membuat sisi pada Edit Mode 	
+----------------------------------------------------------------------------
+57 	Pada menu View Port terdapat beberapa menu yaitu… Kecuali 	
+		Skinning 	
+		Animation 	
+		Particle 	
+		Modeling 	
+	Benar 	Timeline 	
+----------------------------------------------------------------------------
+58 	Edge dalam 3D seperti gambar diatas ditunjukana pada nomor… 	
+		3 	
+		1 	
+	Benar 	2 	
+		2 dan 1 	
+		3 dan 2 	
+----------------------------------------------------------------------------
+59 	Splitting Windows berfungsi untuk…. 	
+		Add Object in layer 	
+		Membuat pemodelan 3D Cursor 	
+		Menemukan titik Acuan 	
+		Menggeser bidang kerja 	
+	Benar 	Membagi lembar kerja pada software 	
+----------------------------------------------------------------------------
+60 	Scale manipulator mode, digunakan untuk mengubah ukuran suatu objek berdasarkan garis sumbu… 	
+		X 	
+		Y 	
+		Z 	
+		H 	
+	Benar 	X,Y,Z 	
+----------------------------------------------------------------------------
+61 	Untuk membuat garis-garis pada objek seperti gambar dibawah menggunakan tombol/ shortcut …. 	
+		Ctrl+C 	
+		Ctrl+D 	
+	Benar 	Ctrl+R 	
+		Ctrl+Z 	
+		Shift+V 	
+----------------------------------------------------------------------------
+62 	Menu Circle terdapat pada Master Menu… 	
+	Benar 	Curve 	
+		Mesh 	
+		Add 	
+		Surface 	
+		Text 	
+----------------------------------------------------------------------------
+63 	Proses membuat sebuah animasi pergerakan dengan cara memberikan perubahan pada bentu atau posisi objek dengan menentukan keyframe awal dan akhir sehingga dapat terbentuk frame-frame baru, disebut… 	
+		Framming 	
+		Shapping 	
+	Benar 	Tweening 	
+		Solid Drawing 	
+		Tweening Object 	
+----------------------------------------------------------------------------
+64 	Tahapan persiapan sebelum memulai proses produksi Film dan Video disebut… 	
+		Editing 	
+		Produksi 	
+	Benar 	Praproduksi 	
+		Pascaproduksi 	
+		Pendahuluan 	
+----------------------------------------------------------------------------
+65 	Istilah Vertex ditunjukan pada nomor…. 	
+		2 dan 3 	
+		1 dan 3 	
+		2* 	
+	Benar 	1 	
+		3 	
+----------------------------------------------------------------------------
