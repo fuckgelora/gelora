@@ -1,0 +1,627 @@
+Daftar Soal
+Topik = ASJ-XII-TKJ-STS
+1 	
+
+Layanan berbasis internet sebagai tempat penyimpanan data atau tempat menjalankan  aplikasi di tempat terpusat yang disebut dengan server dan dapat diakses melalui jaringan internet adalah ….
+	
+		
+
+Gmail
+	
+		
+
+Yahoo
+	
+		
+
+Mikrotik
+	
+	Benar 	
+
+Hosting
+	
+		
+
+Domain
+	
+----------------------------------------------------------------------------
+2 	
+
+Berfungsi untuk menyediakan layanan yang memungkinkan user dapat menyimpan data mereka untuk dapat diakses dari mana saja melalui jaringan internet merupakan fungsi dari ….
+	
+		
+
+Vps hosting
+	
+		
+
+Web browser
+	
+	Benar 	
+
+Web hosting
+	
+		
+
+Yahoo
+	
+		
+
+Gmail
+	
+----------------------------------------------------------------------------
+3 	
+
+Berikut merupakan keuntungan menggunakan hosting, kecuali …..
+	
+		
+
+website selalu online dan mudah di akses
+	
+		
+
+aman dari malware dan hacker
+	
+	Benar 	
+
+berbayar dan sangat mahal
+	
+		
+
+pengelolaan website menjadi lebih mudah
+	
+		
+
+terdapat layanan bantuan
+	
+----------------------------------------------------------------------------
+4 	
+
+Tips dalam memilih hosting yang akan digunakan adalah , kecuali …..
+	
+		
+
+kestabilan server
+	
+	Benar 	
+
+free
+	
+		
+
+harga
+	
+		
+
+dukungan teknis
+	
+		
+
+keamanan data
+	
+----------------------------------------------------------------------------
+5 	
+
+Yang merupakan perusahaan penyedia layanan hosting di Indonesia adalah ….
+	
+		
+
+Instagram.com
+	
+		
+
+Facebook.com
+	
+		
+
+Google.docs.com
+	
+	Benar 	
+
+JogjaHost.co.id
+	
+		
+
+Yahoo.com
+	
+----------------------------------------------------------------------------
+6 	
+
+Yang termasuk penyedia layanan hosting luar negeri adalah , kecuali …..
+	
+		
+
+Bluehost
+	
+		
+
+SiteGround
+	
+		
+
+inMotion Hosting
+	
+	Benar 	
+
+Domosquare.com
+	
+		
+
+DreamHost
+	
+----------------------------------------------------------------------------
+7 	
+
+Nama dari suatu website disebut dengan ….
+	
+		
+
+Gmail
+	
+		
+
+Yahoo
+	
+		
+
+Hosting
+	
+	Benar 	
+
+Domain
+	
+		
+
+Link
+	
+----------------------------------------------------------------------------
+8 	
+
+Nama domain tidak boleh sama dan hanya ada satu di dunia, sehingga sering dikatakan sebagai nama …..
+	
+		
+
+identitas
+	
+		
+
+asli
+	
+	Benar 	
+
+unik
+	
+		
+
+samaran
+	
+		
+
+utama
+	
+----------------------------------------------------------------------------
+9 	
+
+Berikut ini yang bukan merupakan nama domain adalah …..
+	
+		
+
+kaskud.co.id
+	
+		
+
+detik.com
+	
+	Benar 	
+
+windows.exe
+	
+		
+
+wikipedia.org
+	
+		
+
+tokopedia.com
+	
+----------------------------------------------------------------------------
+10 	
+
+Deretan kata di belakang nama domain yang mengindikasikan pemilik tertinggi domain tersebut dan jenis dari domain tersebut adalah ….
+	
+	Benar 	
+
+Top Level Domain (TLD)
+	
+		
+
+Global Top Level Domain (gTLD)
+	
+		
+
+Country Code Top Level Domain (ccLTD)
+	
+		
+
+Second Level Domain (SLD)
+	
+		
+
+Third Level Domain (subdomain)
+	
+----------------------------------------------------------------------------
+11 	
+
+….. adalah tingkatan domain yang kedua
+	
+		
+
+Top Level Domain (TLD)
+	
+		
+
+Global Top Level Domain (gTLD)
+	
+		
+
+Country Code Top Level Domain (ccLTD)
+	
+	Benar 	
+
+Second Level Domain (SLD)
+	
+		
+
+Third Level Domain (subdomain)
+	
+----------------------------------------------------------------------------
+12 	
+
+Contoh nama domain .int digunakan untuk domain ….
+	
+		
+
+Web komersial
+	
+		
+
+Organisasi
+	
+		
+
+Pendidikan
+	
+		
+
+Pemerintahan
+	
+	Benar 	
+
+Organisasi yang dimiliki dua negara atau lebih
+	
+----------------------------------------------------------------------------
+13 	
+
+Contoh nama domain .com digunakan untuk domain ….
+	
+	Benar 	
+
+Web komersial
+	
+		
+
+Organisasi
+	
+		
+
+Pendidikan
+	
+		
+
+Pemerintahan
+	
+		
+
+Organisasi yang dimiliki dua negara atau lebih *
+	
+----------------------------------------------------------------------------
+14 	
+
+Contoh nama domain .edu digunakan untuk domain ….
+	
+		
+
+Web komersial
+	
+		
+
+Organisasi
+	
+	Benar 	
+
+Pendidikan
+	
+		
+
+Pemerintahan
+	
+		
+
+Organisasi yang dimiliki dua negara atau lebih *
+	
+----------------------------------------------------------------------------
+15 	
+
+Contoh nama domain .gov digunakan untuk domain ….
+	
+		
+
+Web komersial
+	
+		
+
+Organisasi
+	
+		
+
+Pendidikan
+	
+	Benar 	
+
+Pemerintahan
+	
+		
+
+Organisasi yang dimiliki dua negara atau lebih
+	
+----------------------------------------------------------------------------
+16 	
+
+Contoh nama domain .org digunakan untuk domain ….
+	
+		
+
+Web komersial
+	
+	Benar 	
+
+Organisasi
+	
+		
+
+Pendidikan
+	
+		
+
+Pemerintahan
+	
+		
+
+Organisasi yang dimiliki dua negara atau lebih
+	
+----------------------------------------------------------------------------
+17 	
+
+Contoh jenis-jenis layanan hosting , kecuali …..
+	
+		
+
+free hosting
+	
+		
+
+shrared hosting
+	
+		
+
+VPS hosting
+	
+		
+
+dedicated hosting server
+	
+	Benar 	
+
+web hosting
+	
+----------------------------------------------------------------------------
+18 	
+
+Jenis layanan hosting dimana server digunakan secara bersama-sama oleh beberapa pengguna atau beberapa website lain adalah …..
+	
+		
+
+free hosting
+	
+	Benar 	
+
+shrared hosting
+	
+		
+
+VPS hosting
+	
+		
+
+dedicated hosting server
+	
+		
+
+web hosting
+	
+----------------------------------------------------------------------------
+19 	
+
+Jenis layanan hosting dimana layanan ini bersifat gratis adalah …..
+	
+	Benar 	
+
+free hosting
+	
+		
+
+shrared hosting
+	
+		
+
+VPS hosting
+	
+		
+
+dedicated hosting server
+	
+		
+
+web hosting
+	
+----------------------------------------------------------------------------
+20 	
+
+Penyedia layanan hosting yang hanya menyewakan satu server hanya kepada satu pelanggan adalah ….
+	
+		
+
+free hosting
+	
+		
+
+shrared hosting
+	
+		
+
+VPS hosting
+	
+	Benar 	
+
+dedicated hosting server
+	
+		
+
+web hosting
+	
+----------------------------------------------------------------------------
+21 	
+
+Jenis layanan hosting dimana penyedia hosting membagi sumber daya dari sebuah server ke dalam beberapa server virtual adalah …..
+	
+		
+
+free hosting
+	
+		
+
+shrared hosting
+	
+	Benar 	
+
+VPS hosting
+	
+		
+
+dedicated hosting server
+	
+		
+
+Cloud hosting
+	
+----------------------------------------------------------------------------
+22 	
+
+Jenis layanan hosting dengan teknologi terbaru yaitu menggunakan banyak server yang tersebar di seluruh dunia adalah …..
+	
+		
+
+free hosting
+	
+		
+
+shrared hosting
+	
+		
+
+VPS hosting
+	
+		
+
+dedicated hosting server
+	
+	Benar 	
+
+Cloud hosting
+	
+----------------------------------------------------------------------------
+23 	
+
+Jenis layanan hosting yang menggunakan tempat penyimpanan atau penitipan server di pusat data yang memiliki standar keamanan fisik dan infrastruktur adalah ….
+	
+	Benar 	
+
+Colocation hosting server
+	
+		
+
+Shared hosting
+	
+		
+
+VPS hosting
+	
+		
+
+Dedicated hosting server
+	
+		
+
+Cloud hosting
+	
+----------------------------------------------------------------------------
+24 	
+
+Lokasi server hosting IIX ada di negara ….
+	
+		
+
+USA
+	
+		
+
+Korea
+	
+		
+
+Eropa
+	
+	Benar 	
+
+Indonesia
+	
+		
+
+Singapura
+	
+----------------------------------------------------------------------------
+25 	
+
+Sedangkan lokasi server hosting SG ada di negara ….
+	
+		
+
+USA
+	
+		
+
+Korea
+	
+		
+
+Eropa
+	
+		
+
+Indonesia
+	
+	Benar 	
+
+Singapura
+	
+----------------------------------------------------------------------------
