@@ -1,0 +1,627 @@
+Daftar Soal
+Topik = MEDIA & JARINGAN TELEKOMUNIKASI-X-TKJ-STS
+1 	
+
+Rangkaian perangkat telekomunikasi dan kelengkapannya yang digunakan dalam melakukan kegiatan telekomunikasi disebut dengan .…..
+	
+		
+
+Perangkat telekomunikasi 
+	
+		
+
+Media perangkat telekomunikasi
+	
+		
+
+Media jaringan komputer
+	
+	Benar 	
+
+Media dan jaringan telekomunikasi
+	
+		
+
+Media dan jaringan komputer 
+	
+----------------------------------------------------------------------------
+2 	
+
+Berikut ini adalah manfaat dari jaringan komputer adalah ,  kecuali …..
+	
+		
+
+Untuk berbagi dokumen
+	
+		
+
+Untuk menjaga dan memanajemen keamanan data
+	
+	Benar 	
+
+Melindungi data perusahaan
+	
+		
+
+Memudahkan dalam berkomunikasi
+	
+		
+
+Menyampaikan informasi secara cepat
+	
+----------------------------------------------------------------------------
+3 	
+
+Berikut ini adalah kelemahan dari jaringan komputer,  kecuali …..
+	
+		
+
+Biaya Network
+	
+	Benar 	
+
+Memudahkan pertukaran data
+	
+		
+
+Aktivitas Sharing yang tidak Diinginkan
+	
+		
+
+Biaya Manajemen dan Maintenance
+	
+		
+
+Ancaman Keamanan Jaringan (Network Security)
+	
+----------------------------------------------------------------------------
+4 	
+
+Berikut ini adalah yang termasuk media transmisi menggunakan kabel, kecuali …..
+	
+		
+
+Twisted Pair dan Coaxial
+	
+		
+
+Coaxial
+	
+		
+
+Twisted Pair dan Serat optic
+	
+	Benar 	
+
+Twisted Pair dan Nirkabel
+	
+		
+
+Coaxial dan Serat optic
+	
+----------------------------------------------------------------------------
+5 	
+
+Teknologi yang berfungsi untuk menghubungkan dua perangkat atau lebih sekaligus tanpa bantuan kabel disebut dengan jaringan …..
+	
+		
+
+Twisted Pair
+	
+		
+
+Coaxial
+	
+		
+
+Serat optic
+	
+	Benar 	
+
+Nirkabel
+	
+		
+
+Serat kabel
+	
+----------------------------------------------------------------------------
+6 	
+
+Berikut ini adalah yang termasuk ke dalam media transmisi jaringan kabel Twisted Pair , yaitu ....
+	
+		
+
+TTP dan UTP
+	
+		
+
+UTP dan NTP
+	
+	Benar 	
+
+UTP dan STP
+	
+		
+
+STP dan NTP
+	
+		
+
+TTP dan NTP
+	
+----------------------------------------------------------------------------
+7 	
+
+Kepanjangan dari UTP yang tepat adalah …..
+	
+		
+
+Unshieldes Twistes Pair
+	
+	Benar 	
+
+Unshielded Twisted Pair
+	
+		
+
+Unshielder Twister Pair
+	
+		
+
+Unshielded Twisted Paired
+	
+		
+
+Unshielded Twisted Paires
+	
+----------------------------------------------------------------------------
+8 	
+
+Kabel UTP terdiri dari …..
+	
+		
+
+1 pasang kabel / 8 kabel
+	
+		
+
+2 pasang kabel / 8 kabel
+	
+		
+
+3 pasang kabel / 8 kabel
+	
+	Benar 	
+
+4 pasang kabel / 8 kabel
+	
+		
+
+5 pasang kabel / 8 kabel
+	
+----------------------------------------------------------------------------
+9 	
+
+Berikut susunan kabel UTP yang biasa digunakan dalam kabel jaringan …..
+	
+		
+
+Putih Orange – Orange –Putih Biru – Biru – Putih Hijau – Hijau – Putih Coklat -Coklat
+	
+		
+
+Putih Orange – Orange –Putih Hijau – Hijau – Putih Biru – Biru – Putih Coklat -Coklat
+	
+		
+
+Putih Orange – Orange –Putih Biru – Hijau - Putih Hijau – Biru – Putih Coklat -Coklat
+	
+	Benar 	
+
+Putih Orange – Orange –Putih Hijau - Biru – – Putih Biru - Hijau – Putih Coklat -Coklat
+	
+		
+
+Putih Orange – Coklat – Putih Biru – Biru – Putih Hijau – Hijau – Putih Coklat - Orange
+	
+----------------------------------------------------------------------------
+10 	
+
+Kabel yang memiliki urutan pemasangan yang sama di kedua ujungnya adalah jenis kabel…..
+	
+		
+
+UTP
+	
+		
+
+STP
+	
+		
+
+NTP
+	
+	Benar 	
+
+Straight
+	
+		
+
+Cross
+	
+----------------------------------------------------------------------------
+11 	
+
+Kabel yang digunakan untuk menghubungkan dua perangkat yang sama secara langsungdan memiliki susunan warna yang berbeda pada setiap ujungnya …..
+	
+		
+
+UTP
+	
+		
+
+STP
+	
+		
+
+NTP
+	
+		
+
+Straight
+	
+	Benar 	
+
+Cross
+	
+----------------------------------------------------------------------------
+12 	
+
+Yang memiliki pelindung tambahan di luar kabel adalah kabel …..
+	
+		
+
+UTP
+	
+	Benar 	
+
+STP
+	
+		
+
+NTP
+	
+		
+
+TTP
+	
+		
+
+PTT
+	
+----------------------------------------------------------------------------
+13 	
+
+Sedangkan yang tidak memiliki pelindung tambahan di luar kabel adalah kabel …..
+	
+	Benar 	
+
+UTP
+	
+		
+
+STP
+	
+		
+
+NTP
+	
+		
+
+TTP
+	
+		
+
+PTT
+	
+----------------------------------------------------------------------------
+14 	
+
+Untuk membuat  kabel jaringan baik itu Straight maupun Cross maka diperlukan beberapa peralatan, kecuali …..
+	
+		
+
+gunting atau pisau pemotong kabel
+	
+		
+
+lan tester
+	
+	Benar 	
+
+tang lancip
+	
+		
+
+tang krimping
+	
+		
+
+RJ45
+	
+----------------------------------------------------------------------------
+15 	
+
+Alat yang digunakan untuk memotong kabel dan memasang konektor RJ45 pada kabel …..
+	
+		
+
+gunting atau pisau pemotong kabel
+	
+		
+
+lan tester
+	
+		
+
+tang lancip
+	
+	Benar 	
+
+tang krimping
+	
+		
+
+RJ45
+	
+----------------------------------------------------------------------------
+16 	
+
+Alat yang digunakan untuk menguji kabel UTP yang telah terpasang, apakah sudah bekerja dengan normal atau belum yaitu …..
+	
+		
+
+gunting atau pisau pemotong kabel
+	
+	Benar 	
+
+lan tester
+	
+		
+
+tang lancip
+	
+		
+
+tang krimping
+	
+		
+
+RJ45
+	
+----------------------------------------------------------------------------
+17 	
+
+Konektor yang digunakan untuk menghubungkan kabel Ethernet ke perangkat jaringan, seperti komputer, router, switch, dan lainnya adalah …..
+	
+		
+
+gunting atau pisau pemotong kabel
+	
+		
+
+lan tester
+	
+		
+
+tang lancip
+	
+		
+
+tang krimping
+	
+	Benar 	
+
+RJ45
+	
+----------------------------------------------------------------------------
+18 	
+
+Serangkaian angka yang berfungsi sebagai identitas perangkat yang terhubung ke jaringan computer disebut dengan …..
+	
+		
+
+AP
+	
+		
+
+OP
+	
+	Benar 	
+
+IP
+	
+		
+
+TP
+	
+		
+
+UP
+	
+----------------------------------------------------------------------------
+19 	
+
+Identitas untuk sebuah komputer dalam suatu jaringan internet dinamakan dengan .…..
+	
+		
+
+AP
+	
+		
+
+OP
+	
+	Benar 	
+
+IP
+	
+		
+
+TP
+	
+		
+
+UP
+	
+----------------------------------------------------------------------------
+20 	
+
+Rentang dari IP kelas A adalah …..
+	
+	Benar 	
+
+0 - 127
+	
+		
+
+0 - 128
+	
+		
+
+128 - 191
+	
+		
+
+192 - 223
+	
+		
+
+192 - 225
+	
+----------------------------------------------------------------------------
+21 	
+
+Rentang dari IP kelas B adalah …..
+	
+		
+
+0 - 127
+	
+		
+
+0 - 128
+	
+	Benar 	
+
+128 - 191
+	
+		
+
+192 - 223
+	
+		
+
+192 - 225
+	
+----------------------------------------------------------------------------
+22 	
+
+Rentang dari IP kelas C adalah …..
+	
+		
+
+0 - 127
+	
+		
+
+0 - 128
+	
+		
+
+128 - 191
+	
+	Benar 	
+
+192 - 223
+	
+		
+
+192 - 225
+	
+----------------------------------------------------------------------------
+23 	
+
+IPv4 terdiri dari …….  bit
+	
+		
+
+8
+	
+		
+
+16
+	
+	Benar 	
+
+32
+	
+		
+
+64
+	
+		
+
+128
+	
+----------------------------------------------------------------------------
+24 	
+
+IPv6 terdiri dari ……… bit
+	
+		
+
+8
+	
+		
+
+16
+	
+		
+
+32
+	
+		
+
+64
+	
+	Benar 	
+
+128 bit
+	
+----------------------------------------------------------------------------
+25 	
+
+IPv4 yang sering digunakan dalam jaringan computer adalah IP Kelas …..
+	
+		
+
+A
+	
+		
+
+B
+	
+	Benar 	
+
+C
+	
+		
+
+D
+	
+		
+
+E
+	
+----------------------------------------------------------------------------
