@@ -25,7 +25,7 @@ Data Ini Dimiliki Oleh **"Smk Gelora Bekasi"**
 
 ## Data Materi
 
-#### Kelas 10
+#### Materi Kelas 10
 
 | Mapel | sts     | sas                | 
 | :-------- | :------- | :------------------------- |
@@ -46,7 +46,7 @@ Data Ini Dimiliki Oleh **"Smk Gelora Bekasi"**
 | IPAS  | `DONE ✅` | `DONE ✅` |
 
 
-#### Kelas 11
+#### Materi Kelas 11
 
 | Mapel | sts     | sas                       |
 | :-------- | :------- | :-------------------------------- |
