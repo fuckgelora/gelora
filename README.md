@@ -27,9 +27,24 @@ Data Ini Dimiliki Oleh **"Smk Gelora Bekasi"**
 
 #### Kelas 10
 
-| Mapel | sts     | sas                |
+| Mapel | sts     | sas                | 
 | :-------- | :------- | :------------------------- |
-| `api_key` | `string` | `string` |
+| AGAMA | `DONE ✅` | `DONE ✅` |
+| ALAT UKUR | `DONE ✅` | `DONE ✅` |
+| SEJARAH | `DONE ✅` | `DONE ✅` |
+| JEPANG | `DONE ✅` | `DONE ✅` |
+| PROSES BISNIS | `DONE ✅` | `DONE ✅` |
+| INFORMATIKA  | `DONE ✅` | `DONE ✅` |
+| INGGRIS  | `DONE ✅` | `DONE ✅` |
+| MEDIA & JARINGAN TELEMUNIKASI | `DONE ✅` | `DONE ✅` |
+| INDONESIA  | `DONE ✅` | `DONE ✅` |
+| PROFESI KWU  | `DONE ✅` | `DONE ✅` |
+| PENJASOR  | `DONE ✅` | `DONE ✅` |
+| PEND. PANCASILA | `DONE ✅` | `DONE ✅` |
+| SUNDA  | `DONE ✅` | `DONE ✅` |
+| DASAR-DASAR TKJT | `DONE ✅` | `DONE ✅` |
+| IPAS  | `DONE ✅` | `DONE ✅` |
+
 
 #### Kelas 11
 
