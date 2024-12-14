@@ -50,22 +50,22 @@ Data Ini Dimiliki Oleh **"Smk Gelora Bekasi"**
 
 | Mapel | sts     | sas                       |
 | :-------- | :------- | :-------------------------------- |
-| agama      | `done` | `done` |
-| sejarah    | `done` | `done` |
-| ADM. SISTEM JARINGAN      | `done` | `done` |
-| MTK      | `done` | `done` |
-| ANIMASI MANUAL      | `done` | `done` |
-| BHS INGGRIS      | `done` | `done` |
-| KEAMANAN JARINGAN       | `done` | `done` |
-| JARINGAN KABEL & NIRKABEL      | `done` | `done` |
-| B. INDONESIA      | `done` | `done` |
-| PENJASOR      | `done` | `done` |
-| PEND. PANCASILA      | `done` | `done` |
-| B. SUNDA      | `done` | `done` |
-| PKK       | `done` | `done` |
-| PPJ      | `done` | `done` |
-| PKPJ      | `done` | `done` |
-| JEPANG      | `done` | `done` |
+| AGAMA      | `DONE ✅` | `DONE ✅` |
+| SEJARAH    | `DONE ✅` | `DONE ✅` |
+| ADM. SISTEM JARINGAN (ASJ)      | `DONE ✅` | `DONE ✅` |
+| MTK      | `DONE ✅` | `DONE ✅` |
+| ANIMASI MANUAL      | `DONE ✅` | `DONE ✅` |
+| BHS INGGRIS      | `DONE ✅` | `DONE ✅` |
+| KEAMANAN JARINGAN (kj)       | `DONE ✅` | `DONE ✅` |
+| TEK. JARINGAN KABEL & NIRKABEL (TJKN)      | `DONE ✅` | `DONE ✅` |
+| B. INDONESIA      | `DONE ✅` | `DONE ✅` |
+| PENJASOR      | `DONE ✅` | `DONE ✅` |
+| PEND. PANCASILA      | `DONE ✅` | `DONE ✅` |
+| B. SUNDA      | `DONE ✅` | `DONE ✅` |
+| PKK       | `DONE ✅` | `DONE ✅` |
+| PERENCANAAN & PENGALAMATAN JARINGAN (PPJ)      | `DONE ✅` | `DONE ✅` |
+| PEMASANGAN & KONFIGURASI PERANGKAT JARINGAN (PKPJ)      | `DONE ✅` | `DONE ✅` |
+| JEPANG      | `DONE ✅` | `DONE ✅` |
 
 
 
