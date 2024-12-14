@@ -1,0 +1,282 @@
+Daftar Soal
+Topik = MJT-X-TKJ-SAS GANJIL
+1 	Apa yang dimaksud dengan media jaringan ? 	
+		Perangkat lunak untuk mengelola jaringan 	
+		Alat untuk mempercepat koneksi internet 	
+	Benar 	Sarana untuk mentransmisikan data dalam jaringan 	
+		Proses pengaturan jaringan lokal 	
+		Metode untuk mengoptimalkan bandwidth 	
+----------------------------------------------------------------------------
+2 	Contoh media transmisi kabel adalah... 	
+	Benar 	Serat optik 	
+		Bluetooth 	
+		Wi-Fi 	
+		Infrared 	
+		Gelombang mikro 	
+----------------------------------------------------------------------------
+3 	Fungsi utama dari switch dalam jaringan adalah... 	
+	Benar 	Menghubungkan perangkat pada jaringan lokal 	
+		Mengatur alamat IP perangkat 	
+		Menyaring data yang masuk 	
+		Membuat koneksi nirkabel 	
+		Menyediakan akses internet 	
+----------------------------------------------------------------------------
+4 	Kabel UTP terdiri dari berapa pasang kabel ? 	
+		2 	
+	Benar 	4 	
+		6 	
+		8 	
+		10 	
+----------------------------------------------------------------------------
+5 	Standar konektor untuk kabel UTP adalah... 	
+		RJ-15 	
+		RJ-25 	
+		RJ-35 	
+	Benar 	RJ-45 	
+		RJ-55 	
+----------------------------------------------------------------------------
+6 	Apa yang dimaksud dengan wireless dalam jaringan ? 	
+	Benar 	Jaringan tanpa kabel 	
+		Jaringan berbasis kabel tembaga 	
+		Jaringan yang menggunakan fiber optik 	
+		Jaringan dengan bandwidth tinggi 	
+		Jaringan yang menggunakan server 	
+----------------------------------------------------------------------------
+7 	Kepanjangan dari UTP yang tepat adalah ….. 	
+		Unshieldes Twistes Pair 	
+	Benar 	Unshielded Twisted Pair 	
+		Unshielder Twister Pair 	
+		Unshielded Twisted Paired 	
+		Unshielded Twisted Paires 	
+----------------------------------------------------------------------------
+8 	Berikut susunan kabel UTP yang biasa digunakan dalam kabel jaringan ….. 	
+		Putih Orange – Orange – Putih Biru – Biru – Putih Hijau – Hijau – Putih Coklat - Coklat 	
+		Putih Orange – Orange – Putih Hijau – Hijau – Putih Biru – Biru – Putih Coklat - Coklat 	
+		Putih Orange – Orange –Putih Biru – Hijau - Putih Hijau – Biru – Putih Coklat - Coklat 	
+	Benar 	Putih Orange – Orange – Putih Hijau - Biru – Putih Biru - Hijau – Putih Coklat - Coklat 	
+		Putih Orange – Coklat – Putih Biru – Biru – Putih Hijau – Hijau – Putih Coklat - Orange 	
+----------------------------------------------------------------------------
+9 	Kabel yang memiliki urutan pemasangan yang sama di kedua ujungnya adalah jenis kabel….. 	
+		UTP 	
+		STP 	
+		NTP 	
+	Benar 	Straight 	
+		Cross 	
+----------------------------------------------------------------------------
+10 	Kabel yang digunakan untuk menghubungkan dua perangkat yang sama secara langsung dan memiliki susunan warna yang berbeda pada setiap ujungnya ….. 	
+		UTP 	
+		STP 	
+		NTP 	
+		Straight 	
+	Benar 	Cross 	
+----------------------------------------------------------------------------
+11 	Perbedaan utama antara kabel STP dan UTP adalah ... 	
+		UTP lebih mahal daripada STP 	
+	Benar 	STP memiliki lapisan pelindung tambahan 	
+		UTP lebih cepat dibandingkan STP 	
+		STP hanya digunakan pada jaringan nirkabel 	
+		UTP digunakan untuk koneksi internet 	
+----------------------------------------------------------------------------
+12 	Kabel yang sering digunakan untuk jaringan lokal adalah... 	
+	Benar 	UTP 	
+		b. Fiber optik 	
+		c. Coaxial 	
+		d. Powerline 	
+		e. Twinaxial 	
+----------------------------------------------------------------------------
+13 	Untuk membuat kabel jaringan baik itu Straight maupun Cross maka diperlukan beberapa peralatan, kecuali ….. 	
+		gunting atau pisau pemotong kabel 	
+		lan tester 	
+	Benar 	tang lancip 	
+		tang krimping 	
+		RJ45 	
+----------------------------------------------------------------------------
+14 	Alat yang digunakan untuk menguji kabel UTP yang telah terpasang, apakah sudah bekerja dengan normal atau belum yaitu ….. 	
+		Gunting atau Pisau pemotong kabel 	
+	Benar 	LAN Tester 	
+		Tang Lancip 	
+		Tang Krimping 	
+		RJ-45 	
+----------------------------------------------------------------------------
+15 	Serangkaian angka yang berfungsi sebagai identitas perangkat yang terhubung ke jaringan computer disebut dengan ….. 	
+		AP 	
+		OP 	
+	Benar 	IP 	
+		TP 	
+		UP 	
+----------------------------------------------------------------------------
+16 	Rentang dari IP kelas A adalah ….. 	
+	Benar 	0 - 127 	
+		0 - 128 	
+		128 - 191 	
+		192 - 223 	
+		192 - 225 	
+----------------------------------------------------------------------------
+17 	Rentang dari IP kelas B adalah ….. 	
+		0 - 127 	
+		0 - 128 	
+	Benar 	128 - 191 	
+		192 - 223 	
+		192 - 225 	
+----------------------------------------------------------------------------
+18 	Rentang dari IP kelas C adalah ….. 	
+		0 - 127 	
+		0 - 128 	
+		128 - 191 	
+	Benar 	192 - 223 	
+		192 - 225 	
+----------------------------------------------------------------------------
+19 	IPv4 yang sering digunakan dalam jaringan computer adalah IP Kelas ….. 	
+		A 	
+		B 	
+	Benar 	C 	
+		D 	
+		E 	
+----------------------------------------------------------------------------
+20 	Apa kepanjangan dari ISP 	
+	Benar 	Internet Service Provider 	
+		Internet System Protocol 	
+		Internal Server Protocol 	
+		Integrated System Provider 	
+		Internet Speed Program 	
+----------------------------------------------------------------------------
+21 	Perangkat yang menghubungkan jaringan dengan menggunakan alamat IP disebut ... 	
+		Hub 	
+	Benar 	Router 	
+		Switch 	
+		Repeater 	
+		Access Point 	
+----------------------------------------------------------------------------
+22 	Manakah di bawah ini yang bukan media transmisi kabel ? 	
+		UTP 	
+		STP 	
+		Coaxial 	
+		Fiber Optik 	
+	Benar 	Infrared 	
+----------------------------------------------------------------------------
+23 	Kabel straight digunakan untuk menghubungkan perangkat-perangkat berikut, kecuali: 	
+		Komputer ke switch 	
+		Router ke switch 	
+	Benar 	Komputer ke komputer 	
+		Modem ke router 	
+		Komputer ke hub 	
+----------------------------------------------------------------------------
+24 	Perangkat berikut memerlukan kabel cross untuk koneksi, kecuali ..... 	
+		Komputer ke komputer 	
+		Switch ke switch 	
+		Hub ke hub 	
+	Benar 	Komputer ke hub 	
+		Router ke router 	
+----------------------------------------------------------------------------
+25 	Apa kepanjangan dari LAN ? 	
+	Benar 	Local Area Network 	
+		Long Access Network 	
+		Localized Application Network 	
+		Line Access Node 	
+		Linear Area Network 	
+----------------------------------------------------------------------------
+26 	Apa fungsi utama dari protokol TCP/IP ? 	
+		Mengelola file dalam jaringan 	
+	Benar 	Mengatur pengiriman data antar komputer dalam jaringan 	
+		Mengubah sinyal analog menjadi digital 	
+		Mendistribusikan bandwidth dalam jaringan 	
+		Mengatur koneksi Wi-Fi 	
+----------------------------------------------------------------------------
+27 	Keunggulan menggunakan jaringan nirkabel (wireless) adalah ? 	
+		Lebih murah dibanding kabel 	
+		Lebih stabil dibanding jaringan kabel 	
+	Benar 	Fleksibel dan mudah diakses 	
+		Tidak memerlukan perangkat tambahan 	
+		Tidak terpengaruh interferensi 	
+----------------------------------------------------------------------------
+28 	Kelebihan kabel fiber optic dibanding kabel lain adalah ? 	
+		Biayanya lebih murah 	
+		Tahan terhadap cuaca ekstrem 	
+	Benar 	Kecepatan transfer data sangat tinggi 	
+		Mudah dipasang dan diperbaiki 	
+		Sinyalnya tidak terpengaruh oleh interferensi 	
+----------------------------------------------------------------------------
+29 	Kabel jaringan yang menggunakan konektor RJ-45 adalah ? 	
+		Kabel coaxial 	
+		Kabel STP 	
+	Benar 	Kabel UTP 	
+		Kabel Fiber Optic 	
+		Kabel listrik 	
+----------------------------------------------------------------------------
+30 	Di bawah ini adalah contoh media transmisi tanpa kabel, kecuali ? 	
+		Wi-Fi 	
+		Bluetooth 	
+	Benar 	c. Fiber Optic 	
+		Infrared 	
+		Gelombang Mikro 	
+----------------------------------------------------------------------------
+31 	Apa fungsi utama dari Cisco Packet Tracer? 	
+		Mengatur perangkat keras jaringan 	
+	Benar 	Menyediakan simulasi dan pembelajaran jaringan komputer 	
+		Menyediakan koneksi langsung ke internet 	
+		Mengatur konfigurasi firewall 	
+		Membuat aplikasi untuk jaringan 	
+----------------------------------------------------------------------------
+32 	Apa yang dimaksud dengan perangkat "Router" dalam Cisco Packet Tracer? 	
+	Benar 	Perangkat yang menghubungkan beberapa jaringan dan mengarahkan data di antaranya 	
+		Perangkat yang menghubungkan komputer ke internet 	
+		Perangkat yang menyambungkan perangkat ke LAN 	
+		Perangkat yang memonitor keamanan jaringan 	
+		Perangkat yang mengatur trafik antar perangkat dalam satu jaringan 	
+----------------------------------------------------------------------------
+33 	Apa fungsi utama dari perangkat "Switch" dalam jaringan ? 	
+		Menghubungkan dua jaringan yang berbeda 	
+	Benar 	Menghubungkan perangkat dalam satu jaringan dan mengarahkan data ke perangkat tujuan 	
+		Meningkatkan kecepatan internet 	
+		Mengatur konfigurasi IP pada jaringan 	
+		Menyaring data yang keluar dari jaringan 	
+----------------------------------------------------------------------------
+34 	Apa yang dimaksud dengan "IP Address" ? 	
+		Alamat fisik perangkat dalam jaringan 	
+	Benar 	Alamat logis perangkat yang digunakan untuk mengidentifikasi perangkat dalam jaringan 	
+		Alamat yang digunakan untuk menghubungkan perangkat dengan internet 	
+		Nama pengguna untuk mengakses jaringan 	
+		Alamat yang digunakan untuk mengirim email 	
+----------------------------------------------------------------------------
+35 	Dalam Cisco Packet Tracer, perangkat apa yang digunakan untuk menghubungkan perangkat dalam satu jaringan lokal? 	
+		Router 	
+	Benar 	Switch 	
+		Hub 	
+		Modem 	
+		Wireless Access Point 	
+----------------------------------------------------------------------------
+36 	Perangkat manakah yang digunakan untuk menghubungkan beberapa jaringan berbeda dalam Cisco Packet Tracer? 	
+		Switch 	
+		Hub 	
+	Benar 	Router 	
+		Repeater 	
+		Wireless Router 	
+----------------------------------------------------------------------------
+37 	Pada Cisco Packet Tracer, untuk menghubungkan perangkat jaringan menggunakan kabel, apa jenis kabel yang digunakan untuk menghubungkan router ke switch? 	
+		Kabel Coaxial 	
+	Benar 	Kabel Straight-through 	
+		Kabel Rollover 	
+		Kabel Cross-over 	
+		Kabel Fiber Optic 	
+----------------------------------------------------------------------------
+38 	Apa yang dimaksud dengan "Default Gateway" ? 	
+	Benar 	Alamat IP dari perangkat yang menghubungkan jaringan ke luar 	
+		Nama server DNS untuk koneksi jaringan 	
+		Nama perangkat yang mengelola perangkat dalam jaringan 	
+		Alamat IP dari perangkat yang bertanggung jawab untuk routing data dalam jaringan 	
+		Alamat IP perangkat yang digunakan untuk login ke perangkat jaringan 	
+----------------------------------------------------------------------------
+39 	Dalam konfigurasi dasar router di Cisco Packet Tracer, perintah apa yang digunakan untuk mengkonfigurasi alamat IP pada antarmuka router? 	
+		set ip address 	
+		ip config 	
+	Benar 	ip address 	
+		interface ip 	
+		ip set 	
+----------------------------------------------------------------------------
+40 	Apa yang dimaksud dengan DHCP (Dynamic Host Configuration Protocol) ? 	
+		Protokol untuk menentukan alamat IP secara manual 	
+	Benar 	Protokol untuk mengonfigurasi alamat IP secara otomatis pada perangkat 	
+		Protokol untuk memblokir akses ke jaringan 	
+		Protokol untuk mengelola perangkat keras jaringan 	
+		Protokol untuk menghubungkan perangkat ke internet 	
+----------------------------------------------------------------------------
